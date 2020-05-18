@@ -1,6 +1,6 @@
 # Design-Channels Research Project
 
-This repository provides complementary files related to a research project on open source design.  
+This repository provides complementary files related to a research project on open source design. This work is based on the Theis work of Kevin Lumbard. The data used in this study was extracted using the Augur.
 
 Inquiries should be directed to Kevin Lumbard - klumbard@unomaha.edu
 
