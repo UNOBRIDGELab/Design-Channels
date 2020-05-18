@@ -1,0 +1,3273 @@
+pull_request_id,pr_src_title
+226224,Added a map to Picker API to consolidate Pickers of all localities
+216751,Update debian/sid with changes from release 0_11
+219264,grpc-thrift compat
+216375,"Initial Doxygen import for core, c++"
+216804,Update debian/backports with current debian/sid
+227916,Use boringssl non-developer cmake build.
+217541,Update debian/sid to relase-0_12_0
+219510,Update debian/sid branch for v1.0.0
+223231,Use indent as the auto-formatter
+216229,Initial C/C++ reference documentation
+216595,Endpoints refactoring redux
+216616,Cleaning up our build process for windows a little
+223185,Update Node API docs to v1.8.4
+217378,Re-cutting the 0.12 release from master.
+220649,Change ssl_server_fuzzer.c to allow running on oss-fuzz
+215315,Switches sample app to remote specs
+216380,Pushing the generated documentation on gh-pages.
+222388,Partial revert of vsprojects removal
+218386,Throw exception if not lower case Metadata.Entry.Key.
+228568,Update C++ documentation for 1.28.0
+216667,Daily Release 0.11 upport to master
+216717,Update debian install instructions
+218949,Use correct 'buffer_size_bytes' variable name
+217568,Backport BoringSSL + Python gRPC packaging to 0.12
+223545,Update C++ and Core documentation to 1.10.0
+217428,Merge core end2end tests by fixture
+216701,Regenerated doxygen after #3227
+217402,BoringSSL integration
+216684,Switch to indent-based formatting
+216697,Update documentation
+222214,Updated docs to 1.6.0
+220570,Make cmake search for preinstalled protobuf packages in package mode and use officially documented variable names for getting library names
+222155,Update C# API reference
+219427,Updating C++ and core documentation to 1.0.
+221617,Change bound port to get Node distrib tests to work again
+216275,Auto-update Python documentation
+218327,Fix a memory leak caused by the obvious way of using server APIs
+226644,Run gRPC C++ tests on iOS
+227689,Add Objective-C API refernce
+224110,Add C# docs for 1.12
+227275,Add generated API docs for grpc-dotnet
+221581,Changing license to Apache v2
+218109,Update gh-pages to 0.13
+227501,Use subtree on upb instead of submodule
+227540,"Backport ""Use subtree on upb instead of submodule #20662"""
+220678,Changing license to Apache v2.
+223010,Update docs for Python and C/C++ to 1.8.0
+227432,Update PHPUnit4.8 to PHPUnit5.7 and README
+216169,Updating debian/sid with the 0.10.0 release.
+218485,Add support for establishing client channel using existing FD
+215940,Bring the debian/sid branch up to date with upstream master
+223651,add ALTS kokoro tests
+219564,Add docstrings in Beta elements in python_generator.cc
+219356,[C-API] server
+215847,Improvements to Debian packaging targeting unstable
+221279,Doc updates 1.3.0
+217748,Fix Metadata.cs for coreclr
+219699,Upmerge from 1.0.x
+222723,Update clang-format to 5.0
+212204,Docker
+227721,Change channelz code to use nlohmann::json library.
+226561,c++ doc update
+216507,Added node documentation
+223586,Add ALTS code to grpc/core
+223585,Add ALTS code to grpc/core
+223427,Add ALTS C stack to gRPC core
+223584,"Revert ""Revert ""Add ALTS C stack to gRPC core"""""
+219435,Use signature instead getargspec
+223576,test MSAN
+219668,Nanopb code drop
+218378,Core API fuzzer
+225614,New docs for v1.18.0
+216936,μChannels implementation.
+221159,Retry support
+228178,Autogenerate build.yaml equivalent from bazel BUILD metadata (with bazel query xml)
+217327,Expand census coverage: make this a fixture instead of a simple test
+220917,Merge from v1.2.x to master
+215453,Fixes build problem in the ObjC sample client and adds local tests
+221710,Update Node API docs to 1.4
+216661,Add back examples to release-0_10 branch
+216606,Move grpc common examples here
+217098,update core and c++ doc to 0_11
+219631,"Add a libuv endpoint to the C core, for use in the Node library"
+219910,Add resource quota configuration to API fuzzer
+228157,Experiment: getting rid of build.yaml
+218290,Adding memory leak detections for the json fuzzer.
+218293,Run fuzzer corpus entries as unit tests
+217103,Core transport & call cleanup
+217124,Hpack crash fix
+220979,Fix oss-fuzz/961
+217220,Fix dependency violations
+221083,RFC: Auto conversion of .c to .cc files
+224835,Regenerate docs (C/C++) for v1.15.0
+223828,move generated CMake targets to /cmake/generated/generated.cmake
+228444,Backport #22104 to 1.28
+227639,Debian/dev
+216853,Update debian/backports with changes from release 0_11_1
+216761,Debian sid remove docs
+216664,Refactor Endpoint API
+224639,Update Node docs to version 1.14.0
+227924,Update C++ documentation for v1.26.0.
+216762,Removes reference docs
+217938,Backport merge.
+222960,"Revert ""All instances of exec_ctx being passed around in src/core removed"""
+218636,Pyformat Python code
+212171,New Core API
+220900,Update generated C# docs to 1.2.0
+216613,Auto-generated phpdoc
+220302,Enable yapf (Python formatting)
+227272,Update boringssl and boringssl-with-bazel
+218682,"Fix some fuzzing bugs, expand corpora"
+211960,clang-format codebase
+216861,Remove docs from master
+216833,Rearchitect background work: phase 1
+218499,Unifying error handling within core
+215448,Run capable test suites against grpc_unsecure
+223308,gRPC C++ Public Header Directory Change
+226304,Update C-Core/Cpp documentation to v1.20.0
+218125,Pre 0.13.1 downmerge
+218841,DNM: Handshake timeout
+216817,Add gyp file for compiling C core
+224667,Make BoringSSL symbols private to gRPC in Obj-C so there is no conflict when linking with OpenSSL.
+228272,WIP: Get protobuf packages working with Go
+222995,Yapf tools/
+222961,"Revert ""Revert ""All instances of exec_ctx being passed around in src/core removed"""""
+222606,All instances of exec_ctx being passed around in src/core removed
+216556,C# add generated docs
+222376,Converting src/core files to use cc
+216607,add C# generated docs
+228078,Delete api_fuzzer
+218270,Begin core componentization
+224069,Update reference doc to 1.12.0
+220402,Re-integrate metadata handling changes
+225957,C++ regen docs
+217338,Add tests for pipe usage
+217552,Support mixing sync and async method in the same service + Separation of core from proto compiler output
+228307,Cherrypick #22147: xds: send no-overprovisioning client capability and populate user_agent fields
+226908,Added experimental tvOS and watchOS support
+228283,xds: send no-overprovisioning client capability and populate user_agent fields
+217525,Updating C/C++ documentation to 0.12.
+216735,Finally truly disable PDB generation on Jenkins
+216875,Disable PDB generation on Jenkins
+216005,Add a test that headers are properly in build.json
+222778,Convert all uses of NULL to nullptr
+217214,Make native nuget packages VS2015 ready 
+223361,Regenerate C++ Documentation
+219908,Repair fuzzers
+217413,Polish vcxproj files
+225210,Update the Python documentation to v1.16.0
+228279,RFC: adds native support for Kotlin 
+218326,Full stack server fuzzer
+219157,[C-API] runtime
+219267,[C-API] client
+212066,Bring the rest of Python RPC Framework into GRPC.
+218340,Added fuzzers for load_balancer_api parsing functions
+216765,Auto-update Python documentation
+219151,Automatic v1.0.x -> master upmerge.
+226889,remove unused-parameter warnings in C++
+218852,Disable fuzzed tests on TSAN
+220370,CMake: Enable building of test targets
+224387,Regenarated doc pages for C/C++
+223563,Abstract libuv event loop
+227809,Add LDS/RDS into XdsClient
+220060,Metadata handling rewrite
+215714,First cut of Debian packaging
+221417,"Revert ""Revert ""Implement Server Backward Compatibility"""""
+223232,Rough first pass of grpc-on-grpc tunneling
+221253,Implement Server Backward Compatibility
+221344,Roll up of all new polling engines
+224934,Generated c# docs for v1.15.0
+227565,CMake style fixes
+222163,Expose more stats
+218556,Proto server reflection
+222743,Add address sorting submodule for use in c-ares wrapper
+217266, stop using _USE_32BIT_TIME_T and autodetect PlatformToolset on VS2015
+227280,Add linux support to generate_grpc_shadow_boringssl_symbol_list.sh
+222162,Expose stats into qps_driver
+225615,fixed gh-pages for 1.18.0
+223133,Update BoringSSL submodule
+212269,Copyright checker
+228556,Auto-update Python documentation for 1.28.1
+228528,Auto-update Python documentation for 1.28.0
+218744,Reflection sanity check
+223332,"Revert ""Update BoringSSL submodule"""
+221794,Implement stream compression - configuration and negotiation
+212310,Import ios library
+228088,Reintroduce #21527 (boringssl submodule unification)
+227928,Unify boringssl submodules and use non-developer boringssl cmake build
+222521,Update boringssl to 751d1a1c22631b506b3e9bab8ca7fd8bcc1f8edb
+221211,V1.3.x
+221274,Upmerge v1.3.x to master
+227149,Update boringssl and boringssl-with-bazel to latest master
+222635,Update boringssl submodule version
+221265,"Revert ""Merge branch 'master' into v1.3.x"""
+227549,Upgrade to bazel 1.0.1
+228094,"Revert ""Reintroduce #21527 (boringssl submodule unification)"""
+228045,"Revert ""Unify boringssl submodules and use non-developer boringssl cmake build"""
+217007,Start simplifying chttp2 unlock()
+217006,Extend metadata work to eliminate the garbage list
+222393,Move h2_ssl_cert_tests out of fixtures and shard them
+219914,Add credentials creation to api_fuzzer
+221859,Add a simple stats framework to gRPC C core
+220398,"Revert ""Metadata handling rewrite"""
+227567,Add Objective-C Doxygen Documentation
+227640,Port #20767: Add Objective-C Doxygen Documentation
+217657,Make ruby installable
+221423,In-process transport
+219412,c-ares windows build test
+228248,Experimental service and replacement driver in Go
+215743,Initial Doxygen configuration
+226748,Update Google Benchmark to get CMake < 3.6 fix
+222379,Update BoringSSL submodule
+219772,New streams
+219560,Move back to a mostly-single-threaded http2 transport
+218339,Check dependencies between filegroups
+226353,DO NOT MERGE
+218307,Remove year range requirement for copyright checker
+226547,Remove Python 2
+216383,C++ propagation API
+218001,Splitting out a pure poll() based event engine
+216335,Core-supported context propagation
+228119,Reintroduce #21527 (boringssl submodule unification - take two)
+221411,In-process transport (tests not yet passing)
+224560,Rolling out new API for gRPC Objective-C library
+219368,v1.0.x -> master automatic upmerge
+228161,Upb update
+224812,DRAFT - Incorporate SPIFFE transport security to gRPC core
+219632,"Extend sweeps further, add streaming"
+215336,Created Visual Studio 2010 project files.
+212287,Imports Objective-C library
+223958,Add ALTS fuzzer tests
+220560,PHP: Update generated API docs
+220466,Fix bug in api_fuzzer
+220759,"PHP benchmarking performance client, proxied through Ruby"
+226282,Secure GRPC with callbacks
+218364,Server builder plugin and reflection service
+218365,Server builder plugin and reflection
+218941,Update C# generated docs to 0.15 release
+219742,Support service configs in core.
+216520,"Add API tracing, coalesce surface+batch tracing"
+218381,Server builder plugin and server reflection
+215951,Compression implementation
+218478,Initial bazel work.
+222794,Start disabling C-style casts
+220344,Update boringssl
+219773,1.0.1rc1 Python documentation
+224179,Load reporting filter
+218205,Fuzzer support
+217264,Stop using _USE_32BIT_TIME_T on Windows.
+218369,Fuzzing client
+216001,Client configuration for core
+219421,Async DNS resolver with pre-configured c-ares
+226040,Add BUILD rule and generated upb code for protos required to do Discov…
+211962,Node codebase
+223788,Android C++ Interop App
+224129,add GA tracking snippet to CPP docs
+220467,Dont crash on API errors
+217173,Performance proto polishing
+226780,"Move grpc async, callback and sync implementation to grpc_impl namespace"
+219881,Rename gpr_slice --> grpc_slice
+217909,Decouple filter selection from channel construction
+223266,Remove and Prohibit C Style Casts
+217152,Support dynamic HPACK table resizing
+221669,Updated Core and C++ docs for 1.4.0
+226774,Mover async and callback implementation to impl namespace
+219322,HTTP CONNECT handshaker
+228207,Experimental service and driver replacement in Go
+216188,Client connectivity API
+217418,Remove unused vsprojects
+217813,Bring back gpr
+220409,Test the bazel rule for c-ares
+217417,Make intermediate directory path shorter than 260characters
+223288,GPR review: Privatize useful.h and avl.h
+226088,Build BoringSSL tests as BoringSSL does.
+217168,Provide performance workers for C#
+212369,Adding roots.pem from Mozilla and associated logic.
+219700,Resource quotas
+225405,Update the code generation script for xds-api
+217981,Move all event handling code behind one grand unified interface
+220889,Make fuzzers run on mac (but not on mac on jenkins)
+219951,Add a fuzzer for ssl server side
+223143,Prototype metadata changes
+219540,Grpc tracing
+221657,HHVM Extension Support
+224906,dont use mktemp on aix as it does not exist
+212168,Prototype of gRPC C# library (Core and API examples)
+225149,Add doxygen generator for Objective-C
+218967,Updated Python documentation for 0.15.0 release
+226513,DO NOT MERGE: use kokoro env variable to get the PRs target branch
+215770,Add doxygen setups for internal documentation
+219229,Add checking of return value of byte_buffer_reader_init in csharp
+219251,V1.0.x merge into master
+220037,Test initializing c-ares library at grpc_init 
+219348,Async DNS resolver
+219413,c-ares build test
+212109,Migrate the last of the Python code from Google-internal source control to git.
+217948,Auto-update Python documentation
+222661,Convert test/core to C++
+227952,Yapf all target python sources
+219964,Test the portability test for native resolver   
+215466,"Adds TLS support to the ObjC library, and tests against the remote gRPC server"
+218991,C++ windows tests linking
+215867,Rename Completion Queue to Poller
+217191,Generic immutable AVL tree
+219498,Test grpc_ares_ev_driver_posix with mutex
+212094,Initial prototype of C# wrapping layer for C core library
+218227,Load Reporting hook
+224976,Experimental API for Client and Server Interception
+226097,Generate upb code for cds protos and BUILD rule changes
+212031,Merge latest changes from master branch
+215440,Batch metadata
+228511,Clean/remove getters
+225336,Extend local channel/server credentials to support TCP loopback
+218973,Make the testing scripts executable on Python 3.x 
+219992,Slice interning
+223879,Break qps services into seperate protos
+212012,Merge latest into new_invoke_api
+221408,"Revert ""Implement Server Backward Compatibility"""
+217908,Filter selection
+217253,Merge Release 0.12 into master
+221174,EPOLLEXCLUSIVE polling engine
+212201,Adding interop client for C#
+223334,Add BoringSSL tests
+219474,Merge combiner and exec_ctx execution better
+225538,Allow duplicates in SSL root certificate list
+216397,Reduce mac CI load
+217258,Merge release-0.12 into master
+219554,Change the file mode.
+221924,Clean up grpc++_unsecure so that it doesn't require secure content anymore
+226725,Building ubp in Bazel properly.
+226963,Add upb
+227154,"Revert ""Revert #19704 and #20060"""
+228269,Refactor xds LB policy
+217274,Ping support for channels
+218418,"Expand corpora, improve dictionary"
+219434,Merge parse phase of chttp2 into the main transport lock
+221870,Increase size of core large message test
+222916,Downmerge of master to 1.8
+217044,Added per-test XML reports for Node tests on Jenkins
+225333,Changes add a script for generating C code and build rule for protobuf
+219987,Fix slice/exec_ctx interactions
+215958,Initial transport lock split up
+223859,Implementation of CFStream
+224104,Experimental test with Kokoro
+226909,Make gRPC Core as plugin of gRPC ObjC wrapper
+222655,Add Python support for server SSL cert reloading
+217481,Merge release-0_12 into master
+219443,Upmerge from v1.0.x
+218675,Add support for communication using existing FD (for client and server)
+212244,Rebinding of C++ API to the new C core API
+227238,Regenerate C# API reference for v2.23.0
+219022,Return success status of grpc_byte_buffer_reader_init
+215635,Remove backup poller from GRPC core
+221394,Fix CMake (and probably other build systems) build of grpc++
+220984,"Reinstate filegroup dependency checks, fix fallout"
+215930,Fix _intermediary_low_test in the context of #1577
+225777,C# Unity example
+221689,Remove /vsprojects pre-generated projects in favor of cmake
+222100,DO NOT MERGE: Trigger tests for #11598
+220655,Implement NodeJS client interceptor framework
+218274,Optionalize chttp2
+212336,Adds Podspec for GRPCClient
+223489,Sanity check for inclusion of port_platform.h
+218857,gRPC LB policy
+218407,Initial Python QPS Worker
+225952,Add upb generated protos and build it with required upb build changes
+212049,Replacing cJSON with our own code instead.
+219060,Added missing dependencies to grpc++_base
+217950,Add a sanity test to ensure that name aliasing rules are obeyed
+218554,Refactoring the core security code.
+220222,Direct placement & incremental read/write
+220410,Big improvements to CMake build
+221929,Actually test grpc++_unsecure
+225855,Add SPIFFE security stack to gRPC 
+222909,Backport changes from master (upmerge v1.7.x) to v1.8.x and bump pre1 to pre2
+226223,Cherrypick #18115 to v1.19.x
+215660,Cleanup in CHTTP2
+226222,Cherrypick #18115 to v1.19.x
+226221,V1.19.x 18115
+217442,Add a test to ensure public core headers are C89
+217518,Merge Release 0.12 branch back into master
+212267,Add support for out of tree builds
+219884,Change tests to use channel args instead of fake_resolver query args.
+217885,Added codegen_lib
+215622,Overhaul Python C layer
+218151,Merge massaging
+221177,Large message
+225279,"Move security credentials, connectors, and auth context to C++"
+219420,update csharp docs to status at pre2 release
+221789,Added C++ test cases and docker setup to the matrix
+217425,Regenerate C# docs for 0.12 release
+224653,"DO NOT MERGE: testing ""Integrate Grpc.Tools into msbuild system"""
+222697,Integrate Grpc.Tools into msbuild system (C# only)
+226958,Added experimental tvOS and watchOS support
+216025,Cython refactor of Python C wrapping layer
+219112,[C-API] runtime
+219111,[C-API] runtime
+223375,"Revert ""Disabled the json_run_localhost:*_low_thread_count family of tests"""
+217029,C# ref docs should not be in master branch
+225836,"Revert ""LB policy picker API"""
+216863,Python documentation 0.11.0b1
+224991,Add new grpc lb plugin 'xds'
+220072,Draft of C# server reflection
+223062,Testing
+219313,grpc thrift integration
+219907,Hpux port (was port GRPC to HPUX 11.31 OS (ia64))
+218403,Add a dictionary for fuzzing
+223860,Adding opencensus grpc plugin with bazel support
+218945,Move security code out into an extension
+218756,Python GA channel and server
+224990,Add new grpc lb plugin 'xds'.
+224989,Add new grpc lb plugin 'xds'.
+223199,Split lib/support into lib/gpr and lib/gpr++.
+219630,Add sweeps over outstanding request count
+226337,Implement L50: Objective-C Interceptor
+217411,Support for cross-platform C# Grpc for .Net Bigtable driver
+219406,grpc++_unsecure shouldn't depend on grpc but on grpc_unsecure.
+224385,Implement local channel/server credentials for UDS connections
+223012,Backport #13604 to v1.8.x
+221432,Implement LB policy updates
+216488,The RPC Framework core package.
+220919,Channel Tracing
+223219,"Revert ""Split lib/support into lib/gpr and lib/gpr++."""
+218605,Backport node protoc examples
+218551,Split Node examples into static and dynamic code generation examples
+216547,A test suite for the RPC Framework Face interface
+222394,"Minimized library: unsecure, no a-res, no LB, with a test"
+215786,Make it possible to run with poll() instead of epoll()
+222414,PHP benchmark: report histogram and unconstrained scenarios
+226847,Bazel objc
+223858,Update run tests instructions
+221280,Update Node generated docs to 1.3.0
+227059,Mv proto (DO NOT MERGE)
+220921,Merge V1.2.x to master
+218402,"Fix client side response path crash, expand corpora"
+215375,Windows fixes
+223128,Create Cocoapods podspec for gRPC C++ repo
+227043,Move proto files for testing to test/
+219342,Finish up offload story
+225619,update C# generated docs to v1.18.0
+222203,Write completion stats
+219075,Grand unified closures
+219597,"Revert ""Revert ""Grand unified closures"""""
+217431,Switch to using C99 types for fixed size integers
+223014,Upmerge v1.8.x into master
+222366,"Roll-up: Flow control changes, and internal timing changes"
+226699,Use LRS to do client-side load reporting
+222328,add support for SSL credentials reloading on server
+219118,Load Reporting Core new features
+212536,see if python builds without virtualenv
+220794,"Redo bm_fullstack split, fixing mac build"
+222063,Adding a build template for generic GYP build.
+220744,"Split bm_fullstack into pieces, reuse infrastructure across other microbenchmarks"
+226340,Revamp server-side callback API and message allocator API
+218702,moved core_codegen from src/cpp/... to include/grpc++/...
+219423,Percent encoding routines
+220945,Max age for server channels
+220666,Upmerge 1.1.x into master
+218050,Prototype build.yaml driven performance testing
+220932,Upmerge from 1.2.0
+220284,Bazel integration
+227524,"Remove unused-parameter warnings, round 2 (14 of 19)"
+215950,Begin Cython refactor of Python C wrapping layer
+224890,Add a grpclb-in-DNS interop test suite
+220599,Improve Node and libuv testing and test coverage
+227708,Fix filegroup 'use' relationship in build.yaml
+216491,clang-format all source
+227723,Port #20988
+216031,links interface and gRPC-on-wire implementation
+227696,Default reactor test peer
+218221,Update clang-format to 3.8
+226269,Use EDS in xDS policy
+216374,Reduce mac load on Jenkins
+217509,Re-run generate_projects.py
+226453,Add API for accessing per-call backend metric data in LB policies.
+218344,Add experimental CoreCLR support
+223089,C++ LB policy API
+226851,Added grpc-protos & alts to upb-generated
+227693,Unary reactor server callback server context
+224324,WIP: Recv ops revamp
+221346,Lb update servers WIP
+228399,Backport xDS Bug Fixes and Test Improvements
+216992,Core credentials API refactoring
+218264,Add various options to verify ssl/tls client cert including letting the application handle the authentication.
+224033,Channelz Part 1: Support for GetChannel
+227151,Revert #19704 and #20060
+223107,Upgrade yapf to 0.20.0
+222892,Move GPR code to a better place
+221233,Limit the number of threads doing epoll at any given time
+218783,New epoll based polling implementation
+217996,Create a protoc plugin for Node.js gRPC
+226833,Add Cronet C++ tests and example iOS app
+225583,Memory leak test for PHP unit tests
+221398,V1.3.x
+222748,[test]
+219045,Upmerge from the 0.15 branch.
+216292,Experimental Endoscope Profiling
+220478,Update Python docs to 1.1.0
+225839,Second attempt: LB policy picker API
+220470,"Revert ""Dont crash on API errors"""
+221014,Working towards enabling a minimal stack
+227013,Added google/protobuf/descriptor.upb.* to google_api_upb
+219378,Solving c-ares csharp build issue on mac os
+227711,Updates build files to use a sorted list of sources
+212001,Grpc ruby add rubocop fix lint style issues
+226927,Add C++ Cronet end2end tests
+220850,Initial C-core global fork work
+220189,Fix grpc++_reflection cmake proto build
+226933,Add C++ Cronet end2end tests
+220292,"Fix write buffering, add tests"
+215513,Delete the old api
+223573,Secure channels: use the right authority 
+227957,Add more files to yapf targets
+220401,Fixes for fuzzing detected failures
+219044,Merge 0.14 into master
+225613,LB policy picker API
+212357,"Disabled httpcli_test, and ran build cleaner."
+212000,Merge master into branch
+222849,Upmerge from v1.7
+218329,"Add a test for forced stream closure on the server, and make it work"
+218747,Revert legacy poller removal
+222851,WIP: Run c-ares unit tests against 'named' BIND DNS server
+218423,Eradicate unused interarrival distributions
+216854,Prepares debian/backports for release 0_11_1
+220112,Rewrite security handshaker to use generic handshaker API.
+218382,Expand client fuzzer corpus
+218098,epoll specific polling engine
+221855,Simplify timing code in C Core
+216852,Updates debian/sid branch to 0_11_1 tag
+217060,Upgrade debian/csharp branch to 0.11.1 release
+220445,Add a test verifying number of writes per RPC is reasonable
+219611,Rename client_config directory to client_channel.
+226277,Fix a memory leakage in SSL credential reload
+227618,WIP: exhibit race in #18856
+215676,Add testing for GRPC_TRACE
+222176,TSI SSL handshaker_factory reference counting tests
+223362,Test ObjC Kokoro failure with partial revert - 1
+221052,Core API change: make metadata array stay owned by grpc_call
+217874,PHP: simplify installation
+221920,gRPC Python test infrastructure
+224325,Support Unbalanced Per-Method Codegen Generic on Server Side
+221699,Add c# test to demonstrate setting custom error details
+222065,Run a local DNS server in run_tests and add c-ares tests with it
+227759,[Aio] Streaming API - Server side streaming
+226137,RBE Windows c-core build
+215672,Move sample app and tests to proto3
+217508,Support mixing sync and async method in the same service.
+226270,Service config changes Part 2
+216410,Upgrade C# to proto3
+223658,[Fix Forward]: Channel Tracing Implementation; Part 1
+212019,Add a tool to cleanup build.json
+223097,Channel Tracing Implementation; Part 1
+223657,[Fix Forward]: Channel Tracing Implementation; Part 1
+224701,WIP: try disabling OPENSSL_NO_ASM for cmake
+215456,Updates the sample ObjC app to use protocol buffer messages
+215388,Extend bazel BUILD file to build all the C/C++ libraries as well as  protobuf plugins. 
+221027,"Add a test of minimal stacks, and make it pass"
+223939,Add load reporter for server load reporting
+220634,Optimizing grpc_error Part 3: const char* -> grpc_slice
+224571,Add script for creating a C# package for Unity
+217185,Remove metadata contexts
+217110,Make Python testing predictable again
+216631,Regenerate C# docs
+224563,C#: Add Xamarin example
+217239,Make Python testing predictable again
+219106,Upmerge 0.14 -> 0.15
+227641,Format all Bazel files using buildifier
+224754,Health checking client
+221825,Gapic perf
+221824,Gapic perf
+226763,Introduce string_view and use it for gpr_split_host_port
+217064,Add Census log and tests
+212265,Unix domain socket support
+220942,Add QPS tests for 1-sided unconstrained streaming
+227617,WIP: Exhibit a data-race in #18856
+222998,gRPC Python Client and Server Interceptors
+227319,Refactor EDS and LRS code from xds LB policy into new XdsClient API.
+221854,Adding user_data to avl interface so that an exec_ctx can be passed in.
+217126,Proto API for LB request/responses
+217850,"Revert ""Revert ""Proto API for LB request/responses"""""
+222384,Modify Stream Compression Surface Interface
+227841,New JSON API
+212215,Windows port of iomgr.
+217483,Release 0 12 master merge
+223485,[grpc] Add SSL session client cache support
+217680,Prototype C parser for extracting API info
+216032,Adding JWT verifier.
+222193,Making c-ares work under Windows.
+217526,Update Node documentation to 0.12
+212283,Grpc ruby rename modules
+221038,Add representative benchmarks of minimal stacks on chttp2
+227066,Add experimental support for asyncio unary client
+212164,First draft of the win32 implementation of iomgr.
+218337,Moving performance configuration to JSON
+221499,Master 1.3.x upmerge
+217851,Proto API for LB request/responses (redux)
+219289,Removed references to public APIs from codegen/
+226573,Introduce string_view and use it for gpr_split_host_port.
+225784,Use real resolver in xds lb channel
+218761,Add solution files for C/C++ runtime libraries
+215489,Unify transport & channel op interfaces
+218006,Simplify PHP installation for release 0.13
+218413,cronet wrapper code
+212492,QPS driver
+226059,Move ProtoServerReflectionPlugin from grpc to grpc_impl namespace
+219234,[support PHP7 on v1.0.x branch] control code by version of PHP macro
+219122,Fixed name syntax error
+219394,Improve gRPC CLI
+222047,Backport Kokoro-related changes to v1.4.x
+219215,[support PHP7] control code by version of PHP macro
+212236,Add visual studio project to build dll libraries.
+215546,A new C# API based on async/await
+221952,Add transport security test library
+226870,Update Node API docs to 1.22.2
+221316,[experimental] Bm deadline
+226996,18745 diff
+220361,Add C++ Client Generator Plugin for Protoc
+217716,Add shim for Python's gRPC core on Windows
+217738,Add shim for Python's gRPC core on Windows
+218762,C++ windows tests
+212247,Rewrite the Node library to use the new core call API
+216768,Round Robin LB Policy
+212266,Python interop server.
+217744,Win32 python
+220898,Update pydocs to 1.2.0
+215574,Making the gRPC C tests building under Windows.
+226850,ObjC experimental Bazel build support
+221030,PHP: update run_php_cs_fixer shell script and update the result for run it
+222912,"Replace usage of gpr_cmdline with gflags, and remove gpr_cmdline from…"
+219217,Rpc mgr
+219183,Client and server multiplex example
+217766,Add Census base log
+226968,Added experimental Bazel Support for Objective-C
+218776,Make running individual Python tests less painful
+217090,PHP: ran php-cs-fixer to comply with php coding standard
+223186,cmake build cleanup
+223746,V1.10.x
+226781,Threadpool
+217942,Codegen lib temp merge
+221479,Upmerge v1.3.x branch to master
+227516,"Remove unused-parameter warnings, round 2"
+224821,Refactor security connector (no functional change)
+225045,security connector refactor - no functional changes (duplicate of #16627)
+225053,security connector refactor
+228433,Update test credentials to use 2048-bit RSA keys
+216557,The RPC Framework crust package
+220279,Bandwidth Estimator
+222170,Second attempt at call combiner PR
+216873,Enforce a more mergable build.yaml format
+222147,Stats histograms
+216800,Release 0.11 to master upmerge.
+222230,F# example
+226951,Add C++ wrapper for SPIFFE credentials v2
+221320,epoll-threadpool polling engine (default 1 thread)
+216537,Header rearrangement
+226074,Add Fuchsia support.
+212152,Back-end for new core API
+219162,Load Reporting Filter
+223318,"Revert ""Modify Stream Compression Surface Interface"""
+219939,gRPC tunneling - skeletal implementation
+218760,Automatically capture transitive dependencies for Visual Studio solution files
+220269,C++ default health checking service.
+218537,Async execution lock (+ infrastructure)
+227479,Remove unused parameter warnings from src/cpp and test/
+216769,Enable additional warnings
+227922,[Aio] Client Streaming and Bi-di Streaming
+221066,EPOLLEXCLUSIVE polling engine
+220742,Completion Queue creation API changes (C-Core and C++ only)
+215538,Ensure all unsecure tests are built on Windows
+225040,Remove memset(0) from arena allocate memory.
+223468," C++ize gpr_thread as grpc_core::Thread, make it 2-phase init (construct/Start)"
+223921,NOT YET READY FOR REVIEW: C-ares on Windows
+218016,New #include guard sanity check + fixes to current guards
+223552,C++: Stop using std::thread
+227342,PHP: add various scenarios to test PECL extension
+217520,Revamp C# native loader
+217211,Change subchannel connectivity state transition graph
+216218,Zookeeper name resolver
+220170,ObjC Packet coalescing
+217148,Support sending an initial connect string at the beginning of client tcp connection.
+225390,Fold gpr_test_util to grpc_test_util
+219663,PHP: Proto3 adoption
+218768,Add Census resource API and implementation.
+212542,Guard headers tool.
+221335,Doxygen cpp nits
+220271,Changes to exec_ctx/closure/combiner/workqueue interfaces
+216412,C# Context API
+227514,Put a 2-second deadline on ALTS handshake RPCs
+228398,Backport #22309 to 1.28 (Improve xds logging.)
+221666,Implement call combiner
+212068,Fixing some win32 sockets misuses
+222979,C++ Resolver API
+220748,ruby add background channel state poller to handle disconnected transports
+222104,Duplicate of call combiner PR
+218479,Add support for max metadata size.
+225069,C++: Experimental server callback unary API
+219398,Manual upmerge from v1.0.x to master.
+219213,Backport delayed write into v1.0.x branch
+226722,Added specializations for grpc_mdelem_create.
+224837,Add Objective-C MacOS example
+216727,Backport of 0.11 to master
+221775,Change nanopb's include style
+216247,Adding reserved arguments and pointers in the API to ensure stability.
+221121,Cleanup of the BUILD files.
+227480,Add CDS to xds client
+228124,Replaced grpc_core::MakeUnique with absl::make_unique
+217572,Make zlib a first class build citizen
+216682,C# update examples to proto3
+216159,C# health service
+215866,Remove Protobuf dependency for C++
+218245,Make adding a new RPC to a service non-breaking for generated C#
+225808,Support for LocalityMap for XDS LB policy
+220032,"grpc memory usage profiling (call, channel, server creation)"
+220089,"Limit outstanding rpc count for synchronous {client,server} tsan tests"
+225837,Don't use a separate call context for subchannel calls
+212258,added license headers to all grpc C# files
+217213,Use BoringSSL instead of OpenSSL
+224439,Refactor request routing code out of client_channel
+227325,xds client bootstrap file
+216643,C# update examples to proto3
+227460,Second attempt: xds client bootstrap file
+217537,Census Tag Set API and implementation
+226943,Add C++ wrapper for SPIFFE credentials
+212067,Adding Visual Studio filters.
+223682,Load data store for server-side load reporting
+226756,"Revert ""Introduce string_view and use it for gpr_split_host_port."""
+226614,Added Helloworld UWP sample
+223565,Add EXPERIMENTAL support for loading grpc_csharp_ext on Unity
+226382,Reorganize ObjC tests
+221679,gRPC Python test infrastructure
+218310,Optionalize client config system
+222633,Change names of files in include/grpc/impl/codegen
+221301,Singleton epoll + hierarchical turnstile + workqueue implementation
+222254,Upload core stats to qps_test
+218985,Fix Cocoapods linter issues with gRPC-Core.podspec
+224909,cmake: prevent C core from depending on libstdc++
+221516,Roll-up of threading changes
+217706,Python and Ruby targets for distribution testing
+222828,"No More Extern ""C"""
+220826,Error slice optimization
+218851,Implement C++ API for defining channel filters.
+218215,Adding merge_deps system in the template.
+221209,Closure Rich Debug Mode
+216319,Move grpc_census_call_*_context calls into public header
+220988,Direct Placement (edition2)
+217065,Add scripts for coapp openssl NuGet packages
+223929,"WIP: Refactor c-ares event driver to C++, enable it on windows"
+217306,Add a test for grpc_connectivity_state_name
+222318,C# Interceptor Support
+221880,Improvements to grpc_byte_stream API and handling.
+216303,Reorganize python
+220790,"Revert ""Split bm_fullstack into pieces, reuse infrastructure across other microbenchmarks"""
+218708,Sample of helloworld build with bazel
+219262,Add command processing for grpc_cli
+227860,Add preprocessed_builds to abseil-cpp
+227236,Added Objective-C performance tests
+226359,Add microbenchmark for callback apis
+215518,Trimming down useless variables in the Makefile.
+224294,Support Per-Method Codegen Generic on Server Side
+221049,C# new .csproj projects
+222609,V1.7.x
+212361,The framework.assembly package.
+227697, Replaced grpc_core::UniquePtr with std::unique_ptr
+217558,Use CPU cost modelling to better utilize test resources
+216233,Reconnect with jitter.
+227067,Add check_attrs & clean-up build.yaml
+221407,"Add a thread pool to executor, remove workqueues"
+224399,Fathom tcp changes
+221299,Singleton epoll based poller with hierarchical turnstile
+228326,Docker for sanity
+216639,Python Beta codegen
+217973,Stress test scripts to launch in GKE
+221101,Add helper function to supply and parse error_details from Status.
+223159,ClosureRef proposal
+224738,"Revert ""Revert ""Fathom tcp changes"""""
+222614,ClosureRef proposal
+221779,Write completion changes
+222639,C++ize Tracing System
+219110,[C-API] build
+226214,Building upb stuff everywhere.
+212490,C++ Credentials Rework
+218592,Allow servers to select compression level via initial MD & overall compression cleanup
+222683,Add Python support for server SSL cert reloading
+224356,Add server load reporting service
+226710,Cache
+218441,Initial memory counter for unary client.
+215762,Provide VS projects for building protoc plugins on Windows
+219195,"Add sync variants of important tests, add sweeps across different channel counts"
+225396,"Revert ""Allow encoding arbitrary channel args on a per-address basis."""
+227880,Draft: Implement Dynamic Stubs
+226398,Service Config Changes to set channel in transient failure on invalid service config
+216966,Make C# interop tests args parsing compliant with spec.
+221290,Intrusive hash map
+221914,Recv close api change
+219043,Contributed cmake project files.
+228042,[Aio] Introduce gRPC Async into our interop combo
+225175,C++ callback API for streaming servers
+226307,New config system & migration sample
+220640,Upgrade third_party/protobuf to 3.2.0 and update C# nugets.
+220693,DO NOT SUBMIT — Test only/Protobuf bump 3.2.0
+226714,Cache
+219718,RPC Manager: C++ Sync server redesign 
+219231,Auto-update Python documentation
+227190,"Revert ""Enable C++ standard library"""
+216484,A test suite for the RPC Framework base interface
+218642,"Revert ""Revert ""cronet wrapper code"""", and fix the issue with build.yaml"
+216312,Regenerate project files.
+216425,etcd name resolver
+218901,Add a cmake based build system
+216860,New C# auth API
+215626,Various Win32 fixes and improvements.
+215344,Grpc ruby switch to new call api
+223592,C++ API review: reduce core/implementation leakage
+220266,Secure naming support for gRPCLB.
+223463,Convert slice hash table and service config code to C++
+224608,Support gRPC Python client-side fork with epoll1
+212043,TIPS client implementation.
+227029,Remove nanopb from gRPC
+223384,Make lb_calld Orphanable
+228163,[Aio] Benchmark automation
+223839,Clang format Objective C
+216317,Make call_create with host=NULL provide a default host name
+222172,Restrict stats histograms to integral boundaries
+223165,Add back filter_status_code test
+219286,Add bazel build targets for tests
+220490,Add examples from fuzzer server
+226243,"Add C# LiteClientBase and ""lite_client"" codegen option"
+222834,Avoid C# GC when deserializing large messages
+226346,C# support slice-by-slice deserialization (allow accessing payload as ReadOnlySequence when on netstandard2.0)
+216915,Upmerge from beta to master.
+219117,[C-API] build
+221691,Add a end2end test of cancel call
+219512,Earworm avoidance PR
+223560,Adjust Grpc.Core to build for Unity (iOS + Android)
+215908,Added flags support to grpc_op.
+223045,Set error status correctly on server side
+224451,gRPC Python client-side fork support
+221284,Change chttp2 to send Trailers-Only response when possible.
+220047,Manual upmerge from v1.0.x
+219618,Backport CoreCLR support to v1.0.x
+218809,Support dynamic frameworks
+216897,Add Node Auth plugin code
+218888,Network status tracking
+218166,Initial canaries for downstream merges
+216924,Added grpc_alarm (renamed previous one to grpc_timer)
+217503,Link grpc_csharp_ext dependencies on Windows statically
+227418,Removing scheduling logic for combiners from closure initialization time to closure run time
+225328,Create a class for test environment and migrate most of the tests to use it.
+218921,Extend filter API to allow call initialization to return an error.
+219962,Populate latency field in final_info.
+217175,Static metadata facility
+221997,Add Ruby interceptors
+227503,Combinernewrebased
+213424,C# refactoring and code cleanup
+218882,Python GA API Changes
+212312,Added route_guide server example implementation
+225908,Regenerate C# API docs for v1.19.0
+225785,"Revert ""grpc_handshaker, grpc_handshaker_mgr C++ implementations"""
+222409,Add TypeScript typings to node.js gRPC module (remake)
+222167,QPS test that uses inproc transport
+227118,Fixed init-order-fiasco for static slice table.
+216407,"Compression API, sending response headers and cleanup."
+216424,etcd name resolver
+218225,removed uchannels
+221313,Timer thread pool
+221303,Update python docs for 1.3.0
+220419,Client-side keepalive pings
+225262,Channelz Python wrapper implementation
+216916,Build and run per-language containers for interop tests
+221697,Perf Bot Backport
+218124,Idempotent request support for core
+223581,"Revert ""Add ALTS C stack to gRPC core"""
+223976,Update health.proto to match grpc-proto reference copy
+217104,Split tests into one scheme per test case
+226360,TESTING PURPOSES ONLY
+219466,Cronet/gRPC Core end-to-end test
+216638,Metadata and serialization
+215599,C# gRPC protoc plugin
+223103,Upmerge 1.8.3 into master
+221239,Implement client-side load reporting for grpclb.
+220500,Intrusive hash map
+220210,Short deadlines (#9089) tests
+226678,Cache size
+226674,Cache size
+226673,Cache Interceptor API and tests
+222140,"Revert ""Implement call combiner"""
+221944,Create integration tests for grpc resolvers on GCE DNS
+224926,"Use gRPC thread model (i.e., pollset_set) in ALTS TSI implementation"
+220234,Update Python examples with fresh generated code
+226718,Make interface for the call implementation
+226743,Re-add GCE DNS integration test scripts
+212402,Node pubsub client
+220659,Add benchmarks for HTTP2 HPACK encoding
+223344,php: use valgrind to check memory usage for unit test
+225687,Merge the c-ares driver object into the request object; partially C++-ize
+221613,Support threads per CQ
+222580,C++ize tracing
+220696,Allow QPS tests to use multiple threads per CQ
+216540,The (new) face interface of RPC Framework.
+217287,Merge release-0_12 into master
+225574,Auto-update Python documentation for v1.18.0
+217207,Use updated metadata auth call credentials core API in Python (and migrate to Cython)
+223295,C++ on Android: Greeter client and server
+212293,Migration of C# to the new C API
+212154,Adding support for loading the SSL roots from an environment variable.
+221440,Implement stream compression lib module
+225674,"Revert ""C++-ify subchannel"""
+225531,C++-ify subchannel
+225682,"Revert ""Revert ""C++-ify subchannel"""""
+218461,"network status tracking code, tests, and changes to build file for both."
+220103,HTTP/2 test server
+217967,Scripts to launch stress tests in GKE. 
+225316,Allow encoding arbitrary channel args on a per-address basis.
+225399,"Revert ""Revert ""Allow encoding arbitrary channel args on a per-address basis."""""
+217769,Test case for multiple threads reading events from the same completion queue
+217381,Include core in Python distribution
+222533,Refactor c-ares DNS tests to use bind zone files
+221762,Change security interfaces to better handle both sync and async cases.
+221275,Singleton epoll set based poller with turnstile
+212186,Census test printf fix
+226374,Support accepting external connections.
+220164,Backport Python features to v1.0.x
+221016,Convert Lame Client Channel code to C++
+221020,Improvements to Fake Resolver
+216627,The rest of the Python Beta API
+226108,Convert client_channel call_data to C++
+222428,gRPC Python Client and Server Interceptors
+218749,Delay beginning most writes until we enter poll()
+225509,[Channelz Page] Add an HTTP server to display debug information
+217959,Add HTTP request parsing
+227508,Update envoy API to HEAD
+227848,Rename existing Spiffe security stack to TLS
+215400,"Refactoring of VS projects, start using nuget dependencies for OpenSSL and zlib on Windows."
+223743,Convert subchannel_list code to C++.
+227003,Added Bazel BUILD for ObjC Tests and Examples
+217054,Overhaul benchmark control protos and tests themselves
+221152,Merged ctiller branch
+216895,Fix clang-format script
+219924,Stop supporting non-C++11 conformant compilers - DO NOT MERGE INTO V1.0.X
+217707,Change all instances of census_tag_set to census_context
+217780,Refactor dockerfiles
+218446,Initial draft of C# stress test client
+217414,Consolidate C++ proto files under src/proto
+220352,Add api-fuzzer corpus
+222217,Python documentation for 1.6.x
+224235,No Error Creation on RPC Hotpath
+218368,Rollup of changes from latest import
+226962,C#: support serialization to IBufferWriter
+224449,Channelz++: Part 1 Bootstrap the C++ Service Layer
+218773,Implement Python Beta API through GA API
+215219,Anonymous API implementation
+215666,Add a test of crashing servers and clients
+223955,PHP: add per target upper bound checks for the persistent list
+218566,Continuation of #6280.
+227877,[Aio] Client Side Interceptor For Unary Calls
+216593,"Revert ""Refactor Endpoint API"""
+220972,New version of grpclb end2end test
+220695,Client-side keepalive pings server enforcement
+227912,Pluggable Dynamic Stubs Implementation
+216737,Final beta API cleanup
+212449,Final changes to the early_adopter API.
+221901,"Plumb ""not yet seen by server"" bit up from transport layer"
+227203,Add abseil to gRPC Core
+223790,Fix retry code handling of internally triggered recv_trailing_metadata.
+225594,"grpc_handshaker, grpc_handshaker_mgr C++ implementations"
+218358,Expand server corpus
+220701,Backport 9893: Relieve ios deployment version from 7.1 to 7.0
+217039,Interop stress tests
+227705,Fix the memory new/delete mismatch for unique_ptr<char>
+223661,Let cronet use grpc_cronet_registry_plugin
+220688,Add option to limit # of messages per stream in QPS tests
+216534,Refactor Endpoint API
+222496,Refactor subchannel_list code out of RR and use it in PF.
+216356,Server creds auth md processor
+219591,Refactor python code generator to support other serializers
+221136,Added unit testing support.
+216150,Add a clock_type field to gpr_timespec
+218458,Add Python grpcio protoc package and use manylinux1
+216594,"Revert ""Revert ""Refactor Endpoint API"""""
+220205,"Revert ""Revert ""Handle (and test) short call deadlines"""""
+219655,PHP: proto3 adoption
+220172,Handle (and test) short call deadlines
+221202,Speed up tests
+219352,Add Shim for wakeup_fds with no pipe or 
+228212,Update C# reference docs to 2.27.1
+220734,Implemented stream coalescing (C++)
+216462,Adding C++ auth metadata processor.
+225145,C++: Experimental client callback streaming API
+222373,Python bindings changes for server SSL credentials reload
+218387,Put proto file comments to generated grpc header file.
+221671,Separate internal-only and public parts of C++ API
+221569,Upgrade boringssl
+215692,Send RST_STREAM when closing from the server without getting a client…
+217907,Enabling python artifact building for Windows.
+219596,"Revert ""Grand unified closures"""
+217433,Eliminate a layer of libraries in the end2end tests
+219539,Move deadline functionality into filters.
+223539,Initial Gevent Compatibility
+217201,Implement metadata auth plugin API (migrating to Cython in the process) (wip)
+216657,Add a Swift sample app to check that the library looks nice
+222299,Internalize structs and methods meant for being exposed through codegen
+218273,Stress test flexible config
+225438,Enable per-channel subchannel pool
+227073,xds failover locality handling
+219738,Add comment to NewInstance override in the generated code
+219528,Grpc caching test
+220833,Arena allocator for grpc
+224809,WIP for Callback API: Don't put cq_tag on server CallOpSets
+224749,EXPERIMENTAL: C++  generic client-side unary callback API
+226594,Remove Python 2 support from gRPC Python.
+215226,Fixing C# codestyle
+218884,"Fix errored streams prematurely terminating, add a test"
+220607,C++ Bazel files
+216322,Regenerating project files and massaging VS project files.
+216216,Expose call peer uri from C core
+227550,Updated podspec to have a sorted file list
+219109,[C-API] codegen
+228187,Experimental: Implement Top-Level Invocation Functions Not Requiring an Explicit Channel
+226478,Fold Channel and CompletionQueue into grpc_impl
+219935,Generate c# client stubs as partial classes
+226443,   Added some Objective C tests and minor bug fixes.
+226164,Global Registry for Service Config Parsers
+212397,C++ Credentials API Rework
+212018,"Generate tests to run from build.json, not by globbing the binaries directory"
+217159,CMake Support
+226556,*DO NOT MERGE* Remove Python 2 Support *DO NOT MERGE*
+215855,Open loop sync/async multithreaded testing
+216796,Update to nan 2.0
+215875,"Revert ""Revert ""Open loop sync/async multithreaded testing"""""
+222347,"Add c-ares resolver tests against GCE DNS, redo of #12010"
+223898,Keep Core memory inside cygrpc.Channel objects
+218510,Server builder plugin
+219284,CMake Project Improvements
+220723,Convert stream ops to a control + payload structure
+226150,Add Python Compression Porcelain
+223527,Add Server Visibility State to gRPC Error
+216237,Improving C# metadata API
+222210,Getting C Core files compilable as C++
+226261,Unrevert Python Compression
+218730,Add census protos.
+219761,Reject authority header in cronet
+218947,Investigate Jenkins C++ flake in the 0.14 branch
+227453,Associate a mutex with ALTS TSI handshaker objects
+225524,Bad connection test
+216983,Latency profiling support
+222781,Add ReferenceCounted base class.
+227980,Make test code use TestEnvironment
+218698,Manual merge of 0.14 branch into master.
+227340,Second attempt: Change transport connectivity watch API to not be lossy.
+218497,Add comments to generated C# files.
+218289,Ruby performance testing worker
+226569,Convert channelz registry to use Map<> instead of InlinedVector<>.
+217817,Execution context offloading
+227690,Replaced grpc_core New & Delete with C++ new & delete
+218394,Enable use of pollset_set for a channel call
+219585,grpc tracing context
+215980,Client configuration libary - headers & docs
+217455,Backport copyright changes
+219538,Add simple_metadata_2 test to core end2end test
+216756,Workqueue type for iomgr
+220865,[EXPERIMENTAL] allocate unary response writer against call arena
+226980,Separate py_grpc_library and py_proto_library.
+217989,"Revert ""Revert ""Add an implementation firewall against pollset_set"""""
+216477,Grpc ruby mv interop test to pb
+217962,Add an implementation firewall against pollset_set
+226415,Backport kokoro job split to v1.20.x
+223567,Convert byte_stream API to C++.
+228379,Improve xds logging.
+226297,Message allocator support for callback unary
+219569,Grpc tracing - Trace Context
+224768,EXPERIMENT: Use arena allocation for client-side callback API
+223008,C# plugin should add auto-generated header for generated files.
+215385,Split interop client and server into components
+218500,Experiment: Python qps tests
+218468,Python QPS Tests
+219127,Add ruby client compression interop tests
+221767,Switch Server back to lockfree stack
+219134,Automatic v1.0.x -> master upmerge
+221235,get rid of connectivity state watchers right after timeout
+212020,Use clang-format-3.5
+222994,Yapf src/python
+219782,Server context test spouse
+217859,PHP: add unit test to increase PHP C extension code coverage
+217369,"Add tests for failed SSL connections: bad cert, and bad alpn config"
+222637,Separate public and internal C++ interfaces - Revival of #11572
+219705,Enable split code generation
+216575,C++ docs
+218770,Add base64 decoder
+218414,Python QPS Worker/initial scenarios
+226290,Introduce C++ wrappers for gpr_mu and gpr_cv.
+218655,Add base64 decoder
+227943,Exposing ALTS Context and clientAuthzCheck()
+224792,WIP: Callback no arena
+217270,Node benchmark service
+217675,Implement a TryCancel() API on ServerContext to cancel the API from the server side
+227246,Change transport connectivity watch API to not be lossy.
+228204,[Aio] Generate gRPC AsyncIO API Reference
+215699,Server auth context
+216700,Replicate C++ docs from master to beta branch
+220314,Add channel args to ServerBuilder
+217120,Some more changes to Stress test client
+222773,gRPC PHP Client Interceptor
+223595,Change grpc++ filename references in C++ tests to grpcpp
+217990,Pollset & pollset-set implementation firewalls
+217125,Add more config options to stress tests and export metrics
+224486,Added system roots feature to load roots from OS trust store
+217268,Adding tests for invalid arguments in start_batch
+224787,[ssl] Add support for client side certificate reloading
+219521,Add no-logging test
+218426,Update boringssl to latest chromium-stable.
+222986,V1.7.x
+222375,add a python test that tests both the C-core and python bindings changes for server SSL credentials reload
+227455,[AIO] Minimal AsyncIO Server
+215986,Make it less likely a build.json change triggers a merge conflict
+218718,Add comments to generated code for Node and Ruby
+216199,Auth md processor
+219861,Integrate google_benchmark
+219065,Retrying: Make the testing scripts executable on Python 3.x
+216126,Add UDP server to gRPC.
+219581,Enable running interop tests with dotnet CLI + CoreCLR
+218543,Add C# wrapping tests and fix some issues with the API.
+219114,Upmerge from 0.15 to master.
+228345,[Aio] [WIP] Alternative way of making sync & async compatible V2
+218825,Python GA code generation
+217616,"Make Node library depend on BoringSSL and zlib, and only build them under Windows"
+218547,C# finishing serverside request stream should not be required to dispose.
+212412,Verifying the peer name on the X509 Certs correctly.
+225719,Introduce C++ wrappers for gpr_mu and gpr_cv.
+226012,Restructure how addresses and service config are passed from resolver to LB policy
+219740,UCX first implementation approach example
+219779,Partially implement gRPC Python server reflection
+216274,Connection backoff interop test client and server
+215803,Make sample app easier to understand
+224389,Enable c-ares queries on Windows
+218581,Allow servers to select compression level via initial MD.
+221247,Tracing Overhaul
+222216,Update Node docs to 1.6.0
+220368,Test cli stream
+221982,PHP: persistent channel (backport to v1.4.x branch)
+221863,PHP: persistent channels
+212448,Introduce slowdown factor for unit test deadlines
+212416,Qps Driver
+219933,Use JSON tree for service config channel arg.
+216263,C# support for timeouts.
+220529,Use call context to propagate LR costs
+221752,Flow Control
+220746,Upmerge of 1.1.x to master.
+222074,Merge pull request #12212 from dgquintas/v1.6.x-version-bump
+220834,Fix android build
+220169,Pollset-set test cases
+212140,Grpc ruby add signet based auth
+218164,Add a test for 1-byte at a time reads via SSL
+217562,Upgrade to Protobuf 3.0.0-beta2
+224870,DRAFT: Update ALTS TSI handshaker to use pollset_set
+220358,Replaces macros with methods for test timeout scaling
+224456,Upgrade boringssl submodules to latest chromium-stable
+220290,Packet Coalescing - ObjC
+219033,Update Node gh-pages to 0.15
+224557,Support named scope id's in grpc_parse_ipv6 on posix platforms
+224117,PHP: add php-cs-fixer config and apply php-cs-fixer
+220600,Bazel build files for a bunch of tests
+220519,Expose AuthContext in C#
+227645,Replace GRPC_CLOSURE_SCHED with ExecCtx::Run
+218906,Debug bad_server_response_test
+226929,Migrated from nanopb to upb for alts
+211953,Fix and run C++ tests
+218754,"cronet build related changes to build.yaml, and added ifdef guard around objective_c cronet code."
+226063,Add generated upb code for endpoints information.
+221988,Cherry-pick #11764 to v1.4.x
+227339,Revert #20255 due to internal breakage
+216512,Exclude qps_test from tsan runs
+218391,support insecure http scheme
+226462,Revert channel to grpc namespace
+228407,Backport xds test fixes
+226084,Move Server into grpc_impl from grpc
+217432,Update copyrights
+225464,Add a new TLS credential surface API
+219863,Kicking off fullstack micro-benchmarking
+221748,Test Serialization Traits
+217409,Added aggregate C files for public core libraries
+219381,Cronet e2e take2
+215570,First mocking support
+216110,Backport of pull request #2313 into release-0_10.
+218360,Migrate C# to NUnit 3.2
+216076,Expose AuthContext in ClientContext and ServerContext
+219468,Add channel arg for max send message size and add message size filter.
+227842,Convert service config code to use new JSON API
+221045,True Binary Encoding
+215389,Extend bazel BUILD file to build all the C/C++ libraries as well as protobuf plugins.
+221783,Release resources more eagerly on ruby server
+218359,Added codegen_test_full
+216415,C# code cleanup
+226493,DO NOT MERGE: Objcut expt
+212033,Node interop tests
+225766,WIP: Make subchannel refcounted
+226899,Add experimental control plane creds C-core API
+216591,The Beta API Channel
+217985,"Revert ""Add an implementation firewall against pollset_set"""
+221897,"Revert ""Separate internal-only and public parts of C++ API"""
+212285,Python source reorganization.
+215399,Registered calls
+218643,Update Node generated docs to 0.14.1
+226659,Add client-side credential reload to spiffe security connector
+224790,Second attempt: Implement Watch method in health check service.
+224662,Implement Watch method in health check service.
+215738,New core shutdown API
+212508,"Multithreaded Async C++ perf tests, plus gens rename of Async client methods"
+225760,Add Objective-C manual test suite
+219833,BDP estimation
+219652,Add copyright statements for AssemblyInfo.cs files
+223591,Add exec_ctx check to fork handlers
+216125,Add a UDP server to gRPC
+212251,Adding an NMake makefile for Windows
+220590,Eliminate mutex in deadline_filter
+215802,"Finish moving tests out of the sample app, into the tests project"
+212073,Interop client with service account credentials test case
+211988,() --> (void) everywhere in the C core
+219353,Split port_platform.h into public and private headers for maintainability
+220238,Add HTTP/2 interop test client
+222517,C++ize flow control
+212003,Clang format
+220777,Server channel args
+226139,Folding CompletionQueue and ServerCompletionQueue
+220804,Server channel args
+219786,Introduce a grpc-exp ALPN protocol identifier.
+222434,EPOLLEXCLUSIVE polling engine (redux)
+215436,Client streaming cancellation test.
+216736,The gRPC protocol objects
+221070,Update TSI handshaker with non-blocking APIs
+220895,Microbenchmarks for CHTTP2 read path
+227831,[Exposing ALTS Context 2/2] Utility Wrapper Class
+218838,Add http2 status code in error_message if it's not 200
+227383,Use ADS
+215567,C Core API cleanup.
+218810,Stop hardcoding nanopb path.
+224262,"Second attempt: move recv_trailing_metadata into its own callback, don't use on_complete for recv_ops"
+220903,Add benchmark suite for chttp2
+226075,Changes to fold credentials into grpc_impl from grpc
+221358,Modularize Microbenchmark Infrastructure
+222296,Collect stats on why writes are initiated
+224304,"Third attempt: move recv_trailing_metadata into its own callback, don't use on_complete for recv_ops"
+222793,FunctionView implementation
+215562,Expose max message size at the server side.
+223156,FunctionView implementation
+220253,add generic host_port parsing based on scheme and use it in qps driver
+224323,Overhaul of top-level .md files
+217086,Release 0 11 -> master
+215247,Added support for sending metadata from clients.
+219153,Checking in new roots.
+226801,Threadpool
+226216,Add fallback-at-startup into xds
+224296,Fix http server filter comment
+220242,v1.0.x manual upmerge
+220548,Preserve the entire sockaddr in grpc_channel_args
+216323,Fix bugs leading to servers not shutting down
+221187,"Extend clang-format to C#, Node, Ruby"
+215591,Adding support for per call credentials in core.
+220610,Optimizing grpc_error Part 2: inline always-present members
+224866,Third attempt: Implement Watch method in health check service.
+219140,Establish Objective C end-to-end core test with Cronet
+226435,chttp2 hpack encoder: fast-pathed static md/slice ops
+212141,Implement full logic of publish and subscribe
+222185,Fix stream compression transport duplicate
+226421,Introduce GRPC_TRACE_FLAG_ENABLED macro to mark trace branches unlikely.
+215800,Move interop tests to new tests project
+222186,Partition microbenchmarks to be easily shareable with google specific transports
+221703,BUILD changes for import
+220916,Support interceptors in gRPC Python.
+217604,Subchannel Sharing
+224883,Upgrade to YAPF 0.24
+221500,Import mutations.
+226747,Add Python Cancellation Example
+225606,Collect OPT_STATS along with tx timestamps
+226876,Reduce instruction count for CH2 metadata ops.
+215204,Refactoring within Python RPC Framework
+225117,Add support for LB config in service config
+222473,"Add abseil to core, use it for InlinedVector"
+218486,Interfaces of Python GA API
+218803,"Revamped interop spec, especially wrt compression"
+218332,Add nodejs stress tests to the test-framework
+226451,Adding support for STS Token Exchange Creds in core:
+218209,Build backoff as a library once again
+220629,code and BUILD file for creating a grpcz client
+221625,Flow Control Overhaul
+220652,Preserve ipv6 scope id in grpc_channel_args
+221594,Do not return calls on server when request proto fails to deserialize.
+212196,Polishing C# math service implementation and adding inprocess tests
+215443,Refactoring of core security to remove the factories.
+223411,Stream compression supports GRPC_WRITE_NO_COMPRESS
+225628,Format all the Bazel build files with buildifier
+224005,Upgrade boringssl to current chromium-stable
+222623,Initial Function family implementation
+218677,Affinitize server call notification
+223158,Function family implementation
+224727,Add HTTP plumbing for Fathom
+225345,Rich status transport implementation 
+218474,Change win32 file suffix
+227878,[Exposing ALTS Context 2/2] Utility Wrapper Class
+226250,"Revert ""Merge pull request #18458 from grpc/grpc_namespace_server"""
+221539,Split Up Microbenchmark by Individual Benchmark
+224159,"move recv_trailing_metadata into its own callback, don't use on_complete for recv_ops"
+220231,Handshaker plugin mechanism
+227934,[Exposing ALTS Context 2/2] Utility Wrapper Class
+223758,Backport #14629 to v1.10
+217930,Provide an interface firewall between pollset and its implementations
+223579,Update third_party/boringssl to the latest chromium-stable
+216315,Allow specific pollers to be woken
+212056,Merge new invoke api
+218710,PHP: ran php-cs-fixer again
+221108,Upgrade C# examples
+215317,generic stub implementation
+215262,Python refactor
+221200,Manually upmerge v1.3.x into master
+218325,Fix a head of line blocking issue in the C++ server
+219402,Updates to gRPC LB
+217079,Format ObjC comment docs as Cocoadocs
+216538,c# response headers support and code simplification
+219654,PHP: windows config.w32 file
+215475,Adds proto service runtime and an example of generated stub
+220682,Add a spinlock type.
+220426,Automatedly advance ObjC version numbers
+219837,Plumb channel_args through resolvers.
+224675,WIP: C# advanced deserialization
+224318,Enable c-ares address sorting on windows
+224540,"Revert ""Revert ""Merge pull request #15797 from apolcyn/windows_compile_and_sort"""""
+220394,Fix read from uninitialized memory bug in GrpcBufferWriter.
+217377,Server stall fix
+218204,"Revert ""Revert ""Factor out backoff code into a separate library (to be re-used elsewhere)"""""
+212042,Add support for eventfd based kicking on linux.
+218139,Factor out backoff code into a separate library (to be re-used elsewhere)
+221077,Update TSI with new non-blocking TSI interfaces.
+226705,Add MetadataInterface abstraction to LB policy API.
+216059,Further lock contention reduction for CHTTP2
+222171,Pollset kick stats
+218587,Upmerge from 0.14.0
+219640,Backport of #8055
+222407,Update extconf.rb to check for termux
+216240,Updated interop tests with support for compression.
+222435,V1.6.x
+226049,Add fallback policy in xds
+224596,Macos system roots implementation
+218282,Optionalize census
+226291,Auto-update Python documentation for v1.20.0
+222951,Apply #13336 to v1.7.x branch.
+225995,Update protobuf dependency to v3.7.0
+217667,Preparatory changes for work shedding
+220053,Add a definition for grpc_global_wakeup_fd in ev_posix.c
+220080,MacOS Build Fix
+224880,Benchmark test for callback unary gRPC
+220877,Upgrade Node dependency on Protobuf.js to version 6
+222068,Allow SerializationTraits to use grpc::ByteBuffer rather than only grpc_byte_buffer
+222518,Add newline at the end of src/core headers that did not have it
+218983,Fix Cocoapods linter issues with BoringSSL.podspec
+218694,Add proto file support in grpc_cli
+221913,Add support for service configs to c-ares resolver.
+222950,Apply #13336 to v1.8.x branch.
+222770,"On server, include receiving HTTP/2 settings in handshake timeout"
+222924," Merge metadata, metadata_batch modules into one"
+223432,GPR review: Internalize most of gpr_thd (but not ID/current ID)
+219832,Simple PID controller
+226330,Revamp subchannel connectivity state monitoring APIs.
+221483,Refactor some code and document most of the API
+220555,Upmerge from 1.1.x
+225161,Optimize gpr_refcount and gpr_stats_counter helpers.
+225761,Add ResultHandler to Resolver API
+218400,Release 0 13
+221000,Change metadata names used by the instrumentation.
+223609,Release 0 13
+220504,Fix interop HTML report.
+220581,Call creation/destruction benchmark
+224470,Channelz Part 4: Add Subchannel Support
+226317,Update third_party/upb
+219961,Fix grpc++_cronet build
+216935,Add initial interop tests
+223146,"Revert ""Simplify LB policy refcounting."""
+212511,Travis c++
+216265,C# beta features and cleanup
+222106,Allow construction of async stream objects without triggering async operations
+222507, C++-ize bdp estimator
+226733,Added Cache Interceptor as a Native Interceptor
+226670,Mpmcqueue
+223104,Upmerge v1.8.x branch (at v1.8.3) into master 
+221366,Added script to build and upload docker image for matrix test.  Added…
+226391,Global config variables migration
+226486,"Revert ""Revert ""Config migration"""""
+228150,Converting AdsServiceImpl to a fake
+216525,Replace metadata objects with a Metadata class
+226052,grpc_slice_refcount devirtualization
+215471,More work in not having to compile OpenSSL.
+220440,Fix bugs in api_fuzzer
+218483,Interop test cleanup
+227606,AIO Unified call interface
+223521,Make GrpcBuffer{Reader|Writer} Public
+219338,add csharp hello world that uses dotnet cli
+219042,Added ruby wrapper for grpc_compression_options
+219934,Add API for getting arbitrary state back from a channel
+219194,Refactored python code generator to support other serializers
+225555,Add a backup poller to c-ares resolver to take better advantage of c-ares query timeout/retry logic
+228278,CallCredentials DebugString API
+228156,Add xDS test client and server
+226260,Fold CompletionQueue and ServerCompletionQueue into grpc_impl
+226473,"Move Channel, CompletionQueue and ServerCompletionQueue into grpc_impl"
+225816,Folding CompletionQueue and ServerCompletionQueue.
+222525,Add thread pool reset on fork with FORKING_SUPPORT_ENABLED
+224281,"Revert ""Second attempt: move recv_trailing_metadata into its own callback, don't use on_complete for recv_ops"""
+219806,Add benchmark client and server for Node Express
+215366,Add integration test case descriptions
+215490,add Windows x64 (WIN64) mode and make buildable for the VS project file
+228201,CallCredentials debug string API
+225870,Increase test scenarios for client-side of callback API plus fix exposed bugs
+212353,"Update copyrights on docker files, makefiles"
+226385,"Revert ""Merge pull request #18912 from grpc/revert-bazel-changes"""
+226343,Remove dependency on pubref/rules_proto.
+227053,Add a quick-start example for basic usages in Python
+215795,"Add a project for tests, separate from the example project"
+224247,"Revert ""move recv_trailing_metadata into its own callback, don't use on_complete for recv_ops"""
+224253,Backport #15690 from master to v1.13.x
+223235,C++ API review part 1: reduce core/implementation leakage
+226262,Update the upb submodule for proto.oneof fix in generated code.
+226621,gRPC TCP Send Zerocopy
+217486,Support generic (non-proto) performance testing
+226316,"Revert ""Revert #18733"""
+226922,Add drop in xds
+212139,Prepare for the new batch call API.
+223990,Create verify_peer_options when creating ssl credentials to support a peer verification callback
+215783,Initial Census refactoring and context integration
+228140,Add runner script for xDS integration tests
+225838,non-blocking server streaming for health service
+217243,Ruby auth metadata plugin
+217694,C# package testing
+217342,Ruby auth metadata plugin
+217119,Add simple profiling instrumentation for C#
+226739,Faster hpack table creation
+223292,GPR review: Move cmdline and subprocess from public gpr to test/core/util
+222294,Fix-forward: Allow SerializationTraits to use grpc::ByteBuffer rather than only grpc_byte_buffer
+225797,C#: Fix il2cpp build on Unity Android.
+216968,Use proto files under test/proto for C# interop tests
+219726,Add C++ Api For Cronet
+224704,Add an inproc-based non-polling end2end test of core callback API
+220537,Convert client_channel.c to use a combiner lock
+223171,Robustness work for qps_test
+223040,Robustness work for qps_test
+220342,build files: add dependency on libgrpc for projects linking libgrpc++
+218923,Test travis config
+220660,Retry throttling implementation.
+221195,Change slice_hash_table to use linear probing and add unit test.
+224248,"Revert ""Revert ""Fix shutdown of closed fd when c-ares opens a second fd"""""
+224241,Más limpieza Clang
+220611,More C++ Bazel support
+218449,Add compiler support for NaCl toolchain
+226858,Channel idleness
+215579,Completion queue binding for new requests API change
+224090,Fix shutdown of closed fd when c-ares opens a second fd
+216840,Fixed hang when using Node gRPC with other async operations
+227751,Security level negotiation between call credentials and channel
+225661,Added test for wall clock time change on the client
+228487,Second attempt: grpclb stabilization
+219594,gRPC CLI stream RPC support
+212396,Added support for default credentials.
+221124,"Revert ""Revert ""Implement lazy deframe"""""
+221461,Support grpclb address in the c-ares resolver 
+220515,Implement lazy deframe
+223081,Redesign cygrpc.Operation
+216558,Adding grpc::string_ref class
+221878,gRPC Python test infrastructure
+221273,grpclb drop support
+228135,Remove old JSON API
+226600,Move ClientContext to grpc_impl
+219609,hpack bomb fixes to C Core.
+216801,Simplify running of cloud_to_cloud interop tests.
+227804,[Exposing ALTS Context 2/2] Utility Functions (New PR After Reverting)
+212344,Implementing JWT credentials (a.k.a JWT ID Tokens).
+223392,Revert breaking API in #12708
+215324,Early support for Bazel.
+225722,gRPC Objective-C Flow Control
+220251,Tracing API
+226130,Add upb generated code and build rule for lrs protocol.
+212230,Adding call host (:authority header) check in the secure channel.
+228316,Remaining xds tests
+227851,De-experimentalize generated callback code
+220186,Add all the other fuzzer tests to internal CI
+220030,Client channel init cleanup
+219702,Core end2end tests cronet update
+227795,Fix BUILD rule issue in ALTS Context
+211996,Changing size type in Transport Security (TSI) from uint32_t to size_t
+215865,Stop using native callbacks for C#
+227592,grpclb stabilization
+222684,Use existing read buffer in security handshaker if present
+226263,"Revert ""Introduce C++ wrappers for gpr_mu and gpr_cv."""
+215224,Update PHP to the new batch API
+218410,Cherrypick connectivity fixes into release branch
+219031,Split Node health check code into a separate package and make it use static codegen
+215502,ServiceAccountCredentials support for C#
+212380,Added compiler plugin test for Python.
+218897,Build objective-c examples as part of automatic tests
+211978,New C layer invoke API
+224001,Inline slice_add_indexed
+219165,General-purpose handshaker API.
+220433,Mark backport of PR #9465
+220191,Add xmldoc comments for function arguments in generated C# code
+220416,Move parameters for all grpc_op types into their own sub-structs.
+223139,Fix service config structures in c-ares tests
+218135,Dns retry support
+224031,"C++-ify the ChannelzRegistry, Adds Generic Object Support"
+220594,Optimizing grpc_error Part 1
+220289,Packet Coalescing - Core
+228397,Backport #22101 to 1.28 (Refactor code for gracefully switching child LB policies.)
+222659,Remove src/node and references to it
+226460,"Revert ""Fold CompletionQueue and ServerCompletionQueue into grpc_impl"""
+228264,Refactor code for gracefully switching child LB policies.
+215403,"Infrastructure for timer insertion, logging, and testing"
+226828,Adding C++ API and implementation for STS credentials:
+227737,[Exposing ALTS Context 2/2] Provide a Utility Function to Get Context
+224896,Delete hpack lookup table
+217320,Further coverage for compression
+226298,Add callback microbenchmark
+224422,Channelz Part 3: Subchannel Refs Support for PickFirst
+215561,Fix a typo that resulted in truncating incoming sequence numbers to 24 bits
+226246,"Revert ""Folding CompletionQueue and ServerCompletionQueue."""
+225124,Interceptors should see a Cancellation notification
+222522,Support Ruby build for OpenBSD/FreeBSD
+226585,Move server context implementation to grpc_impl namespace and typedef…
+212142,Grpc ruby add a tips client
+225422,Add grpcio-status extension package
+222867,C++-ize backoff
+222922,Move histogram to test/core/util
+221015,Memory allocator for C++ in core
+216522,Remove ChannelInterface and replace it with Channel
+212027,Generate projects
+220606,Bazel BUILD files tests under `test/core/surface` and `test/cpp/end2end`
+212564,C# client side support for TLS
+218472,Expand corpora
+224288,"Revert ""Add Type Checking On Channel Args"""
+220187,Tests for pollset_set.
+220310,Always sort code generated outputs
+219822,Flush ObjC cached channels when network connectivity changes
+219760,Add grpc_socket_mutator
+222324,C to C++ compilation 
+225320,Update node reference docs to 1.16
+227994,[Aio] Support metadata
+223317,DNS cooldown mechanism
+228249,[Aio] Run IO operations in a separated Asyncio loop
+218999,App to manually test behavior under changing connectivity conditions
+226264,Run ObjC tests on MacOS
+223912,"Revert ""Revert ""Add fake ALTS handshaker server (bazel only)"""""
+218640,Update C# examples to 0.14.0 nugets
+222001,Added way to remove filters from channel stack builder
+219898,V1.0.1 upmerge
+218821,"Expand corpus, make one-shot runners not self-check leaks (to give ASAN a chance)"
+212335,Added protoc plugin for Python GRPC.
+220662,Add route_guide_db.json to Ruby examples
+224190,Treat nanopb as a regular external dependency
+221315,Add test of server get-call code.
+220892,Benchmark sending messages repeatedly on chttp2
+227763,Convert channelz code to use new JSON API
+217452,Jenkins integration of stress tests (running stress tests on locally jenkins node).
+225284,WIP: Include UPB and generate code for ads.protoUpb include
+223154,Fix existing ref counting classes and add new ones.
+223896,Add fake ALTS handshaker server (bazel only)
+219616,gRPC CLI batch mode
+219874,Allow setting LB policy name via the C++ API
+223650,try kokoro alts tests
+217296,Expand bad_client to be able to make full requests
+217742,Port parallel greeter project to an open-sourced C++ test
+217536,Add artifact builder script
+216060,Introduce multiple clocks to GPR
+218333,Added Grpc.Tools.MSBuildIntegration
+218632,Add src/compiler to clang-formatting pass
+226643,DO NOT MERGE: check php tests
+227161,Convert mpscq API from C to C++.
+226742,[Python] Add authentication extension example
+212206,C++api
+226107,Convert client_channel channel_data to C++
+227420,CDS LB policy
+216228,initial implementation of health checking service
+219580,Add shutdown hook for CoreCLR
+218281,Optionalize load balancing policies
+220715,Add a slice type that shares a refcount with a transport stream
+218752,"Fixes for cronet, via makdharma"
+226459,Hide ConnectedSubchannel from LB policy API.
+219380,Manual v1.0.x -> master upmerge
+216365,Testing port server
+223934,Change trace logging to use GPR_INFO instead of GPR_DEBUG.
+224384,Allow per-host configuration of Cronet
+215473,Change MSVC project files for WIN64 build
+228216,Restructure XdsClient load reporting APIs
+222654,Client channel stress test
+217422,Bundled C core with Ruby library
+218350,Add a thundering herd test for various polling mechanisms.
+219255,PHP: add PHP7 to various Jenkins tests and update dockerfile
+223132,Add fd cache to epollex
+215979,Backport NPN support into 0.9 release branch.
+226477,Remove channelz from LB policy API.
+224836,EXPERIMENTAL: Codegen for callback client unary calls
+227752,Bare bones of the libuv EventManager.
+216640,Respond with UNIMPLEMENTED when a requested method is not found
+216681,Respond with UNIMPLEMENTED when a requested method is not found
+217014,Bring Node coverage up to 95%
+226303,Added Objective C stress tests
+227757,Convert json_reader and json_writer to C++.
+226928,Migrated from nanopb to upb for grpclb
+222169,Attempt to fix ruby build on Kokoro
+218928,Test python grpc shutdown
+219276,PHP: add PHP7 to various Jenkins tests and update dockerfile
+215484,Migrated Objective C library to C batch API
+224426,WIP PR for building gRPC Python with Bazel
+222013,C# treat compiler warnings as error.
+228381,[Aio] One completion queue & many-thread many-loop
+226299,Shrink arena size by 40 bytes and cache align.
+221002,Alpine linux support
+227381,Move XdsClient instantiation into xds resolver.
+218159,"Reference github boringssl, move to chromium-stable branch head"
+227594,[AIO] Implement the shutdown process for AIO server and completion queue.
+225842,Add flaky_network_test after fixing internal build failures.
+226641,Implement global interceptor
+228437,Backport #22388 and #22371 to 1.28
+218777,Make grpc++ independent of protobuf
+220387,Move grpcio_tools to src/python
+218022,DO NOT INTEGRATE.
+220438,Move grpcio_tools to src/python
+219575,Dotnet CLI distrib tests and associated cleanup.
+220592,"Add zalloc, convert a bunch of files to use it"
+226265,Svc cfg2
+218915,PHP: add some phpt test cases for PHP extension
+224921,grpc_cli json support
+221866,HTTP CONNECT Auth support
+225010,"Revert ""Revert ""grpc_cli json support"""""
+225024,Add wait-for-ready semantics
+219136,Distribute ProtoC and the plugin as pods
+219098,Distribute ProtoC and the plugin as pods
+225886,Roll-forward PR17308
+218834,Ruby garbage collection fixes
+225186,C#: Add BindService() method that works with alternative serving stacks
+219923,Node electron build
+221367,fixes to connectivity state api and add in constant state watches
+217265,Bad framing tests
+220554,"Add benchmarks of closures, combiners, exec_ctx primitives"
+218758,C#: don't require Channel.ShutdownAsync() and Server.ShutdownAsync() to be able to exit.
+217347,"Hit a few more paths in http_server_filter.c, sockaddr_resolver.c"
+223161,Any
+226312,Add cares glue for libuv event loop
+228137,[Aio] Port server dynamic credentials test to AsyncIO stack
+224429,Basic setup to build gRPC Python with Bazel
+218658,Add copyrights to .bat files (and update the checker to report missing ones)
+217257,Hpack size tests
+220364,Tracing API
+226438,"Revert ""Merge pull request #18931 from veblush/config-migration"""
+226447,"Revert ""Config migration"""
+227434,End-to-end tests for C++ wrapper of SPIFFE credentials
+227785,LogicalThread
+217752,Add Node distrib tests and fixed some issues with the packaging script
+216384,Introduce client-side CallOptions 
+215371,Objective C protoc plugin
+227964,Update third_party/protobuf to v3.11.2 
+217510,Separation of core from proto compiler output
+220318,Fix cronet_transport.c failure handling bug
+221356,"Refactor client logic into superclass with generic methods, improve documentation"
+222361,Add HPACK stats
+219184,Backport of pull request #6737 into GA branch.
+221062,Split event notification out of ev_epoll_linux.c
+220256,Clean up tools/run_tests directory
+226000,Clean up grpclb and xds end2end tests.
+228548,Move decompression into gRPC Core as a filter
+217271,Fix error messages.
+215501,Migrate Python to batch core API
+227726,C# health checks watch
+220656,Add socket factory support to udp_server.c
+222624,CompletionQueue DoThenAsyncNext
+217323,Add a test that overflows incoming flow control windows
+215977,Adding a check to find NPN-capable OpenSSL.
+212261,Change the interface of RPC Framework's Future interface.
+225292,Move grpc_shutdown internals to a detached thread
+226912,Refactor ChannelCredentials and move to Grpc.Core.Api
+220888,Benchmark CHTTP2 basics
+224884,Create interfaces and initial plumbing for interception API
+220558,Add a test that measures flow control stalls in a deterministic way
+221349,Add typings to Node.js grpc module
+223173,Fix-forward: Stop using std::thread in C++ library since it can trigger exceptions
+226852,Add a test client for certain grpclb fallback scenarios
+220489,"Add a load balancing cost context object, to avoid using metadata for this purpose"
+226637,Added grpc_slice_buffer_reserve and grpc_slice_buffer_note_add method…
+220953,Calculate RPC deadline right before call creation
+215500,Synchronous open-loop C++ test
+222948,Any type
+218872,"Add a test of metadata, status code, and details"
+216267,Dynamic-sized thread pool
+212013,Factor out the pollset kicking mechanism and eliminate sharding
+216171,auth context iterator
+220427,Backport #9479: Automatedly advance ObjC version numbers
+226695,Second attempt: Hide ConnectedSubchannel from LB policy API.
+217533,Add shutdown_starting callbacks to tcp_server
+218956,Build ObjC examples in travis
+224576,"Second attempt: ""Restrict the number of threads in C++ sync server"""""
+212500,"Travis Support for C++, Python, Node"
+212567,A couple of fixes + a test for client side authentication of hostnames
+226901,Add threadpool benchmark and build files
+223112,Extract per LB-call data from the glb_policy
+218902,Updated several threads to use CleanupThread for clean exit
+218818,Make C++ compile and run under gcc-4.4
+215960,Changes required for reporting metrics to performance database server
+224575,"Second attempt: ""Restrict the number of threads in C++ sync server"""""
+221184,Increase CMake build portability and improve support for FreeBSD
+224484,Restrict the number of threads in C++ sync server
+217249,Add bad hpack frame tests
+221145,grpc_mpsc queue based completion queue
+220236,Auto-update Python documentation
+226497,Twine check artifacts
+217492,Make grpc_tcp_listener private.
+219748,Stop using atexit in tests
+216371,C# API improvements
+223646,Convert retry throttle code to C++ and add tests.
+223055,C++: Catch exceptions from sync method handlers rather than crashing server
+226938,KeyValueStore server example for async bidirectional streams
+217067,Bring Python interop tests to the beta API
+227037,KeyValueStore example for async bidirectional streams
+218105,Update Node generated docs to 0.13
+215382,"Define a smoke test for performance work, fix some bugs"
+225699,Added test for RPCs over a flaky network
+211986,Cleanup makefiles
+218195,Enable new usage modes for performance testing
+215390,Thread local storage for grpc
+215342,Removing C++11-isms about multithreading.
+226271,Revert #18733
+219604,Allow decoupling core version number from wrapper version numbers
+223202,Reformat Python docstrings
+219767,Modifications to grpc_metadata to use mdstr fields.
+223018,Add back 1_cq qps test
+224097,get rid of premature return in massage_qps_stats (second attempt)
+220365,Add proxy mapper hook.
+224694,added qps tests on bazel
+218938,Add a flag that causes wildcard IP addresses on servers to be expanded
+215520,Integration of Systemtap as a profiling mechanism.
+222175,Change plugin credentials API to support both sync and async modes
+217914,C# qps worker updates
+217679,"Add {GPR,GRPC,CENSUS}_API tags to public functions"
+223297,GPR review: privatize host_port.h
+222741,Support Manually Constructed Virtual Functions in C Core
+222570,Fix build for ios and android using grpc as cc_library
+228420,Gracefully switch xds policy instances when cluster name changes.
+212504,DO NOT MERGE: Travis python test
+215746,Add testing of bad client behavior
+227560,Add experimental option to run unary-stream RPCs on a single Python thread.
+220462,PHP: update examples
+218279,Add python script for running performance tests
+219260,changed ix-async dependencies to System.Interactive.Async version 3.0.0
+212248,Make grcp_sharp_ext the only dll needed to run gRPC C#.
+228107,[Aio] Close ongoing calls when the channel is closed
+228126,Replace LogicalThread with WorkSerializer
+222340,Support SSL server certificate reloading.
+216658,Design and implementation of the core credentials plugin API.
+216720,Introduced a registry for LB policies.
+228547,"Revert ""Second attempt: grpclb stabilization"""
+228341,update service config parsing as per recent spec change
+222854,Reuse BatchContextSafeHandle objects by pooling them (take two)
+219680,Add (slightly cleaned up) variant of user contributed test
+218137,Reachability ObjC fix
+218100,specify metaclasses in a py3-compatible way
+223514,Rewrite connectivity testing app
+219475,Change cq_verifier to report file and line number for expectations.
+216131,Lockfree stack
+226386,Split multilang master jobs by language
+224865,Fixed a crash related to error reporting
+225985,Multiprocessing Example
+218145,Fix some race conditions
+224237,Add Type Checking On Channel Args
+216470,Add a health checker service implementation.
+221318,Add option to upload Jenkins test result to BQ
+226837,c# - remove async machinery overheads (takes new external dependency)
+227789,"[Test PR, No Review]Fix portable error"
+220839,Use an arena for call allocations
+226287,Add non-internal build.cfg files for bazel RBE jobs
+226334,Backport #18771 to v1.20.x
+219307,Manual upmerge from v1.0.x
+212008,Adding a few more comments in the Makefile template
+212513,Added C# interop server
+217376,clang-format after last weeks test-fest
+224056,get rid of premature return in massage_qps_stats
+218482,Moved protos out of core_codegen interface
+215879,Revamp of C# channel options (aka channel args)
+223385,Make lb_calld Orphanable
+216386,Add a test of non-blocking API behavior
+224291,[Second attempt] Add Type Checking On Channel Args
+219333,Manual upmerge after version bump.
+222485,"Cleanup write path, fix some bugs"
+216385,Add health-checking to Python
+225482,Allow LB policies to intercept recv_trailing_metadata
+217944,Upmerge from 0.13
+218370,Server channel affinity
+227656,Change upb from filegroup to library
+223184,C++ Filter API
+222913,Upmerge 1.8.x into master to prevent future merge conflict after version bump
+218576,"Improve benchmarking scenarios and enable ""smoketest only"" suite."
+222293,"Revert ""Allow SerializationTraits to use grpc::ByteBuffer rather than only grpc_byte_buffer"""
+222749,INTERFACE REVIEW: Filters
+225935,Avoid copying grpc_slice as much as possible.
+226416,C++ Filter API
+216723,Add CMake Project
+216529,C# fixes and beta API polishing
+218896,Fix compressed reads in C# and implement some compression interop tests.
+225762,Add subchannel retention
+223702,Implement FixedCapacityVector.
+226778,csharp convert micro-benchmarks to benchmarkdotnet
+224302,Separate out the posix part of the c-ares driver
+220958,Move src/core/lib/tsi --> src/core/tsi
+223396,Upmerge 1.9.x to master
+215863,Made grpc_byte_buffer_reader able to decompress msgs.
+216338,Support test certificates and SSL name override
+222636,Cleaning up census code.
+225629,Add basic benchmark test for Python
+218624,Network connectivity monitor
+227546,Get rid of the boringssl podspec err_data.c hack
+226253,"Revert ""Revert ""Merge pull request #18458 from grpc/grpc_namespace_server"""""
+227750,Remove vtables from JSON library
+226122,"Revert ""Revert ""Moving ::grpc::ServerBuilder to ::grpc_impl::ServerBuilder"""""
+228044,"Revert ""grpclb stabilization"""
+217960,Fixes for gcc4.4
+217052,Add test for CPU functions. 
+217349,Add tests for algorithm.c
+220605,Test BUILD file assortment
+228155,"Backport #21721: Revert ""grpclb stabilization"""
+226419,Use aligned_alloc directly for grpc_core::Arena.
+220595,Add benchmarks for metadata operations
+222349,More changes for C to C++ Compilation
+217429,Generate the Node package.json from build.yaml
+220439,Fix fuzzing detected failure
+223926,"Convert c-ares test runner from bash to python, to support windows"
+222761,Add CNAME test cases to c-ares resolver tests
+222442,Add flow control to inproc transport
+224828,"Make ""Target log"" available for per-language test suites"
+219018,Allow returning a workqueue somehow associated with an endpoint
+216901,Add more test cases to end2end test. 
+224708,"When using c-ares, resolve ip literals and Windows localhost on our own"
+228226,[Aio] Implement health checking servicer in AsyncIO
+219025,Fix Python interop unit-tests on Windows
+212415,Updated Python protoc plugin and Python plugin testing.
+227767,[Aio] Client unary unary interceptor
+222984,Stop using std::thread in C++ library since it can trigger exceptions
+223503,Introduce a 'weak' and mutable version of slice hash table
+219709,fix for memory leak found by fuzzer
+218981,Network monitor test
+221378,"Ping simplifications, BDP estimation improvements"
+225988,DRAFT: subchannel retention
+212249,Compiling protobuf from the Makefile if we don't have it on the system.
+217837,Make C++ alarm class usable and testable
+225620,Move public types needed for server implementation to Grpc.Core.Api
+217952,Run tests improvements
+221099,Hybrid CQ support
+228017,[Aio] Implement add_done_callback and time_remaining
+225942,Moving ::grpc::ServerBuilder to ::grpc_impl::ServerBuilder
+218160,Make unix sockets optional
+218294,Introducing client_channel_factory
+225948,"Revert ""Avoid copying grpc_slice as much as possible."""
+212006,Add an optional server shutdown event.
+227294,Chttp2combiner
+217341,Add a test for sockaddr_resolver
+221470,Flow control experiment memory pressure max estimate
+220586,Add a benchmark for various operations on grpc_error
+216284,Tracing api
+219492,gRPC CLI list command
+215293,"Add C++ streaming QPS test, fix bug in async C++ tests"
+219608,Fuzzing detected memory leak
+215525,Split C++'s smoke_test into 4 stand alone ones
+224659,Channelz Part 5: Server Support
+217423,Refreshing the etc/roots.pem file.
+227211,WIP: Don't make a second DNS resolution attempt if a duplicate attempt is oustanding
+226814,csharp: replace TCS/Task in scenarios that don't actually need it
+218916,Support server-side streaming of a unary RPC
+224204,Build C-Ares with Bazel on Windows
+217364,Increasing json code coverage.
+227666,Use the RECV_STATUS op in ALTS handshake RPCs
+218780,Enable Python testing on Windows
+228028,[Aio] Move status and initial metadata handling to Cython
+212547,Hookup TSI tracer
+215208,Adding refresh token credentials.
+217356,Add dns resolver test
+223102,Reform cygrpc.OperationTag and cygrpc.Event
+223238,Bad client changes Part I
+217639,Add 'uninstall' make target
+224430,Minimal Bazel BUILD files for grpcio Python
+217333,add a test for secure_channel_create and fix cleanup code
+226193,"Move functions for individual args out of channel_args.{h,cc}."
+225240,add code generation for dlang.
+223155,"Simplify LB policy refcounting, again."
+221464,Flow control experiment memory pressure
+219553,Manual upmerge from 1.0.x to master.
+219200,Splitting out interop's server helper.
+220747,Add some pollset benchmarks
+219525,Move subchannel_call_holder code into client_channel module.
+227776,Convert security code to use new JSON API
+226358,Refresh of interop matrix testcases
+223082,Simplify LB policy refcounting.
+217309,Added ability to override mem alloc funcs
+223217,Clear pending data when stream is closed by server.
+224673,Add new C# serialization API
+217683,"Fixing, using and testing alarm code."
+215437,Grpc ruby add support for returning metadata to the rpc server 
+218190,Csharp serverside abstractclass v2
+223537,Support grpc++ compilation as windows dynamic library (DLL) using cmake.
+212516,Adding flaky attribute for tests.
+217966,Get gcc 4.4 working
+224427,"Add two executors: ""resolver executor"" for the resolver and a ""default executor"" for everything else"
+217348,More C# coverage
+221150,defer grpc_init and background threads until first grpc object init
+224346,Update to use the canonical version of LB proto
+226562,Fix ref-counting issues in channelz registry.
+226827,"Revert ""Merge pull request #19583 from gnossen/revert_signal_handling"""
+218457,Updated load balancer proto to v1
+225021,Add wait_for_ready semantics
+221447,Upmerge v1.3.x branch to master
+219850,Add option arguments to all C++ sync streaming APIs 
+226414,Jobs split followup: create pull request jobs
+219755,v1.0.x → master upmerge
+217472,Exploratory refactoring for mixed sync/async methods on the same C++ service
+223223,Rename 'gpr++' directories to 'gprpp'.
+221482,C# add microbenchmarks project
+221677,Begin running ruby unit tests under asan
+225915,"Revert ""Revert ""Folding the Channel class into the grpc_impl namespace."""""
+215255,clang-format c++ code
+215383,Allow RunScenarios to spawn in-process workers
+217755,"Removing underscores in CENSUS_API, GRPC_API and GPR_API."
+221739,Add TLS 1.2 ECDSA ciphersuites to gRPC defaults
+226636,Add Delegating Channel
+224776,EXPERIMENTAL: C++ generic client-only bidi-streaming and alarms callback API
+225782,Implement PHP API to disable fail fast mode
+216815,PHP: add Apache/Nginx examples
+212355,C# renaming of VS projects and some cleanup
+225843,Swap in new LB policy when it's ready
+220733,Error arena optimization
+221453,Turn Flow Control into One Module
+217544,Run nosec tests again
+216699,"Revert ""C++ docs"""
+218565,Interop/Stress client that is resilient to server restarts
+227355,"Revert ""Chttp2combiner"""
+219966,Fixed wrong connectivity status updates for RR
+225825,"Channel folding, take 2"
+225631,Folding the Channel class into the grpc_impl namespace.
+224746,Hpack changes part 1: make grpc use the static hpack table on the encode path and optimize encoding
+223714,EXPERIMENT/NOT FOR REVIEW: Bring back some absl just to see what happens
+218366,Memtracking stuff
+222322,1.6.x master upmerge
+222270,Getting files C++ compilable
+227307,Activate the C++ standard library
+219904,gRPC LB fixes from end two end testing
+220498,Pin yapf  for v1.1.x
+220496,"Re-run yapf code, and pin version"
+212352,Ensure interop tests are run as part of run_tests
+221463,Flow control experiment sticky avg
+218389,Adding support for msys.
+225939,C++: Support callback-based generic service
+222537,Use key in dynamic table if available
+224446,Channelz Part 2: GetTopChannels
+222488,"Set gpr_mpscq_test to not use polling, make that bit work again"
+218450,Ruby stress client
+219788,Remove generated pb files
+227010,Verify protobuf 3.9.1 with GRPC
+228092,[Aio] Support wait-for-ready mechanism
+228181,"Move xds API code into a class, so that common state can be cached."
+222512,C++ize PidController
+226608,Add unknown frame type tests for HTTP2 parsing
+224347,WIP: Simplify subchannel refcounting
+228073,Support xds request timeouts.
+226380,Use SubchannelInterface to hide implementation from LB policy API
+217488,"Revert ""Refreshing the etc/roots.pem file."""
+216175,C# client-side metadata refactoring
+226119,"Revert ""Moving ::grpc::ServerBuilder to ::grpc_impl::ServerBuilder"""
+222408,Revert #12399
+225894,Revert async
+221120,"Revert ""Implement lazy deframe"""
+216696,Update debian/backports to release-0_10_2
+227226,Update Protobuf Version to 3.10.0-RC1
+218689,Use unsafe code blocks to read data from op completions.
+224550,Watch subchannel that's reffed
+225553,C++ callback API: 3 stability issues
+218696,C# assorted cleanup
+226318,Inlined md_ref/unref and saved some unnecessary ops
+211989,Node generated code
+222999,Yapf examples/python
+222643,Test backup poller with the http2 connector fix
+225895,Datetimeoffset deadline
+216609,Sync debian/sid with release 0.10
+218609,Initial Python3 support
+219974,Change cronet interface
+219900,Revert format changes in #8441
+222972,Streamline metadata in gRPC Python
+225190,"Revert ""Merge pull request #17072 from yashykt/interceptor_cancellation"""
+212062,Remove more complicated sprintf usage from the libraries
+220020,Fix handshaker API to safely handle shutdown
+222396,Client channel backup poller
+222333,Flow control fixes
+217893,Fix python example docs
+215784,Removing mdctx from the credentials.
+226434,Update protobuf version to 3.8.0-rc1
+221132,"Revert ""Fix build on Alpine linux + add portability tests"""
+224023,Remove support for ipv4: and ipv6: URI prefixes.
+222195,Fake zero copy protector
+223177,"Remove alarm from core, implement in C++ layer only"
+223109,Introduce cmake externalproject_add
+226259,Fold Channel into grpc_impl from grpc namespace
+222436,1.7.x is now 1.7.0-pre1.
+219588,Remove grpc_base from uses clause of grpc++_base filegroup
+227168,DO NOT MERGE
+227917,Auto-update Python documentation for v1.26.0
+215797,Backport of #1819 into the release-0_9 branch.
+226081,Bring ChannelArguments to grpc_impl from grpc
+218736,C# add support for multiple completion queues in GrpcThreadPool.
+222706,Many improvements to detect flakes script
+219269,PHP: use php7_wrapper to reduce duplicated codes on v1.0.x branch(second part)
+226472,"Revert ""Revert channel to grpc namespace"""
+219268,PHP: use php7_wrapper to reduce duplicated codes(second part)
+218823,Test gpr_log format check  
+219278,PHP: use php7_wrapper to reduce duplicated codes on v1.0.x branch(final part)
+218826,"Add format check for gpr_log and gpr_asprintf, add gpr_strpad "
+219283,PHP: use php7_wrapper to reduce duplicated codes(final part)
+223524,Convert udp_server.cc to C++
+223455,Stop using detached threads. All threads must be joined.
+227147,Upgrade to Bazel 0.28.1
+212323,C# preparations for going public
+220430,Record why an FD was shutdown
+225927,"Revert ""Convert client channel factory to C++"""
+220872,Track milliseconds since process start in timer heap
+225859,"Revert ""Move grpc_shutdown internals to a detached thread"""
+225876,"Revert ""Move grpc_shutdown internals to a detached thread"""
+221505,Change kicking strategy in cq
+222461,LB policies request re-resolution without shutting down
+215506,Fixes podspec and removes old generated files
+222845,Avoid unnecessary delegate alloc in CallSafeHandle and AsyncCall*
+219170,"Overhaul how the native extension is found, loaded and used"
+212273,Allow grpc_init to be called multiple times
+216179,"Changed to newer, simpler server construction interface"
+220842,C# prevent name clashes with generated classes/enums in *Grpc.cs
+219076,C# Fix loading the native library on dotnet cli
+220897,Dynamically adjust TCP read buffer size
+215744,Remove all uses of __FUNCTION__
+223404,Experiment: remove final from classes
+223170,Simplify (a little) qps_test async server code
+221458,Simplify (a little) qps_test async server code
+219685,Reduce load on Jenkins from running benchmarks as tests
+226692,"Revert ""Hide ConnectedSubchannel from LB policy API."""
+225483,Fixing a few thread safety issues in gRPC Objective-C library
+227105,Make MethodHandler and related interfaces generic
+218161,Update the usage of metaclasses for python3.5 compliancy
+215329,Replace generated code with proto files in PHP library
+221756,The Tracers Become Self Aware
+226466,More LB policy API improvements.
+224239,Even More Clang Tidy: performance-*
+216280,Cleanup in C# tests
+216766,Bring 0.11 into master
+219954,Auto-update Python documentation
+223640,load ssl default root certificates only once
+218377,Improvement to benchmarking
+212030,Changing the SSL (Server) Credentials API.
+218922,Make transport-level errors be reflected in status messages on calls
+218568,Made complex directories for python protoc test
+224527,Cleanup and update C# examples
+218179,Refactor port server client part to be shared between Windows and POSIX ports
+218357,Refactored C++ code generator to not directly depend on protobuf
+218693,Move cronet code out of libgrpc and into libgrpc_cronet
+222131,Fake zero copy protector
+216988,Fix issue with Node installation
+226856,Update protobuf to 3.9.0
+221810,Test owners
+221807,[DO NOT SUBMIT] Test owners
+221381,Move gRPC constants to js file to include them in generated documentation
+219429,Move Podspecs to v1
+225375,Upmerge v1.17.x to master
+216794,Generate interop test args in python.
+216183,Lock free requested call fulfillment path
+226249,"Revert ""Revert ""Revert ""Folding the Channel class into the grpc_impl namespace."""""""
+220452,Update latency profiler to use (more appropriate) microbenchmarks
+220540,Make load balancers use combiner locks
+220220,Add service config doc.  Update naming and grpclb docs.
+212202,Clean build.json
+218678,Update third_party/protobuf to v3.0.0-beta3 (in  release-0_14  branch)
+218309,Optionalize resolvers
+217842,Revive and reform open-loop QPS testing
+220166,node: upgrade to protobuf.js 6
+227843,Convert xds bootstrap code to use new JSON API
+226846,Migrated from nanopb to upb for health
+223289,"Revert ""Merge pull request #13932 from dgquintas/conn_subchannel"""
+223125,Connected subchannel refactoring
+226907,Create sub package for cronet
+220784,Move to a customized benchmark diff tool
+219846,V1.0.0 dotdashpay changes
+226064,DO NOT MERGE: Test PHP MacOS build failure
+224147,V1.12.x
+219449,"Updated cmake template, cmakelists with additional QA flags"
+227915,Add cmake_target field to abseil targets
+223031,"cmake: Don't rely on boringssl headers when ssl provider is ""package"""
+225824,"Revert ""Folding the Channel class into the grpc_impl namespace."""
+216072,Add metadata refcount debug helpers
+217871,Update C# examples to 0.13.0 packages
+227651,Convert grpc_connector to C++.
+218169,Don't hold the GIL when calling anything in core
+226376,"Revert ""Merge pull request #18859 from grpc/internal_py_proto_library"""
+221492,Change LB policy API to always return results via the closure.
+224692,Upgrade C# examples to grpc1.14.1 and protobuf3.6.1
+222937,Change client-side credentials' use of gRPC Core
+220308,Update ruby to 240
+219175,Benchmark fixes
+216084,More flexible default google creds.
+227373,Remove gpr_get/set_allocation_functions
+219179,Advance versions from 0.14 -> 1.0.0-pre1
+217438,Security connector fixes for 0.12 branch
+224017,Migrate SSL_transport_security TSI to new TSI handshaker API
+218962,Changed default string type to be str
+219549,Improvements to CoreCLR support
+226816,C#: add System.Memory dependency and use Span<> internally for all target frameworks 
+227259,Add vsock support
+222129,Upgrade c-ares to 1.13.0
+224734,"Revert ""Fathom tcp changes"""
+212035,Bind servers to port 0 in node tests
+227610,Add vsock support
+218355,Factored out parse functions from sockaddr_resolver
+223065,Simplify top level CMakeLists.txt
+217566,Move build configs into build.yaml
+217567,Test rtt2
+225243,Adding ads (data-plane-api) method name to wellknown names list.
+216536,Security connector refactoring
+218806,Allow custom server handler mapping for C#.
+223236,Elide cygrpc.ChannelArg and cygrpc.ChannelArgs
+216324,Backport C# related fixes to 0.10 branch.
+223575,Replace old server_host with the new one via command line.
+219079,Deflake C++ qps tests and improve verbosity of driver reporting
+219800,Advance ObjC versions to v1.0.1-pre1
+224860,Fix .bzl format
+227585,Second attempt: Add new fields to xds policy config.
+217230,Stub and server lifecycle fixes
+217229,Stub and server lifecycle fixes
+216195,Subclass GRXWriter instead of conforming to its protocol
+219552,Track whether or not each resolved address is a gRPC-LB balancer.
+219950,Make resource_quota a heap allocated object
+222225,Adding more pointer type conversions for C to C++ compilation
+227409,Add new fields to xds policy config.
+218544,PHP: stress test client
+227855,Clean up APIs for handling grpclb protos
+219383,1.0.0rc2 Python documentation
+216473,First draft at addressing #1799 for grpc_security.
+221526,Eliminate some allocations in client_channel code.
+219430,1.0.0 Python documentation
+228009,Backport of #21445 and #21662
+219476,combine calls to run batch on unary requests and responses
+227861,Make build template more robust
+221351,Implement grpclb drop support.
+219020,Non-null Implementation of grpc_fd_get_workqueue for the epoll poller
+225012,Xds plugin init
+225798,Convert client channel factory to C++
+224765,Testasserteq
+227745,Convert grpc_proxy_mapper to C++.
+221761,Advance versions of BoringSSL and protoc
+217912,Rename C# Preconditions to GrpcPreconditions
+226375,Added slice equality when static fastpath.
+216926,Node single install step
+221668,Use openssl headers when ssl provider is package
+222911,"Carry on from #13468, simplify bazel consumption of grpc"
+219836,Enable pull request test filtering
+219867,combine more core batch ops
+216089,Get rid of explicit GrpcEnvironment.Initialize
+220161,Renamed google_benchmark submodule to benchmark (bis)
+224784,"Revert ""Status propagation changes"""
+221405,"Revamp artifacts, packages and distribtests"
+227854,Leaner MacOS tests (selective installation of prerequisites).
+217171,Changing the credentials plugin API.
+227057,Change cc to c++
+225683,Add LB swapper
+220158,Cache Poller threads for cv-poll engine
+223019,Fix Windows Compile
+212133,Build cleaner updates
+220472,Add new interpreters
+222054,Moving visibility and package creation to the build system.
+224706,Status propagation changes
+225625,Fix C# and Python interop_matrix for v1.18.0 release and other cleanup
+217770,No git clone for distrib tests
+226170,Convert call_combiner to C++.
+215386,Avoid identifiers reserved by Ruby
+218557,Reworked python health checking and added tests
+225611,Refactor ContextPropagationToken to allow moving to Grpc.Core.Api package
+228370,"xds: don't NACK empty updates, remove deleted resources from cache, and other fixes"
+224922,Limit Channel Trace by Memory
+225388,Reorder fields in slice to share the same bytes for length fields.
+221892,Use new protocol for reporting dropped calls to grpclb balancer.
+219463,Rename grpc_client_config to grpc_resolver_result.
+223654,"Revert ""Channel Tracing Implementation; Part 1"""
+228245,Be careful about when to inline user's OnDone server callback
+219339,Load Reporting filter v0
+215682,Incorporate feedback from API review: Disposable calls
+224096,"Revert ""C++-ify the ChannelzRegistry, Adds Generic Object Support"""
+227193,hpack encoder optimizations.
+225609,"Make executor look more like the rest of the codebase (namespace, etc)"
+226395,Expose cycle counter and use it in /channelz.
+222841,Remove unnecessary if condition in public_headers_must_be_c89
+222789,Trailing metadata status
+223853,Use a new gcp environment check for google default credentials
+217687,Add channel args to enable user agent string for Objective-C
+216350,Remove C++11 dependencies in QPS test that break old compilers
+212320,Python early_adopter changes in anticipation of interop client.
+225293,Upgrade C# testing images to debian stretch (second attempt)
+221156,fixes for cross-compilation from Windows to Android
+217025,Release 0.11 to master
+216100,Rewrite completion queue
+222310,Overhaul protoc_plugins._split_definitions_test
+227872,Make gRPC podspec template more robust
+227309,Refactor hpack encoder to be smaller footprint.
+226727, Modify codegen to use grpc_impl namespace and other cleanup
+220906,Update Node gh-pages docs to 1.2
+219287,Cronet e2e tests
+223064,Backport bazel changes from #13468 to 1.8.x
+223431,Updating roots from Mozilla.
+216792,Simplify running of cloud to prod interop tests on Jenkins
+223642,Add C++ wrapper APIs for ALTS credentials
+219225,Update protobuf to 3.0.0 (GA) and the gRPC plugin to -pre1.2
+226959,remove all unused-parameter warnings in C++
+225587,Make C# ServerCallContext implementation agnostic
+219121,Removed early adopter code
+227038,Enable C++ standard library
+217622,Run tests refactoring
+223994,Trial combination of gpr_likely and combiner_run
+217872,Upmerge from 0.13
+222769,Inline Closure
+212118,Merge enum-ification of Python RPC Framework.
+227254,Refactor hpack encoder to be smaller footprint.
+223338,Deprecate GPR_TIMER_BEGIN/END and replace with GPR_TIMER_SCOPE.
+224118,C++-ify some client_channel internals
+222608,Allow Bazel to build gRPC as a third-party dependency without git submodules
+225439,Move ares_channel from the request object to the resolver
+216176,Make thread_pool.h a public header
+221731,"Client channel: more code cleanup, and add a tracer."
+227683,[Aio] Unify the logic around Core Callback API for both sides
+216919,Fix thread stuck problem on Mac
+227162,"Revert ""Merge pull request #20097 from gnossen/dual_version_python_te…"
+217647,More Makefile cleanup.
+217671,Generalize artifact builder
+221452,begin protobuf decoupling for C# code generator
+220031,Rewrite pollset_set implementation
+221094,Quick Clear Stream Transport Bits
+220539,Bring resolvers under the client channel combiner lock
+227223,Upmerge from v1.23.x branch
+227914,[Aio] Improve cancellation mechanism on client side
+226257,"Revert ""Merge pull request #18564 from grpc/compression"""
+227451,"Revert ""xds client bootstrap file"""
+219470,Manual upmerge from v1.0.x
+220155,Address comments from #8913.  Also make changes needed for import.
+223532,"Revert ""Refactor connectivity monitor on iOS"""
+222735,INTERFACE REVIEW: Endpoint interface
+216704,Initial work on protocol objects
+220989,Load Reporting back to using metadata
+217924,global replace health check proto v1alpha to v1
+224380,Refactor resolver result callback
+226458,Fixing channel build failure
+216745,Python Beta documentation
+215764,Flush printers in protoc plugins properly
+221643,Allow application optimization targets to be hinted to grpc (prefer latency over throughput for now)
+215372,Refactoring std::chrono out.
+223849,PHP: change the behavior of clients sharing one channel
+215772,Flush printers in protoc plugins properly (release branch)
+217761,Replace 'long' with 'int64_t' in public core headers
+222478,Beginning to explore a C++ closure type
+227337,Fix polymorphism for UniquePtr<> and OrphanablePtr<>.
+215853,"Fix podspec of tests, sample and README"
+221286,Upmerge from 1.3.0 to master
+228544,C++ize message compress filter
+226284,Updated all ObjC examples to use the new api 
+225381,Auto-update Python documentation for v1.17.1rc1
+215756,Revamped iomgr's callback mechanism
+216542,Refactor default host name resolution
+222971,grpclb re-resolution
+223407,"Revert ""Revert ""grpclb re-resolution"""""
+227607,Php8 compat
+212302,Async client api change. Add a ClientAsyncResponseReader.
+217331,Make gpr_timespec platform agnostic.
+218937,Merge release-0_15 into master
+220549,Reduce mutexes in grpc_fd  read_closure/write_closure/shutdown paths (epoll engine only)
+227403,PHP:Migrate php:unit_tests to  latest version PHPUnit 8
+218490,Remove Python alpha/early_adopter implementation
+222591,Another direction for closures
+222165,PHP: remove invalid include-file and adjust include-file sort
+219088,work in progress fix for  #7230
+224732,Light refactoring of some transport code
+219382,Merge pull request #7688 from dgquintas/cpp_readme
+219370,fix c++ readme and tutorial
+224411,Move executor implementation into GrpcExecutor class
+224574,Add more filter priority levels
+221835,Flow Control Part 2: BDP
+217580,Revamp C# Nuget package
+223454,Reintroduce grpclb re-resolution with fix
+226455,Remove CreateChannel() method from LB helper API.
+217183,Refactor security connector and handshake
+215664,Updates Objective-C proto plugin
+226587,Fix compression algorithm parsing
+218712,Avoid using unspecified keyword args where possible
+227221,CH2 perform_stream_op_locked() enhancements.
+215680,Incorporate feedback from API review: Use IAsyncEnumerator to represent async read stream
+227655,Remove GRPC_CLOSURE_RUN and replace with grpc_core::Closure::Run
+222648,Improvements to C Core's backoff code and API
+221352,Removed the dockerfiles and test driver for stress test
+226019,LB policy API cleanup
+219937,Improve C++11 conformance
+219393,Add Python3.5 artifact targets
+227108,Use mutex instead of combiner in client channel data plane.
+227571,[AIO] AsyncIO Tests Kokoro Integration
+223413,"Revert ""Revert ""grpclb re-resolution"""""
+217569,Integrate changes from release-0_12 branch back to master.
+222060,"Renamed load_reporting.{c,h} to load_reporting_plugin.{c,h}"
+220414,Advance gRPC version to 1.1.0-pre1
+221515,Get rid of zero-length poll case now that timer pool exists
+225329,Add debug-only tracing to grpc_core::RefCount
+222555,Add cpp_protobuf_async_unary_75Kqps_600channel_60Krpcs_300Breq_50Bresp
+217031,cleanup dockerfiles and scripts for old interop infrastructure
+227600,Enable Retrieval of Initial Metadata from Single Threaded Unary-Stream RPC at Any Point
+219377,"Migrate distrib, interop, and stress to GA API"
+222538,"Move h2_ssl_cert_test out of end2end fixtures, use gtest"
+226815,csharp: coalesce async => async calls into single async method
+221606,Use one shell script for all run_tests_matrix on Kokoro
+227816,Remove namespace experimental from namespace grpc_impl for callback API functions/structs
+226402,Make cc_grpc_library compatible with native proto_library and cc_proto_library rules
+218832,Manually Upmerge changes from 0.14 release branch into master
+223281,Make RR re-resolve when any of its subchannels fail.
+224766,Ignore this
+219272,Updated ruby protos to use new _pb filename
+217112,Create a separate utility for reporting.
+223296,GPR review: Privatize thread-local storage headers
+215237,Adding support for alternative protobuf libraries.
+226772,Fix dualstack_socket_test
+215721,Fix shutdown crash in async streaming test
+223157,LTO efforts
+226067,Fold GenericStub from grpc_impl to grpc
+216576,Credentials naming and cleanup
+220725,Retry LTO
+226741,Move compiler targets from /BUILD to /src/compiler/BUILD
+223406,[python] Pass the host through the call creation methods.
+220954,A better bm_diff
+225237,"Remove the std::unique_ptr for interceptor creators, instead use move semantics everywhere"
+223167,"Revert ""Stop using std::thread in C++ library since it can trigger exceptions"""
+224536,"Revert ""Merge pull request #15797 from apolcyn/windows_compile_and_sort"""
+223618,Redo C# examples to use new Grpc.Tools (with codegen build integration)
+223647,Cleanup ALTS proto
+226158,Second attempt: Split data plane and control plane into their own combiners.
+225170,Building grpc++ as dynamic library (DLL) with exported symbols for windows using bazel
+220190,Remove leading space in C# service comments
+218099,replace uses of iteritems with six.iteritems
+226820,refactor response generator in client_lb_end2end_test
+227181,Remove LiteClientBase
+217174,Adding grpc_tcp_listener as an actual object being returned.
+215905,Simplify metadata usage
+227184,Organize test cases for xds test
+219312,PHP: add three macro to reduce code duplication
+216925,Restore sanity
+215469,"Making sure we don't require OpenSSL for tests that, in fact, don't need it."
+218615,Enable -Wextra-semi on compilers that support it
+215719,clang-format qps code - it was getting out of hand
+224126,Refactor to put c-ares queries under a combiner
+228102,Remove PriorityList from xds LB policy
+228023,Adding mixin classes to make client-side implementation cleaner
+219582,Move LB policy instantiation from resolvers into client_channel.
+218540,Fix coverage for large message and secure async end2end
+222953,"Not for review, testing: #13561 rebased"
+224311,Suppress noisy output during rspec
+219182,Build Python distributions for Python 3
+225536,interop_matrix: refactor LANG_RELEASE_MATRIX
+222812,Query for TXT service configs with _gprc_config prefix
+220501,Port #9488 and part of #9463
+216304,Add coverage testing
+219414,Fix CMake for windows (VS2015)
+216544,Eliminate public thread-pool interface
+226838,"Revert ""Adding C++ API and implementation for STS credentials:"""
+222850,Makes it friendly to import grpc from other bazel projects.
+223149,Elide cygrpc.Timespec
+216436,migrate to usable auth library
+227230,Rename filter functions to be able to uniquely identify them
+222331,Add back server memory decrease
+224155,WIP: Add a gcc-8.1 portability test for c and make it pass
+216487,rename native object wrapping native credentials from Credentials to SecurityOptions
+216485,Refactor auth interceptors
+211963,Run clang-format against node.js sources
+217977,Have a dedicated server security connector.
+224674,"Revert ""Add more filter priority levels"""
+221125,more TLS cleanup.
+220601,Always use port server
+216976,Made node interop tests maximally compliant with the spec
+219456,Rename some files to avoid conflicting .obj files on Windows
+226190,Remove error from connectivity state tracking.
+218717,Move tests to Cocoapods 1.0.0
+221324,Documentation fixes for python public API
+223749,Use channel arg to disable authority filter
+227099,Refactor response building in xds test
+216262,Fix flow control
+215250,Use distinct enums for distinct ticket types
+227830,Support multiple xds servers in bootstrap file.
+225989,Migrate bazel proto building rules to stackb/rules_proto
+215925,Update the Status API
+220068,Renamed google_benchmark submodule to benchmark
+220137,"Revert ""Renamed google_benchmark submodule to benchmark"""
+220139,"Revert ""Revert ""Renamed google_benchmark submodule to benchmark"""""
+217151,Updating the server1 cert so that it can be used with Go.
+224308,"Revert ""Treat nanopb as a regular external dep"""
+218162,Fix dict iteration methods for python3.5 compliancy
+223490,Updates Objective-C Generation to allow for omission of the generated @interface and @implementation
+226448,Clean up some names in the service config code.
+219816,Flow control v2
+221678,cmake: various fixes
+218320,Separate configuration from running logic for performance tests
+216219,"Mark up all existing comments in grpc.h for Doxygen, add main page"
+221456,Change round_robin LB policy to use the addresses in the order given.
+225562,Remove network_status_tracker
+219277,PHP: use php7_wrapper to reduce duplicated codes(third part)
+219281,PHP: use php7_wrapper to reduce duplicated codes(third part)
+219280,Re-create #7542 to see if it helps on Jenkins
+221990,Revamp C++ helloworlds
+215236,Add service name to Python early_adopter
+217994,"Remove binary tags, restrict tag characters to ASCII"
+220117,Shard global cv table
+226454,Cares windows detection backport to v1.21.x
+218873,Adjust cpu_cost of some tests to better reflect reality
+226433,cares: fix Windows platform detection and narrow scope of manual localhost resolution code
+227771,Update upb to the latest
+215214,"Eliminate the Python ""assembly"" package"
+218110,Add support for IP Addresses in Subject Alt Names.
+223522,"Add ASAN, UBSAN and MSAN scripts"
+225831,C#: csproj cleanup
+219245,PHP: use php7_wrapper to reduce dup-codes on v1.0.x branch(first part)
+225828,Make service config ref-counted and hold refs to it in LB config.
+227436,PHP docker update
+219244,PHP: use php7_wrapper to reduce duplicated codes(first part)
+217142,Use mako template for HTML report.
+225406,Moving ::grpc::Alarm to ::grpc_impl::Alarm.
+218729,C# streaming api improvements
+220550,Updating roots from Mozilla.
+226412,Optimize grpc timer implementation.
+222247,Getting files C++ compilable
+225977,Nuking the poll-cv polling engine
+222734,INTERFACE REVIEW: iomgr Polling Model
+223704,Bump protobuf version check from 3.0.0 to 3.5.0
+225653,"Revert ""C++ callback API: 3 stability issues"""
+212577,Node 0.11+ compatibility
+220199,Un-namespace Python packages
+217881,Separate timer checking from pollsets
+217968,Optimize generate_projects
+226332,Respect interval_us setting for TestServicer
+222456,check for protobuf 3.4.0
+220136,"Revert ""Remove redundant includes from string.h and tmpfile.h"""
+223696,Add more plugins to be used by grpc_cronet
+221554,Add helpers for creating channel args.
+222277,Removing _t type suffix and changing field names instead
+220193,"Revert ""Revert ""Revert ""Remove redundant includes from string.h and tmpfile.h"""""""
+212250,Rename examples/tips to examples/pubsub
+212128,Fix a couple of PHP bugs that prevented the PHP interop test client from working
+221414,Eliminate grpc_cc_libraries
+226096,Convert external connectivity watcher to C++.
+217512,Rename TestService to EchoTestService to prevent name-conflict with 'TestService' in test.proto
+222069,give run_performance_tests a main method
+223533,"Revert ""Revert ""Refactor connectivity monitor on iOS"""""
+223512,Refactor connectivity monitor on iOS
+220541,Use grpc_csharp_ext built by cmake 
+275496,Backport use image and alpha api options to v1.28.x
+218942,Update C# examples to 0.15.0 packages.
+225036,run_interop_matrix_tests.py: overhaul and simplification
+225078,WIP: Interop matrix experiment
+218534,"Provide coverage for large, async, secure end2end tests"
+215249,Python refactoring
+224656,Change pick_first to not unref unselected subchannels.
+223487,Updates Objective-C Generation to allow for omission of the generated @interface and @implementation 
+223484,Updates Objective-C Generation to allow for ommission of the generated @interface and @implementation
+224649,C++ microbenchmarks: update from KeepRunning to range-based for 
+217529,Update C# examples to 0.12.0 packages.
+219188,Automatic test that the library builds correctly with frameworks
+223488,Updates Objective-C Generation to allow for omission of the generated @interface and @implementation
+223483,Updates Objective-C Generation to allow for omission of generated @interface/@implementation
+223486,Updates Objective-C Generation to allow for omission of the generated @interface and @implementation
+220436,PHP: make tests runnable on both protobuf 3.1 and 3.2
+221998,"Revert ""Add TSI zero-copy frame protector"""
+221412,Fix ping policy
+217256,Deduplication of health.proto and math.proto
+225192,Change the varible names that keep track of rr policy its state and
+223507,Use only fully-qualified type names in C# codegen
+224002,PHP: add two macro for reduce duplicate code
+217717,Making the ruby gem for MacOS work again.
+219494,build.yaml changes to make certain grpc++ builds work
+226111,"Revert ""LB policy API cleanup"""
+224072,PHP: add two macro for reduce duplicate code
+221107,Manual upmerge from v1.2.x
+225283,Upgrade C# testing images to debian stretch
+213429,strcmp: change all !str[n]cmp to str[n]cmp == 0
+218259,Changes to resolver-LB interfaces.
+218201,"Revert ""Factor out backoff code into a separate library (to be re-used elsewhere)"""
+212350,Clean up Python C API use in src/python/src/grpc/_adapter/*.c.
+219036,Expunge all references to zookeeper
+219113,Removed early adopter code
+212330,Clean up Python C API use in src/python/src/grpc/_adapter/*.c. Specifica...
+218828,Add API to access the transport stream stats from a grpc_call.
+212371,Various MacOS build fixes.
+217412,Removing the auth_context from the security connector
+224087,Cleanup tools/jenkins directory
+226439,Update the message allocator API
+217849,"Revert ""Proto API for LB request/responses"""
+221537,Handle setting of prefix_libdir for installing with arch specific libs
+215206,strcmp: change all !str[n]cmp to str[n]cmp == 0
+224240,Bump pylint to 1.9.2
+226423,Extracted the code of Cpp Generator into a header
+223466,Refactor code for generating balancer channel args.
+227614,Dedupe dual stack tests
+222152,Enable epoll1 polling engine
+225740,"Revert ""Track the pollsets of an FD in PO_MULTI mode for pollex."""
+219351,Upgrade Google.Apis.Auth dependency to 1.15
+216928,Removed a pair of racy Node tests
+220399,Updated trace_context.proto and associated files.
+216242,Fake transport security to private
+218874,Reduce cost of some heavyweight tests
+225990,WIP: Remove epoll1 poller
+222981,Elide cygrpc.Operations
+219495,PHP: reject metadata keys that are not legal
+221849,Reset OWNERS state
+219496,PHP: reject metadata keys that are not legal
+220326,Don't configure core lists in in benchmark driver
+218755,Add a test for grpc/grpc#6522
+220104,"Revert ""Test credentials provider update"""
+225812,Introduce more helper methods in gprpp/atomic.h
+227725,Remove GRPC_CLOSURE_LIST_SCHED and remove scheduler field from grpc_closure
+219817,Regain sanity
+227553,"Revert ""Add new fields to xds policy config."""
+222756,Fix races in rolled-back LockfreeEvent code
+218908,Remove generated NewClient factory method for C#.
+222459,Upload interop result to BQ
+227850,PHP: Update main README
+222124,More cleanup in client_channel code.
+211998,Changing size type in Transport Security (TSI) from uint32_t to size_t
+225565,Experiment: Revert #16187
+218271,Gpr malloc is all
+228071,[Aio] Adding mixin classes to make client-side implementation cleaner V2
+225179,Do not use ALTS shared resource.
+216775,Enable -Wshadow
+222344,Add back mpscq request matcher implementation
+225067,Foundry sanitizer cleanup
+228500,minor cleanups in xds_end2end_test
+221295, Update security_handshaker to use new TSI
+224091,C++-ify grpclb client stats.
+217273,add test for global plugin
+217861,Use precompiled extensions only
+219599,Safe server shutdown.
+222572, Fix scenario_config
+222377,Reduce timeout for json_run_localhost to 120sec.
+215872,"Revert ""Open loop sync/async multithreaded testing"""
+216066,Move GRPCMethodName to the Proto-specific gRPC client
+225748,"C# ""-dev"" nugets should have a timestamped suffix."
+228386,"Add missing ""_test"" suffix for some bazel tests"
+224758,"Revert ""Implement Watch method in health check service."""
+224802,"Revert ""Second attempt: Implement Watch method in health check service."""
+218168,Remove end2end_certs library.
+226239,Improved C# distribtests
+222753,"Revert ""Class-ify lockfree event"""
+225817,Use std::atomic for CQ data.
+227014,Fix upb build typo
+221243,Remove non-libuv code from Node extension
+226002,"Revert ""Moving ::grpc::ResourceQuota to ::grpc_impl::ResouceQuota"""
+219248,C++ Compression Level set properly
+215356,Update generated code used in Python interop tests
+211956,Remove Go compiler from this repository
+222630,Class-ify lockfree event
+222755,"Revert ""Revert ""Class-ify lockfree event"""""
+222156,"Revert ""Fake zero copy protector"""
+224857,Delete epollsig poller and tests using it
+222610,"Revert ""Reconnect channels automatically in C++ clients"""
+224121,"Reintroduce ""Remove ccache from all docker images"""
+224109,Remove ccache from all docker images
+222146,C# package & distribtest fixes
+216649,replace examples with routeguide in csharp example code
+225647,Track the pollsets of an FD in PO_MULTI mode for pollex.
+224568,"Revert ""Restrict the number of threads in C++ sync server"""
+224663,"Revert ""Second attempt: ""Restrict the number of threads in C++ sync server"""""""
+212085,Grpc ruby remove the need for pick unused port
+215452,Fix a number of issues on Windows.
+220534,Remove initial_connect_string hack.
+223638,Delete status_test that has no coverage; replace with static_asserts
+226688,Happy Eyeballs
+212144,Php weak comparison removal
+211964,Node client constructor
+228366,Clean up xds_end2end_test code
+211992,Updated to new call.invoke API
+227466,Make thread_manager_test look like other tests
+212256,C# refactoring of GrpcEnvironment and PortPicker
+222135,"{grpclb,client_lb}_end2end: Fix epoll1 flakes"
+223436,"Revert ""Revert ""Revert ""grpclb re-resolution"""""""
+221466,Use deps rather than uses.
+225743,Track the pollsets of an FD in PO_MULTI mode for pollex.
+215311,Replaced existing PHP files with more batch-based implementation
+223402,"Revert ""grpclb re-resolution"""
+217081,Remove alpha tests
+219990,Cleanup C# profiling code
+228170,Templatize generic stub
+225413,"Revert ""Changes add a script for generating C code and build rule for…"
+217941,Fixing MacOS.
+221183,1.2.x branch-only revert to ruby channel changes
+218286,Upgrade Google.Apis.Auth nuget dependency to 1.11.1
+226523,Swap java interop tests to openjdk8
+212390,Rename interop_test.c --> interop_test.cc
+218542,Add proto comments to generated _pb2.py files
+226762,Pre-compute static metadata index for hpack_encoder.
+221081,Cleanup of tsi ssl handshaker factories.
+224158,Cleanup http_server_filter.
+216731,Update interop tests
+223614,Assert when :authority header present for Cronet transport
+226183,"Revert ""Revert ""Revert ""Moving ::grpc::ResourceQuota to ::grpc_impl::ResouceQuota"""""""
+216730,Update interop tests
+222737,INTERFACE REVIEW: Timers
+212005,Switched PHP library to new grpc_call_invoke API
+218598,"Revert ""Merge pull request #6214 from makdharma/master"""
+218596,"Revert ""cronet wrapper code"""
+226411,Revert arena change
+221319,Update internal Linux CI jobs
+220674,Clean up method parameters in client channel code.
+225673,"Revert ""Merge pull request #17644 from lidizheng/bzl-py3"""
+221956,DO NOT MERGE: Objc tests cleanup
+219416,Updated load reporting filter
+227800,Update GRPCUnaryResponseHandler with generics
+220724,"Revert ""Enable lto for performance testing"""
+212052,Grpc ruby cleanup readme remove internal references
+215637,Clean up tsi properties.
+228169,Move generic stub implementation to header (prepare for templates)
+224052,PHP: remove invalid include-file and adjust include-file sort
+223424,Remove spinning variants from async_end2end_test
+227012,Remove upb targets from BUILD
+221579,Remove lockfree-stack implementation that is no longer used
+212407,Move to unique_ptr for all GRPC returned objects
+220142,Fix test name conflict in import.  Also use low-thread-count variant for asan.
+226039,"Revert ""Fold opencensus into grpc_impl namespace"""
+227870,Move operations out of lock in Bind functions
+221706,Clean up client_auth_filter and server_auth_filter.
+222731,PHP: update helloworld and routeguide example
+219948,Improve C++11 conformance
+217115,Bring to master the ObjC documentation changes made for the release.
+218797,Simplify compression interop
+219972,Remove legacy poller
+224543,Eliminate PingOneLocked() from LB policy API.
+219085,Fix make errors on mac 
+219647,dont create extra threads in server handlers for ruby bidi streams
+217036,Fix release conflict for release-0_11
+222795,"Fix grpcio_{health_checking,reflection} packaging (take 2)"
+222424,Dynamically allocate compression filter data
+227415,De-duplicate .proto file processing
+219503,PHP: Delete dup-header files included
+222864,Pop lockfree stack off core implementation
+219155,Move Python.h include out of loader code
+216867,PHP: update helloworld and route guide
+221208,Grab bag of things to try and speed up C++ tests
+218424,Changed python proto build to use shared protos
+224960,Cleanup & update scripts for creating GCE VM
+220092,C# cleanup package building
+218745,Remove unused portions of C++ QPS testing
+222774,PF: don't unref errors when about to loop in pf_conn cb
+225093,"Revert ""Account the memory usage of channel and call by resource quota"""
+222208,Read/write segments
+215602,Better win32 orphans and event support.
+212063,Simplify Node stream layers
+222194,Garbage collect experimental pollers
+218676,Handle signals properly when dropping GVL
+227344,Replaced gpr_tls with C++ thread_local
+226642,"Revert ""   Added some Objective C tests and minor bug fixes."""
+226829,Lazy resolving lb policy creation
+222246,Regenerate example Python generated code
+224601,Refresh pb2 files in examples/python/multiplex
+216418,move auth property iterator declaration into auth_context.h
+225446,"Revert ""Add grpcio-status extension package"""
+225950,"Revert ""Make grpclb child policy configurable"""
+225495,Turn on CFStream by default on iOS
+226156,"Revert ""Split data plane and control plane into their own combiners."""
+215964,Ensure op flags don't have garbage from malloc
+227001,Quit waiting for a day
+227039,Manually reverts https://github.com/grpc/grpc/pull/19696 and https://github.com/grpc/grpc/pull/19695.
+223992,"Remove private headers from ""source_files"" in gRPC-Core.podspec"
+226824,Revert signal handling
+228350,"Revert ""Revert ""Revert ""Fold opencensus into grpc_impl namespace"""""""
+220057,split out host and port parsing functions from benchmark driver.cc
+219357,Use CommandLineParser that supports CoreCLR
+226593,Convert channelz registry to use Map<> instead of InlinedVector<>.
+222390,"Revert ""General executor speedups, introspection"""
+228533,"Revert ""Merge pull request #19693 from apolcyn/control_plane_creds"""
+228205,[Aio] Make client-side graceful shutdown faster
+212161,Fixing tsan errors in OpenSSL (#319)
+212447,Grpc ruby switch auth to google auth library ruby
+212457,Grpc ruby remove default creds canary
+220177,Get rid of unused ReleaseSigned config
+218782,Cleanup in C# generated code
+217016,Make testing saner
+223164,"Revert ""Set error status correctly on server side"""
+224242,"Revert ""Fix shutdown of closed fd when c-ares opens a second fd"""
+216940,Node package cleanup
+216846,Release 0 11 ruby doc updates
+217887,Doc Fixit: Update base INSTALL to markdown and remove outdated content
+215326,Re-enable profiling on QPS client and server tests
+218054,Doc Fixit: Update base install doc
+228232,Add ruby-2.7 to build process of binary gems for Windows and Linux
+227733,"Revert ""Use the RECV_STATUS op in ALTS handshake RPCs"""
+218072,"Revert ""Properly integrate async API with server-side cancellations."""
+222385,grpclb client load report timer fix
+227628,Simplify the platform and constraints settings for remote execution
+225009,"Revert ""grpc_cli json support"""
+222291,"Revert ""Add fallback (use backends from resolver if can't reach balan…"
+216458,Removing gpr_cancelable.
+227462,Bazel cleanup (post 1.0 upgrade)
+217294,Nuke unused files
+227580,Backport #20761 and #20764
+225602,Stop copying LICENSE files
+218957,"Annotate error.c for timing, remove broken test"
+227463,"Revert ""Grpc 19871/unary unary client aio implement timeout"""
+215346,Actually removing shared project files now.
+226544,"Revert ""Start supporting a callback-based RPC under lock"""
+220355,Update docs on windows build
+223111,Base the ruby artifact-build docker file off of rake-compiler-dock's
+226981,s/gpr_ref/grpc_core::RefCount/ for frequent users.
+228174,"Revert ""Updates to TLS credentials, version 3"""
+224357,Unify bidi_call with active_call
+228115,"Revert ""Updates to TLS credentials, version 2"""
+215420,Remove outdated protos
+223629,Upload all distribtest dockerimages to dockerhub
+221987,"Revert ""Add OAuth2 protocol in GRPCClient"""
+228075,"Revert ""Collect TLS-specific changes from PR 20568."""
+220192,"Revert ""Handle (and test) short call deadlines"""
+218428,"Delete qps_driver and dependent scripts, add quit to qps_json_driver"
+225949,"Revert ""Introduce grpc_byte_buffer_reader_peek and use it for Protobuf parsing."""
+217879,Release 0.13 upmerge.
+227564,Delete deprecated linux environments from distribtest
+217300,Kill noop_filter.c
+220602,Remove internal api canaries: they have never solved anything for us
+223693,Cleanup leftover files under vsprojects
+215558,25ns overhead latency timers
+212358,Removing the hardcoded SSL roots.
+219694,Use the server's name as the service name for gRPC LB
+228334,service config doc update
+212550,Remove HTTP mappings from status.h
+219595,Cleanup nuget update -self commands
+225248,Split up test coverage runs by language
+219638,Add json directory for delete duplicate route_guide_db.json
+223627,Remove _face_interface_test
+212174,Make gpr_timespec no longer be a typedef for struct timespec in posix
+219291,PHP: cleanup for GA
+219290,PHP: cleanup for GA
+223665,"Revert ""Verify early OK behavior"""
+221309,PHP: disable cares for release 1.3
+224076,Use a new GCP environment check mechanism for google default credentials
+222792,Back-out absl dependency for now
+220168,"Revert ""Add configurable exit grace periods and shutdown handlers"""
+221744,"Node: re-enable -Werror, clean up binding.gyp"
+227036,"Revert ""Improve MPMCQueue Performance"""
+216069,Change transport contract to automatically disconnect after sending a goaway
+217847,Delete fixed_size_thread_pool
+223544,"Revert ""Add c-ares resolver tests against GCE DNS, using the unit test."""
+223482,Patch gRPC-C++ podspec to work with Apple framework
+227846,"Revert ""Census client filter: use current span and tags"""
+219411,Use thread pool from concurrent-ruby on ruby server
+224167,Remove a test
+212290,Mac-specific Makefile and INSTALL details
+227904,"Revert ""[Exposing ALTS Context 2/2] Utility Wrapper Class"""
+227794,"Revert ""[Exposing ALTS Context 2/2] Provide a Utility Function to Get Context"""
+223922,PHP: remove channel list tests and related observation and clean method
+216712,Cleanup: Remove outdated scripts for building debian packages
+225666,"Revert ""Add basic benchmark test for Python"""
+220339,Make grpc.sln compile
+218651,Fix large_metadata_bad_client_test to avoid C99 string literal length limit.
+220697,Trim deadline setting out of call creation path
+217860,Update Node examples and example documentation
+225999,Remove node protoc plugin code
+227582,Attempt to drop support for Python 3.4
+228120,Get rid of boringssl podspec err_data.c hack
+218878,Delete tests of dead pre-GA code
+221572,Remove unused grpc_get_read_notifier_pollset
+225462,Remove now-unnecessary workarounds for alignment issues.
+225599,Revert Python Watch method
+219693,Populate server_name for sockaddr resolver
+227650,Removed _gRPC_*_INCLUDE_DIR
+216310,VS test project gen update
+228270,"Revert ""feat: add x-goog-user-project header from quota_project_id field"""
+224238,More Clang Tidy
+224621,update roots.pem
+225676,Adopt OWNERship policy consistent with other CNCF projects
+225819,"Revert ""Add test for network transitions when CFStream is enabled"""
+219124,gRPC.podspec shouldn't be a template anymore.
+218924,Remove caching of results by run_tests
+224174,Remove executor in most places
+228257,Enable absl completely
+217869,Update C# docs for 0.13 release
+227359,Remove third_party/libcxx[abi]
+220557,Remove network_status_tracker code
+225665,"Revert ""Memory leak test for PHP unit tests"""
+226916,Channel idleness timer relay
+224983,Revert Python Bazel PRs
+223963,Remove CleanupThread
+224987,Revert Bazel PRs
+226967,Remove System.Interactive.Async dependency from the Unity package
+221086,Updating roots from Mozilla.
+221624,disable unconstrained_1cq test
+224539,Remove the notifier pollset from grpc event engine since it's not use…
+218514,Reverted 'Rewrite Node greeter example to use generated code'
+228385,bazel tests marked as flaky should not run under run_tests.py
+227717,"Revert ""[Exposing ALTS Context 1/2] Fill in context on TSI and Security Connector Layer"""
+217157,Remove unused RouteGuideClient and move RemoteTestClient to tests
+211959,Remove go codegen from this repository
+215921,dont run secure_endpoint_test on windows
+224590,doc: remove outdated documentation on server reflection protocol
+227109,Channel idleness mutex
+227844,Allow default use of system root certs on Android.
+222037,Delete deprecated constructor and CallOpSetCollection
+224038,Remove load data store targets from build.yaml
+225063,Remove inproc_nosec_test since inproc is inherently secure
+228546,Cleanup gen_build_yaml.py for end2end tests
+222599,Disabling large_metadata_bad_client_test as per #11745
+221374,Remove gcc-4.4 and 4.6 from portability tests
+227346,"Revert ""Make public header files in include/grpcpp/test installed with 'make install'"""
+223054,Disabled the json_run_localhost:*_low_thread_count family of tests
+224123, Remove leftovers of stress tests
+221621,Delete unnecessary Kokoro shell scripts
+212317,remove prod_roots_certs.c
+215470,Post merge cleanup.
+223350,Removed obsolete lb_policies_test
+223460,Removed outdated grpclb_test
+225827,"Revert ""Added test for RPCs over a flaky network"""
+228214,Removed unused sync_[no]_cxx11 files
+228003,Remove grpc sources from grpc++
+224893,build.yaml cleanup: legacy visual studio fields
+218578,Remove precompiled Python extension hack
+217091,"ObjC: Start with helloworld, then the web page"
+215486,A little Makefile spring cleaning
+227975,get rid of unused use_openssl.sh script
+219123,gRPC.podspec shouldn't be a template anymore.
+219128,Upmerge 0.15 -> 1.0
+226877,Removed reference of GRPCConnectivityMonitor
+225445,"Revert ""Metadata tutorial"""
+218372,Manually list files in Node package.json to avoid MSBuild environment limits
+220278,No need for copyright on generated files
+216848,"Updated quick start README, replaced route guide docs with link to grpc.io"
+216849,"Updated quick start README, replaced route guide docs with link to grpc.io"
+220791,Temporarily disable resource quota QPS tests
+216644,Remove redundant Node route guide examples
+222144,Remove leftover vcxproj files
+223909,"Revert ""Add fake ALTS handshaker server (bazel only)"""
+223021,Delete node-related files again
+223800,Remove scripts for running Android interop on Jenkins
+217896,Remove outdated scripts
+225264,Remove beta module dependency from the Python Bazel package
+215429,Removes nodejs pubsub example
+216767,Remove redundant docker files from grpc repo
+221427,Remove OSS-only tooling
+221285,Removed 3rd party dep on thrift
+212159,Remove duplicated target tips_client defintion.
+218112,Updated main examples README to link to main docs and quickstarts
+219691,Use SIGMINRT + 6 as the default signal for gRPC epoll engine (instead of SIGMINRT + 2)
+217540,Remove Python alpha code generation
+218144,Remove tests for EventInvocation API that is going to be removed
+224333,Deduplicate C++ routeguide
+227271,Remove boringssl/src from gRPC
+219054,Remove unused file
+218033,Assert lack of thread contention on queues
+221514,Remove remaining thrift-based code from main repo
+227544,removed unused rbe windows 0.23.2 toolchain
+216610,Fix build
+228284,Remove third_party/upb/BUILD
+223856,new gcp environment check
+222360,Temporarily disable streaming_from_server qps tests
+217711,Remove the old impl caused by 4921
+221010,Remove ctags file checked in by accident
+216937,Upport changes from 0.11 release branch.
+218725,"Revert ""Revive C++ large-message throughput tests"""
+216892,Mark Python example docs as moved to grpc.io
+215595,remove php composer.lock file
+224676,Remove protobuf js_embed hack
+218361,Remove Orphan C# files
+225805,"Remove subchannel_index.{h,cc}"
+226799,Remove debug code
+219673,Remove unused files.
+224646,Removed unnecessary generated dependencies for object files.
+222487,"Revert ""Add a hash table in timer code (in debug builds only) to detect duplicate timers"""
+224209,Remove deprecated check_sources_and_headers.py sanity script
+227058,Remove sources_and_headers.json
+218959,Removed _connectivity_channel tests
+216889,C# Remove route guide example text
+228305,Delete api_fuzzer.cc
+221934,Updating roots from Mozilla.
+223914,Update License under third_party/address_sorting
+220731,Remove grpc.beta._connectivity_channel
+221383,"Revert ""Documentation on how to write unit tests using auto-generated mocked stubs."""
+215254,Removing src/core/security/roots.pem
+215563,Remove dead file
+216121,remove dead file
+217678,Remove dead Python README.md
+219011,removed unused version of status_code_enum.h
+219247,Removed unused version of async_stream.h
+219679,Updating roots from Mozilla.
+219006,Delete trash file.
+227245,Root pem certificates update on Sept 2019
+224201,Remove orphaned test.
+216956,build.json reappeared
+217218,Delete grpc-auth-support.md
+219695,port GRPC to HPUX 11.31 OS (ia64)
+221634,Upmerge 1.4.x into Master
+215842,Expose gpr_asprintf and gpr_strdup
+215381,Splitting gRPC service class codegen into its own set of files.
+221570,Create separate master and pull request sanitzer jobs for Kokoro
+221788,Strawman OWNERS --> CODEOWNERS script
+227170,Auto-update Python documentation for v1.23.0
+228203,Added abseil-based sync
+221923,Add TSI zero-copy frame protector
+221999,"Roll forward ""Add TSI zero-copy frame protector"""""
+215646,support per call credentials in c++
+226965,Trial PR for SPIFFE credentials
+220909,Introduce grpc_completion_queue_factory API
+212039,Windows fixes
+227862,Add Support for Full Chain Callbacks - experimental namespace
+219524,Add Trace context proto. This is used to transmit trace context between RPC client and server systems.
+216964,"Introducing grpc_executor, for all your threading needs"
+226526,Auto-update Python documentation to 1.21.1
+227398,Start running bazel C/C++ tests on mac
+225500,"Add ruby 2.6 binary packages, drop 2.0 and 2.1"
+226211,Cherrypick #18563 into v.1.20.x
+226210,Cherrypick #18563 into v1.20.x
+212119,"Enabling extra warnings during compilation, and fixing code to shun them."
+217805,Upmerging from 0.13
+220120,Remove redundant includes from string.h and tmpfile.h
+220138,"Revert ""Revert ""Remove redundant includes from string.h and tmpfile.h"""""
+217497,Updated copyrights
+218142,Implement fail fast semantics for C core
+215589,Polishing the new C# API
+221595,1.4.0 to master upmerge
+226410,Remove platform aligned malloc in compat. mode.
+223933,Support Microbenchmarks Internally
+220371,Trigger HTTP CONNECT handshaker via channel args.
+220194,"Revert ""Revert ""Revert ""Revert ""Remove redundant includes from string.h and tmpfile.h"""""""""
+224383,Fix Channelz Linkage Error
+224111,"Revert ""Remove ccache from all docker images"""
+227621,Add vsock support
+222002,"Roll forward ""Add TSI zero-copy frame protector"""
+227248,Fix v1.24.0-pre1 objc release
+226836,"Add ChannelBase, change ClientBase constructor argument"
+224797,"Rename repo consistency checks to ""consistency"""
+218988,Build experimental nugets with dotnet CLI
+225940,Implement TCP_INQ for gRPC in Linux
+225105,Channelz: Socket Tracks Addresses
+212057,Remove uses of sprintf
+221115,Optimize framing a little
+226131,Update jessie-backports URL
+225158,V1.16.x fix logging opencensus
+225137,V1.16.x fix logging
+216568,Use string_ref for incoming metadata
+215621,Starting on low level changes to support server side authentication.
+227329,Auto-update Python documentation
+226212,Cherrypick #18653
+225118,Fix logging
+221765,Use https://grpc.io consistently as the canonical URL
+216017,Client side changes to plumb census context from gRPC-external source
+223636,Remove unnecessary includes of exec_ctx.h
+216281,Generated signed assemblies for C#
+216197,Prevent applications from sending reserved metadata
+216120,User agent string sending support
+222611,V1.4.3
+221858,Fix libuv core portability tests
+224915,Channelz Part 8: Get Server Sockets
+220962,Create Object Registry
+224583,Reset connection backoff
+217194,Server builder options
+217787,build.yaml centric versioning
+219389,Objective-C and core end2end tests update for Cronet test
+221903,Generate kokoro_index.html before starting kokoro build
+220417,"Add ""Running test:"" string to test log output"
+220635,Add more jobs to internal CI
+217843,Release 0.13 upmerge.
+218713,Add shebang for all python files
+220890,using URI query to communicate payload
+225287,Run pylint test in Python 3
+223874,Make linux polling engines capable of tracking errors separately
+219303,Update .NET core dependencies to RTM
+223529,Support GRPC++ compilation as windows dynamic library (DLL)
+215807,Label all iomgr objects
+228152,Bump version to 1.27.0
+220487,Add some debug utilities
+223884,Bump pip==10.0.1 and protobuf==3.5.2.post1
+227252,Start running windows bazel RBE tests
+217468,Expose core metadata validation functions in public headers
+221676,Refcount grpc_alarm object so that grpc_alarm_destroy() can be safely called before cq-next()
+224192,Upgrade third_party/protobuf to 3.6.1
+215277,Various Windows fixes.
+222910,Add thread naming support on platforms that support it.
+223750,Fix grpc_millis type (timers are broken on 32-bit systems otherwise)
+227060,Add xds resolver
+222315,Removing deprecated string to char * conversions
+220768,Updated protobuf dependency for python to 3.2.0
+217811,Ruby distribtests on Linux
+219340,Change handshaker API to support passing leftover bytes read between handshakers.
+212354,include .m in check_copyright.py
+227217,Pull out configuration from ssl_utils
+223076,Disable so_reuseport for Python tests
+223197,DO NOT MERGE Explicitly enable GRPC_LINUX_EPOLL for manylinux1
+219666,Fixed local cloning of grpc/grpc submodules on docker
+218969,(CoreCLR support) Improvements to nugets generated by dotnet CLI.
+228287,Bump master to 1.29
+228029,Bump g stands for
+227822,Bump to version 1.27.0-dev
+220506,Disable libuv core changes in Node library and bump version number
+225792,"Bump master to v1.20.x and pick ""godric"" for that release"
+224138,Add new latency_estimator tracer
+216160,Nuget versioning simplification
+226835,Auto-update Python documentation
+225514,Change the version suffix from dev to pre1 and regenerate projects
+223814,Backport #14956 and #14987
+225138,V1.14.x
+223809,Update pip pin from 9.0.1 to 9.0.2
+222251,Bump version to 1.6.1
+222066,1.6.x release branch version changes
+220830,Make testing scripts python3.x compatible
+227908,Upgrade pip to 19.3.1 across the project
+224434,Bump version to v1.13.1
+225342,Bump version to v1.17.0
+227856,PHP: fix php55 build
+224559,Upmerge V1.14.x
+225570,Releasing v1.18.x
+227574,Bump Version to 1.26
+224315,"Revert ""Install pyyaml through pip in docker"""
+221403,Try fixing python artifact build on Windows
+225794,Bump version to pre1
+221695,Add GTS plugin
+223979,Bump master to v1.13.0-dev
+223237,Abstract epoll_create and epoll_create1
+226984,Bump version to v1.24.0
+224683,Fix many sign conversion and width conversion casting issues
+225513,Prepare master for the next release v1.19.x aka gold
+225928,Moving ::grpc::ResourceQuota to ::grpc_impl::ResouceQuota
+222870,Update Python dependency to protobuf v3.5.0.post1
+227227,Bump version to v1.25
+228539,Bump to 1.28.1
+228285,Bump version to v1.27.3
+228177,Bump version on 1.27.x branch to 1.27.1
+228198,Bump 1.27.x branch to 1.27.2
+219665,Fixed local cloning of grpc/grpc submodules on docker
+223712, Bump v1.10.x to 1.10.1-pre1
+225650,Make C# code compile with C# 6 compiler
+220447,Bump master version numbers
+223980,Bump v1.11.x to v1.11.1-pre1
+216006,s/grpc_transport_op/grpc_transport_stream_op/g
+227823,Bump 1.26.x version to 1.26.0-pre1
+228030,Bump 1.27.x branch vesion to 1.27.pre1
+228289,Bump 1.28.x to 1.28.0-pre1
+222437,"Update version to 1.8.0-dev, update g word to 'generous'"
+226162,Bump version to v1.21.0-dev
+226696,Bump to v1.23.0
+226431,Bump master version to 1.22.0-dev
+222628,Flagging 1.7.0
+227680,Bump version to v1.25.0
+228447,Bump to 1.28.0.
+228154,Bump 1.27.x version to 1.27.0
+219703,Update csharp protobuf to 310
+227905,Bump version to 1.26.0
+224577,version bump to 1.14.0
+224379,Bump to v1.13.0
+225260,Bump to v1.17.0-pre2
+224032, Bump v1.11.x to v1.11.1
+223525,Bump version to 1.10.x   #glamorous
+228091,Bump 1.27.x branch to pre2
+224053,Bump v1.12.x to v1.12.0
+223783,Bump v1.10.x to v1.10.1
+228346,Bump to 1.28.0-pre3
+228330,Bump version to 1.28.0-pre2
+223838,Bump v1.11.x to 1.11.0   #gorgeous
+224475,bump version to v1.14.0-pre1
+221024,Bump version to 1.2.2
+225056,Bump version to final 1.16.0
+224352,Bump rc3
+224558,Bump version to v1.14.0-pre2
+219557,Add a helper to get canonical code from status
+227302,"Set ""uses_polling"" arg for bazel tests"
+223405,Enforce shellcheck on scripts under /test/
+221111,Bump version to 1.2.4
+224250,Bump master to v1.14
+222067,Master version bump to 1.7.x
+221191,bumpy v1.2.x branch to v 1.2.5
+224251,V1.13.x Bump version to v1.13.0-pre1
+221075,Bump version to 1.2.3
+224305,Bump v1.13.x to pre2
+224477,Bump version to v1.15.0-dev
+224804,Bump version to 1.15.0
+223779, Bump v1.11.x to v1.11.0-pre1
+219331,Updating Ix-Async to System Interactive and nuget
+223509, Bump version to 1.10.0-pre2
+225302,Bump to v1.17.0-pre3
+223492,v1.10.x is now v1.10.0-pre1
+219142,Move timeout_encoding to core/lib/transport
+223818, Bump v1.11.x to v1.11.0-pre2
+223760,Bump v1.10.x to v1.10.1-pre2
+224736,Bump version to 1.16.0-dev
+225249,Bump v1.17.x version to v1.17.0-pre1
+225250,Bump master version to v1.18.0-dev
+221655,Bump to version 1.4.0
+224737, Bump version to v1.15.0-pre1
+224952,Bump version to v1.16.0-pre1 and regenerate projects
+223778,Bump master to 1.12.0-dev
+224953,Bump to version v1.17.0-dev in master and regenerate projects
+221690,Pin pip at 9.0.1 (currently most recent) in our own uses
+226986,Bump version to v1.23.0-pre1
+227370,Bump version to 1.24.1
+227575,Bump version to v1.25.0-pre1
+227408,Bump version to v1.24.2
+227331,Bump version to v1.23.1
+227541,Bump the version to v1.24.3
+221986,Bump version to 1.4.3
+216210,Move alarm subsystem to monotonic time
+220896,bump v1.2.x branch to 1.2.1-pre1
+220802,Bumped version to 1.3.0-dev
+223339,Promote v1.9.0-pre3 to v1.9.0
+220938,bump v1.2.x branch version to 1.2.1-pre2
+220891,Going for 1.2.0
+220963,Bump version to 1.2.1
+226568,Bump version to v1.21.3-pre1
+223225,Bump v1.9.x to 1.9.x-pre1
+223240, 1.9.0-pre1 is now 1.9.0-pre2
+223305,Bump version to 1.9.0-pre3
+223493,Bump master to v1.11.x #gorgeous
+221518,"1.4.x branch cut, version bump PR"
+221497,"1.4.x branch cut, version bump PR"
+226613,Bump to version v1.21.4-pre1
+226503,Bump to v1.21.1-pre1
+223228,Upmerge v1.9.x into master
+223002,Bump v1.8.0-pre2 to v1.8.0
+222438,master is now 1.8.0-dev.
+219927,Build csharp packages with strong name signing
+227062,Bump version to v1.23.0
+223226,Bump version to 1.10
+227305,Bump version to 1.24.0
+222466,Bump version to 1.6.6
+222412,Bump v1.6.x branch to 1.6.4
+222703,Flagging v1.6.8
+222675,Bump version to 1.7.1
+222335,Bump v1.6.x branch version to 1.6.2
+222705,Bump v17x branch to 1.7.2
+222673,Bump v1.7.x branch to 1.7.1
+222603,Bump v16x branch to 1.6.7
+222402,Bump version to 1.6.3
+215485,Attempt to remove the need of calling grpc_init/shutdown in c++ application code
+226697, Bump version to v1.22.0-pre1
+222448,Backport #12340: Allow unreachable code on iPhone
+227064,Bump version to v1.22.1
+226536,Bump version
+226432,Bump version to 1.21.0-pre1
+225979,V1.19.x
+226347,Bump version to v1.20.1
+224300,Install pyyaml through pip in docker
+220868,Bump 1.2.x version to pre-2
+217532,Added sanity check for trailing newlines
+224697,Bump version to v1.14.2-pre1
+220801,Introducing 1.2.0-pre1
+220665,Bump version to v1.1.3
+216938,Fixed data races for trace variables
+220721,Advance grpc version to v1.1.4
+221138,"1.3.x branch cut, version bump PR"
+225471,WIP: enable faulthandler
+225378,V1.17.x
+226566,Bump to version v1.21.3
+224615, Bump version to 1.14.1 and regen projects.
+222878,Bump 1.8.0-dev to 1.8.0-pre1
+226787,Bump version v1.22.0
+225166,Bump version to v1.16.1-pre1
+225884,bump version to V1.19.x
+224435,Bump version to v1.13.1
+226279,Bump version to v1.20.0
+226492,Bump version to v1.21.0
+226615,Bump to version v1.21.4
+226521,Bump version to 1.21.1
+221702,Fix tools/run_tests/helper_scripts/*.sh to pass shellcheck
+221519,master bumped to 1.5.x
+221650,Backport a couple of Node bugfixes into 1.3.x and bump patch version
+224200,Bump 1.12.1
+222087,Bump to version 1.4.7
+221555,Update 1.3.x to support Node 8
+222061,Bump to 1.4.6
+221700,Bump version to 1.4.1
+222018,Bump version to 1.4.5
+222009,Bump to version 1.4.4
+222462,1.7.x is now 1.7.0-pre1
+222956,Bump version number to 1.7.3
+222879,Bump 1.8.0-dev to 1.9.0-dev
+226225,Bump version to v1.20.0-pre3
+224856,Boost the version to v1.15.1
+226163,Bump version to v1.20.0-pre1
+226199,Bump version to v1.20.0-pre2
+215655,Adding convenience build script and polishing NuGet packages.
+224745,Bump version to 1.14.2
+228064,Clean up grpc_core::MakeUnique
+225913,Auto-update Python documentation
+225416,bump to v1.17.1
+217205,Clang format.
+226105,Fix Grpc.Core.Api assembly version
+218989,Delete unused TIMEOUT enum in end2end tests
+225222,Bump version to 1.16.1
+221746,Advance version to v1.4.2
+223393,Bump 1.9 branch to 1.9.2
+223381,Bump version to 1.9.1
+223346,Bump to v187
+222136,Release 1.6.0 version number change
+223073,Bump to 1.8.2
+223201,Bump to 1.8.5
+223101,Bump version to 1.8.3
+223306,Bump to 1.8.6
+223127,Update version to v1.8.4
+223042,Bump v1.8.x branch to 1.8.1
+223190,Bump version to 1.8.5
+228196,Pin virtualenv to 16.7.9
+228199,Backport https://github.com/grpc/grpc/pull/21977 to 1.27.x
+217910,Change pollset_work signature to allow moving grpc_pollset_worker to implementation
+219869,Move method_config module from ext/client_channel to lib/transport.
+223561,Use static_cast rather than reinterpret_cast whenever possible
+212084,Node directory cleanup
+217524,Added back trailing newlines
+221486,bump version to 1.3.6
+221455,Bump to version 1.3.4
+221426,Bump to version 1.3.3
+221276,1.3.0 -> 1.3.1-pre1
+221471,Update version to 1.3.5
+221501,Bump to version 1.3.7
+221140,master to 1.4.0-dev
+220207,Backport of #9071
+218939,Clang format
+225971,Windows builds for gRPC C++ tests
+227557,Auto-update Python documentation
+224132,Add python tracking snippet
+221365,Bump to version 1.3.2-pre1
+221333,Update version to 1.3.1
+221379,Bump to version 1.3.2
+223453,Security connector replacement
+220407,Changing versions from -dev to -pre1 on the release branch.
+220446,Flagging version 1.1.0.
+227946,Upgrade third_party/protobuf to v3.11.2
+221556,Add Python3 pip to dockerfiles
+223023,Cleanup C# examples
+217447,Actually making the clang format test properly fail sanity.
+225484,Clean up server and channel objects in tests
+217600,Update C# dependencies
+225384,Channelz: Surface Socket Name
+219119,Flagging master as 1.0.0-pre1.
+220460,Bump version to 1.1.1
+220408,First upmerge from v1.1.x to master.
+220858,Authority supported test flag now DOES_NOT_SUPPORT
+223301,Expand shellcheck enforcement to all tools/run_tests
+225577,Fix the wrong version number on Python documentation
+224133,add nodejs API doc GA tracking snippet
+227578,[bazel] Add fixes for --incompatible_load_proto_rules_from_bzl
+225712,Test upgrading protobuf to 3.7.x
+219868,Going 1.0.1.
+218512,Cleanup tools/jenkins directory
+215643,Ruby cleanup
+219426,Update Node generated API docs to 1.0.0
+219428,Bumping version to 1.0.1-pre1.
+217109,Minor updates to Node API documentation
+217940,Rename census log files to avoid build breakage on MacOS
+225427,Auto-update Python documentation
+227599,PHP: update dockerfiles
+226396,Made gRPC inialized after entering main function in microbenchmarks.
+224307,Add suppressions to bazel TSAN build (take 2)
+222631,"Fix warning ""declaration is not a prototype"""
+219120,Master is now 1.1.0-dev.
+219401,Removing pre2 flag.
+220453,Add missing files to build system.
+219308,Bumping to 1.0.0-pre2.
+225270,C# upgrade executables to netcoreapp2.1
+218334,Remove unnecessary -2016 from copyrights
+227353,fix some spelling mistakes in document
+226580,Switch to C++14 if fully supported for our test platforms
+222368,Upload PR test results to BQ
+216115,C# release preparations
+216109,Upstream merge of our 0.10.0 commits.
+219040,Bumped grpc-tools version
+226037,"Revert ""Windows builds for gRPC C++ tests"""
+224312,Be able to execute rspec for each file
+218930,Update master branch to 0.16.0-dev
+218932,Update version to 0.15.0
+221157,Remove status_helper as it is not needed any more
+227562,"Avoid ""Unevaluated target"" problems when RBE tests timeout."
+227114,Remove all nanopb defines
+220065,Remove status helper
+223151,Remove exec_ctx_fwd.h from surface public headers

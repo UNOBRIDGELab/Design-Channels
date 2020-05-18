@@ -1,0 +1,3618 @@
+pull_request_id,pr_src_title
+257541,ext/hal/st: Update stm32cube packages for 1.14 zephyr release
+255873,Dev cube update for v1.13
+263377,dummy change
+214126,Bluetooth: Move GATT samples under lib
+214092,Cmake update branch
+214087,merge arm branch into master
+214012,stm32cube packages update
+256749,Imxrt1060 enablement
+214792,merge arm branch into master
+214586,arch: boards: Add support for i.MX RT1052 SoC and development board
+214237,merge arm branch into master
+259118,Topic counters rebased on master
+258674,ext: gecko: Update Silabs Gecko HAL to v5.6.1
+214547,Cmake sync and fix dts
+259671,Add 96Boards WisTrio board support
+261383,STM32MP1 Series support
+263589,NXP: Add support for Kinetis KE1xF SoC series and TWR-KE18F development board
+259026,Imxrt1064 enablement
+259145,frdm_k22f support
+214246,Nucleo f030r8
+213653,Nucleo f030r8
+254509,merge arm branch into master
+254508,Merge arm branch into master
+254529,Argonkey bsp
+254078,Add initial support for STM32L0 HAL and STM32L072CZ SOC
+209292,Add initial support for Silabs EFM32WG-STK3800 board
+263150,LPCXpresso55S69 board
+263936,cpu/sam0: add support for SAMD5x/SAME5x with Linux style device tree clock control
+209846,arch: arm: support for KW2xD SiP and USB-KW24D512
+259633,Imxrt1020 enablement
+260452,Add stm32g0 support
+261423,stm32wb: Add BLE support through IPM HCI driver
+255733,RFC: Add psoc6
+255103,porting stm32f2
+261349, STM32WB Series support
+259551, ext: mcux: Update to MCUXpresso SDK 2.5.0
+262226,Enable imxrt1015
+262809,Add support for TI CC13x2 and CC26x2 SoCs
+261703,[RFC] ST sensor drivers migration to STdC
+254664,ext: hal: nordic: Update nrfx to version 1.0.0
+259147,RV32M1 SoC and VEGAboard support
+261379,ext: hal: nordic: Update nrfx to version 1.6.2
+214173,ext: simplelink: Update SDK to version 1.50.00.06
+213439,Add support for MSP-EXP432P401R-LAUNCHXL
+253957,merge arm branch into master
+214823,Add support for LPCXpresso54114
+213651,Zephyr lpc final v1.2
+262740,"samples: mesh: single timer to handle all transitions,  upgrade the implementation of Generic Move Message handlers & bugs fix"
+257828,EFR32MG12P SoC support
+260653,Add support for SAM E70 revision B
+209233,add additional hardware support for Hexiwear K64 module
+209274,Merge arm branch into master
+209208,Add support for STM32F7 family & STM32F723E Discovery board 
+209226,MPU Flash write
+209147,Add support for STM32L496AG and STM32L496G Discovery board
+258280,Rabase topic-counters on master
+215026,arch/arm/soc/nxp_imx: added support to imx7d m4 core
+254371,arch: Add support to imx7d m4 core and colibri_imx7d_m4 board
+209513,ieee802154: update KW41Z driver to also support KW40Z
+259361, ext: hal: nordic: Update nrfx to version 1.5.0
+263062,Add vl53l1x support
+259866,Rebase jan 2019
+256136,boards: arm: Add support for Silabs EFM32HG-SLSTK3400A
+273164,release: update sanitycheck footprint file
+254176,board: arm: add initial support for Silabs Happy Gecko EFM32HG
+254880,boards: Add support for the iMX6SX Udoo Neo board
+253889,ext: nordic: Import nrfx 0.8.0
+254833,Add initial support for Silicon Labs EFM32PG-STK3402A board
+258223,Add initial support for Silicon Labs EFM32PG-STK3402A board
+209431,cc3220sf host driver
+209790,Cc3220sf host driver
+260601,Mec2016evb port
+214631,boards: add support for the Arduino Zero and the SAMD21 series
+269690,release: update sanitycheck release file
+263959,doc/zio: Documentation for zio
+257728,ext/hal: Cube update STM32L4 and F7 fixup
+264162,doc/zio: Documentation for zio
+253850,Add support for SAMD20 Xplained Pro Board
+269719,release: fix sanitycheck release file
+263633, provide support for the ST S2LP 802.15.4 Radio
+209103,ext: mcux: update to MCUX 2.2 for KW41Z
+254693, boards: arm: Add basic support for Silabs EFR32 SLWSTK6061A board 
+253937,[RFC][DNM] Porting LoRaMAC-node project  to zephyr
+266933,release: update sanitycheck release file
+215056,Initial support for microchip cec1702
+261036,soc/samr21: Initial support
+213435,Add support for MSP-EXP432P401R-LAUNCHXL
+264140,include/ restructring and header cleanup
+255692,[DNM] [RFC] drivers: counter: API proposal unifying counter and rtc drivers.
+255076,openamp sample integration/app
+254911, ext: mcux: Reorganize imported drivers into soc family subfolders
+254576,ext: mcux: Add import script and import latest version
+255075,Openamp import
+214580,WINC1500 WiFi module support
+209135,ext: Import Atmel SAM4S header files from ASF library
+260151,ext: hal: atmel: sam: update to version 2.3.98
+261364,SimpleLink SDK 2.40 update
+262951,release: update footprint data
+209081,net: add winc1500 driver from Atmel
+259898,ext: hal: nordic: Update ieee802154 radio driver to version 1.2.3
+213817,fs: Port of NFFS (Newtron Flash File System)
+254526,[WIP] IEEE 802.1AS gPTP support
+259731,Bluetooth: controller: Introduce ULL LLL architecture
+256818,sanitycheck: update release data
+214566,Migrate from KBuild to CMake
+255880,Imxrt1050 add a1 silicon support
+270978,DNM: topic-gpio next plus deprecation patch set testing
+214626,"Cmake final history rewrite [branch cleanup, not for review]"
+256305,Imxrt1050 add a1 silicon support
+270925,DNM: topic-gpio integration branch testing
+272125,Final merge of topic-gpio branch
+272048,DNM: topic-gpio rebase build test 20200202
+270995,DNM: topic-gpio rebase build test 20200129
+270946,DNM: topic-gpio rebase build test 20200128
+209851,Bluetooth: Mesh: Add initial implementation
+209831,Bluetooth: Mesh: Add initial implementation
+254100,cmsis: Update ARM CMSIS headers to version 5.2.0
+270840,[DNM] rebased topic-gpio build test 20200125
+258613,gpio: add driver for MCP23S17 GPIO chip
+270781,[topic-gpio] samples: drivers: espi: Migrate to new gpio API
+214485,Add Altera HAL support for Altera NIOSII MAX 10 devices
+270779,samples: drivers: espi: Migrate to new GPIO API and use device tree definitions
+255659,release: update footprint data
+253962,drivers: pinctrl device interface (Linux-like) and STM32F0 driver
+215027,arch: nios2: update nios2 softcpu image
+270529,[DNM] topic-gpio rebase on master - build test
+270323,[TOPIC-GPIO] drivers: gpio_cc2650: Removal due to deprecated platform
+254498,release: update sanitycheck footprint data
+263587,nxp: move HAL to external repo
+209457,Release notes 1.8
+257711,Porting Zephyr to Unisoc uwp5661 chip.
+255731,ext: hal: nordic: Update nrfx to version 1.1.0
+253900,ext: STM32Cube update F4/L4
+256683,Added I2C_1 and CAN_1 master for the Nucleo L476RG board.
+269978,tests: boards: remove intel_s1000_crb tests
+209830,add vl53l0x time of flight sensor
+262437,soc: nordic_nrf: - MPU temperature sensor default
+209390,ZEP-2171: Move all board pinmux code from drivers/pinmux/stm32 to boards/arm/...
+214388,Cmake sync upstream
+214404,Cmake migration squash history
+209207,Add support for STM32F723E Discovery
+214546,Cmake sync and fix dts
+273312,Sc range changed not reset
+214055,RFC: Arch: Basic MIPS port.
+256781,update mbedTLS to 2.12
+254219,[DNM][RFC] RPMsg-Lite and OpenAMP side-by-side
+254166,mcumgr external library + zephyr support code
+215023,release: update sanitycheck footprint data
+215000,release: sanitycheck: update footprint data
+213792,DO NOT MERGE: LwM2M holding PR for 1.10
+263582,ext: st: move ST HAL to its own repo
+213901,Introduce new config scheme
+270279,Add EDTT tests (BLE controller conformance)
+262631,Microchip MEC1501 / mec15xxevb_assy6853 board support
+254085,Introduce OpenAMP/RPMsg-Lite on LPC54114
+264547,ext: hal: st: move to modules
+254140,crypto: mbedtls: Update mbedTLS to 2.7.0
+214094,Cmake update branch
+262620,Development
+262591,Development
+213657,DO NOT MERGE: Port zephyr from Make+Kconfig (KBuild) to CMake+Kconfig
+262744,License cleanup
+264124,ext: hal: cmsis: Update ARM CMSIS headers to version 5.5.1
+264735,test ignore
+254755,[RFC][DNM]Bluetooth: controller: Refined architecture
+213535,[WIP] RPL border router sample application
+253901,VLAN support
+262553,Introduce a new WiFi manager
+209718,Introduce LWM2M subsystem for Zephyr
+273459,ztest: rename zassert_ APIs
+213774,Zoap multi fragment support
+214332,boards: arm: Disable UART Hardware flow control as default for VBLUno51
+255849,Initial gPTP 802.1AS-2011 support
+256590,C++: fix C++ file includes I2c.h
+213917,release: update footprint data
+262758,tests: crypto: Update HMAC_PRNG test
+262603,ext: hal: nordic: Update nrfx to version 1.7.1
+267911,VEGABoard BLE SW LL
+254424,[WIP] Network application for automatic testing
+268654,kconfig: Make header comments consistent globally
+256420,subsys: shell rework
+256453,Dlist fix code
+258334, scripts: dts: Use DT_ prefix in generated labels
+213976,cmake: more samples/subsystems ported
+256170,Character framebuffer for monochrome dot matrix displays
+273024,new devicetree.h API
+259413,ext: lib: crypto: Update mbedTLS 2.14.1
+269909,Adsp i2s test
+257097,Coap library support over sockets
+258174,Add zffs
+254048,Add tinyCBOR external library and apply mynewt upstream patch from intel/tinycbor#83
+269907,Adsp dma test
+265490,dts: Add new DTS/binding parser
+261916,doc: update stm32_min_dev documentation about alternate default LED pin
+254126,"Revert ""net: http: Remove the old legacy API"""
+263771,Initial PPP implementation
+258553,Openamp v2018.10
+255394,ext: lib: crypto: Update mbedTLS to 2.9.0
+254903,[WIP] Porting Zephyr to Unisoc uwp5661 chip.
+273615,[WIP] Convert all DT_INST_ to new DT_INST macros
+273613,[WIP] DTS: Example to show conversion to new DT_INST macro's
+214220,libraries for support mcuboot serial FWU
+257134,ext: hal: nordic: Update nrfx to version 1.3.0
+256373,Shell execute update
+259043,net_pkt buffer management and API changes
+264882,New timeout API
+267649,Add CANopen support
+269810,Move ARM code to AArch32 sub-directory
+257103,net: mqtt: BSD socket based implementation
+269697,boards: xtensa: Add support for Audio DSP on Up Squared board
+254694,Port Zephyr to Intel S1000
+209154,Arm: Add soc support for rda5981a 
+209029,Use YAML for metadata and testcases
+209559,Net app API
+265784,[Backport v1.14-branch] linker: move scripts generated code at the beginning of .text
+262475,Update unsigned suffixes
+266980,Topic dts
+263830,RFC: usb: device: Allow limited amount of tries for write
+213827,Multi network interface routing
+259589,ext: lib: crypto: Update mbedTLS 2.16.0
+214231,HTTP library that uses net-app
+261808,STM32WB: Add HCI driver and enable BLE
+209869,[NXP MCUX] Driver for 802.15.4 over FSCI protocol
+264033,Move external modules to standalone repos using west
+273135,add queued operation manager
+214175,"native: Added arch,soc & board to run Zephyr natively in a POSIX OS"
+214816,RPL border router sample application
+261918,ext : hal : mec1501 Add the MEC1501 external headers.
+256313,BLE mesh routing based on AODV
+214614,cmake: Removed KBuild
+256291,"STM32: CAN: Enable legacy CAN API (F4, F7, L4)"
+258666,Coccinelle updates of unsigned variable assignments
+215184,Dhcpv4 test
+213603,Bluetooth: Kconfig: Rename CONFIG_BLUETOOTH_* to CONFIG_BT_*
+255494,logging: subsystem major redesign
+264052,usdhc: mimxrt usdhc implementation under sdhc disk framework.
+254643,scripts: add Zephyr inline code generation with Python
+257706,ext: hal: unisoc: Import Unisoc uwp5 hal version 0.2.0
+256038,Network logging overhaul
+254433,Websocket support
+254174,Network traffic classfication support
+213838,Console over websocket
+254163,"Xtensa asm2 and SMP series, full"
+256272,drivers: use codegen for device instantiation
+266123,subsys: CAN: ISO-TP library
+258089,Cmsis rtos v2
+215188,scripts: kconfig: Replace conf with Python
+272790,Zephyr base improvement
+254088,REVIEW ONLY: SMP series
+254056,SPI API cleanup and update
+254435,[DNM] drivers: spi: Add shim for nrfx SPI driver
+255761,[RFC][DNM] cmake: RFC for single libraries to use CMake dependencies and remove whole-archive
+255472,[RFC][DNM] logging: subsystem major redesign
+265150,Camera branch
+256947,Fix headers guards
+256486,IPv6 cleanup
+258092,[RFC] Template prototype using jinja2 templating engine
+209033,spi: add SPI driver for STM32 family
+265800,zio: Introduce hts221 humidity sensor
+260665,Counters qmsi change
+260056,Counter API/Driver updates
+256767,Convert net-shell to use new shell
+259475,[RFC] [DNM] dtlib - a Python .dts (Device Tree source file) parser
+265603,Add support for littlefs
+260910,Rename kernel reserved function names
+259894,Add usb device ehci controller driver
+268488,Nordic: support for nRF5340 SoC in Zephyr
+262646,Adding nrf52811 support
+268628,"Add Cortex-A53 (ARMv8, AArch64) support"
+254395,Runtime settings subsystem using FCB/File system back-end
+258930,MISRA-C evaluate boolean expressions
+264119,zio: FXOS8700 Driver
+256381,Initial support for ARM Cortex-R
+260617,[DNM] [WiP] device: Introduce reference to parent device name.
+209662,[WIP] net: change enc28j60 to new SPI API
+267027,Simple Websocket & HTTP client API support
+260052,Add extension commands and west.yml
+257971,drivers: serial: qmsi: use codegen for driver instantiation
+256699,Move soc code under ZEPHYR_PROJECT/soc
+254641,drivers: add pinctrl device interface
+255148,Ci debugging
+264253,Update GPIO API to support flags used by Linux DT bindings
+266355,ext: hal: Make NXP HALs a Zephyr module
+256545,x86_64 architecture
+262869,[DNM] uart: stm32: implement uart async api
+209663,Merge arm branch into master
+215001,Sample/Test syntax changes and sanitycheck script cleanup
+266353,ext: hal: Make NXP HALs a Zephyr module
+209785,crypto: Update TinyCrypt to 0.2.7
+254335,Virtual File system Switch (VFS) support
+268233,ext: hal: cmsis: Add CMSIS-Core(R).
+256746,drivers: dmic: Intel PDM digital mic driver
+273654,Split sanitycheck script to enable unittesting with pytest
+270609,Bluetooth: host: Add extended advertising API
+214892,[WIP][DNM] Testing code coverage with native port
+266384,ext: hal: atmel: move atmel HAL to external module
+254726,Add dma driver for Nios-II MSGDMA core
+255851,Generated driver instantiation prototype 
+264259,[RFC] Counter based system timer concept - Extension
+214941,Merge arm branch into master
+213798,Add Atmel SAM I2S (Inter-IC Sound) driver based on SSC module
+273004,"refactor onoff to separate async notification, standardize terminology, and add functionality"
+214844,Disco l475 iot1 wifi
+215017,Xtensa asm2 framework
+213873,cmake: Integrate with latest master
+209547,Merge arm branch into master
+213804,Websocket support
+260454,subsys/settings: Reworked settings module
+267411,[WIP] [DNM] [RFC] zpp C++ 17 zephyr API header only framework 
+209089,SensorTag basic board support
+256604,Remove QMSI sensor subsystem ADC driver and use Designware driver for ARC. 
+255275,Introduce reworked API for ADC drivers
+254642,[WIP] scripts: extract_dts_includes.py: enhance
+214212,SimpleLink WiFi host driver
+263756,net: 6LoCAN implementation
+213463,tests: buf: Make testcase looks similar to other testcases
+261016,driver/sensor: lsm6dso: Add support
+258660,[RFC][DNM] Experimental TCP
+261885,zio: initial channel definitions
+268316,TCP2
+214301,tests: samples: fix yaml syntax
+209096,Update arm branch to master
+259486,Bluetooth: controller: Prepare to introduce LL split architecture
+209364,Samples panther
+254876,Zephyr TLS socket options
+209298,Shell: Add 'bt' module
+262025,Rename reserved function names
+255773,Introduce support for CMSIS RTOS v1 APIs
+272570,generalize async notification and add queued operation manager
+254352,WNC-M14A2A LTE/LTE-M Modem Driver Changes
+254038,[WIP|RFC]: Add clang/llvm support
+262217,soc/same54: Initial support
+209698,Handle long IPv6 extensions properly
+266695,[TOPIC: DTS] scripts: dts: Simplify and improve 'compatible' matching
+254679,VLAN support
+266748,soc: arm: st_stm32: stm32g4: STM32G4 support
+269550,boards: arm: Add support for SiLabs EFM32 Giant Gecko GG11 STK
+264926,"Video 4 Zephyr - Video API, Drivers and Samples"
+259891,Adjustments in nRF drivers and ext/hal/nordic to provide support for nRF9160
+259813,subsys/settings: Reworked settings module
+260889,drivers: dma: Add dts dma consumer support and generic DMA support for stm32
+268441,headers: Refactor kernel and arch headers.
+263484,Kconfig: Add a new GUI configuration interface
+213720,PLEASE IGNORE (CI TESTING): test cmake+sanitycheck in CI
+215164,Flash_Circular_Buffer basing on Flash_map module
+257443,bluetooth: kw41: Add KW41Z BLE support
+256943,new simulated board: nrf52_bsim
+209076,Update arm branch to latest master
+209078,Merge master into arm branch
+255413,Add support for Nordic's nRF52810 IC
+266034,drivers: modem: introduce modem context helper and layers
+209161,HTTP server library API
+273216,drivers/sensor: add support to ISM330DHCX IMU sensor
+254680,Added support for LittlevGL library
+254106,net: zstream API to abstract socket transport protocols (e.g. TCP vs TLS)
+264820,driver/sensor: lsm6dso: Add support
+266434,ext: hal: make TI HAL a zephyr module
+209543,"stm32 LL driver: F1/F4 (v1 controller), F3/F7/LX (v2 controller)"
+267805,DTS documentation
+260445,Documentation restructuring and cleanup
+253936,Add Nios-II QSPI Flash driver
+256560,sam: adc: Updated SAM ADC driver.
+256068,Remove QMSI sensor subsystem ADC driver and use Designware driver for ARC.
+256601,DW ADC driver
+256827,script/dts: Generate Extended Device Tree database
+269232,"bindings: Remove 'title:', put all information into 'description:', and remove boilerplate"
+263495,API: espi: Add API for Enhanced Serial Peripheral Interface
+261321,doc: net: Updates to network architecture document
+264441,Move to using DT_INST_<INSTANCE>_<COMPAT>_<PROP>
+214789,OpenThread
+254296,Add nRF52840 USB device controller driver
+261641,"Expanding ""shield"" functionality (example uses WNC-M14A2A and SARA modem)"
+261573,ZIO: Beginnings of a Sampled Input/Output API
+264036,ZIO channel and attribute rework WIP
+254343,spi: Implement new spi api in the mcux dspi driver
+259345,Increase minimal required cmake version
+213553,crypto: Update to mbedTLS 2.5.1
+255066,add stm32f769i_disco
+269527,add API for on-off service request and release management
+260413,Remove legacy CoAP implementation
+214942,IEEE 15.4: cc1200 support
+265554,LwM2M: Zephyr v2.0.0 changes (new objects + bug fixes + enhancements)
+260076,Incorporate new api name and signature changes
+266642,"[TOPIC: DTS] dts: bindings: Have 'required: true/false' instead of 'category: ...' (take two, edtlib version)"
+256293,Fix policy 000 warning
+264807,STM32: Add support for STM32H7 dual core
+263090,[DNM] guiconfig WIP
+257152,scripts: update to latest west
+259036,Network logging fixes
+255662,"Bluetooth: Mesh: Generic OnOff, Generic Level, Lighting & Vendor Models demo"
+214147,[WIP][RFC][DNM] CAN framework
+256544,Settings stream codec
+266467,[TOPIC: DTS] scripts: dts: Improve syntax and code for including binding files
+214831,Various documentation fixes
+209022,zephyr-master_fork
+257980,"samples, tests: Use semi-accurate project names"
+256307,Sensors adxl372 support
+209111,Disco L475 IoT sensors
+264522,Code coverage fixes
+261830,Fix OpenAMP building with newlib
+214898,V1.9 branch
+266281,Backport Check [DNM]
+256443,adc: Convert mcux adc16 driver to the new adc api
+270064,Bluetooth: Mesh: Add database for managing nodes and keys
+265592,dts: bindings: Have 'required: true/false' instead of 'category: ...'
+214747,Bluetooth: Mesh: Add initial configuration client support
+256328,Use crypto drivers for Bluetooth - v2
+266410,[TOPIC: DTS] scripts: dts: Let bindings provide multiple compatibles in a simple way
+268330,[wip] scripts: ci: Merge back the ci-tools repository into scripts/ci
+262949,doc: nrf52840_pca10059: add note about reprogramming
+269904,tracing: add generic infrastructure for collection of tracing data
+273189,Timeout API rework
+267915,Add stm32 DMA driver support
+266435,NXP: Add support for Kinetis K8x SoC series and FRDM-K82F development board
+253883,Posix implementation layer
+265134,arch/x86: Initial Intel64 support
+265682,arch/x86: add Intel64 support to x86 tree
+209149,update arm branch
+257081,net: coap: migrate to standard buffers
+272325,kconfig: Replace defconfig singe-symbol 'if's with 'depends on'
+257588,Google IOT Mqtt TLS sample
+268540,dts: bindings: Preserve newlines in descriptions
+264987,Backports to 1.14
+254965,drivers: can: Add CAN driver support
+209722,"RFC: usb enhancements, composite device, common device descriptor"
+255245,musca_a1_wip
+264473,"dts: Replace status = ""ok"" with status = ""okay"""
+270178,[RFC][DNM] Asynchronous i2c and sensor API with hts221 example
+255767,"EXPERIMENT: core64, an x86_64 underkernel for Zephyr"
+214675,net: http: Remove the old legacy API
+266517,Sanitycheck overhaul 
+215117,STM32: Enhance PWM driver
+268493,WIP: ESP32 AT WiFi Modem driver: modem: esp32 (Argon)
+265480,Cortex r test DNM
+270001,drivers: wifi: Add ESP8266 and ESP32 wifi modem driver
+259700,Update west to ad6a22c
+214041,cmake: more subsystems and samples
+259746,subsys/settings: Reworked settings module
+256409,I2C and External Interrupt Controller Drivers for Atmel's SAMD21 MCU
+260504,Add UpdateHub.io support lib
+256496,Musca board/soc port
+209166,SPI API update
+268783,Add support for the TI LMP90xxx series of ADCs
+264567,yaml: Remove redundant document separators
+268922,Test nrf52833
+268582,Add support for Nordic's nRF52833 SoC
+214543,USB: rework USB descriptors (RFC)
+209071,HTTP client API
+273345,alternative onoff cancellation approach
+214599,Cmake sync
+272646,doc: dt: split into multiple pages and add overarching design goals
+266136,arm: tfm: samples: psa level 1 certified sample
+209428,HTTPS client support
+255868,Handle large IPv6 headers properly
+268622,kernel: renamespace and automatically document arch API
+267469,V2.0 branch
+213660,PLEASE IGNORE: cmake ci test
+273143,Convert SAM SoC SERIAL drivers to DT_INST
+254443,"SimpleLink WiFi Driver with wifi_mgmt functions, based on PR #5251"
+267105,FRDM-K22F Support
+259539,basic support for Particle Feather-formfactor mesh/wifi/cellular devices
+256467,samples: mesh: nrf52: revised implementation
+256103,"samples: mesh: nrf52: revised implementation, fixed bugs, upgrade further to pass PTS test, upgrade coding"
+264023,[RFC] Counter generic
+209151,Add k_thread_create() API; replace k_thread_spawn()
+256879,MISRA-C Checking function return
+264369,Support net_mgmt events from userspace
+255701,Use crypto drivers for Bluetooth
+215054,[WIP] kconfig: fix help syntax and add spaces
+255947,Extend tracing with Common Trace Format
+264916,board: emsdp: add a new arc based board support
+256775,Omnibus LwM2M changes for v1.14 (including socket API migration)
+269804,soc: arm: samv71: Initial support
+254718,drivers: 1-Wire bus driver and DS18B20 driver based on 1-Wire
+209129,Merge arm branch into master
+254919,Add a Python menuconfig implementation
+268671,drivers: ieee802154: Add Atmel at86rf2xx transceiver driver
+268245,drivers: eeprom: add API for EEPROM devices
+209112,Sensor drivers for Disco L475 IoT board
+264827,NXP: Add support for Kinetis KV5x SoC series and TWR-KV58F220M development board
+256995,Move kernel/soc/arch/drivers to new logger
+260230,Arch arm mpu re work
+268649,tracing: add generic infrastructure for collection of tracing data
+258787,cmake: Toolchain abstraction
+257246,Bluetooth: shell: Port to the new shell
+253896,bluetooth: controller: Refactoring nRF5 radio driver
+254607,TCP refactoring
+267999,Bluetooth: Add dynamic Tx power support on both Host and Controller
+260983,Add driver support for ADC1 of stm32
+273166,Convert SAM SoC SPI drivers to DT_INST
+254894,[DNM] Add a Kconfiglib-based menuconfig implementation
+265517,dts: bindings: Remove unused 'version' field
+272020,[TOPIC-BLE-LLCP] Initial demo implementation of LLCP system framework
+267763,"my work on ""sys_heap: a new/simpler/faster memory allocator"""
+209210,Merge arm branch into master
+265657,[Backport v1.14-branch] Support net_mgmt events from userspace
+254992,STM32F7 SoC family and STM32F746G Discovery board basic support
+258985,Introduce the west repository to the Zephyr Project
+255185,drivers: flash: merger Generic SPI Flash driver 
+273133,Convert SAM SoC GPIO drivers to DT_INST
+267234,[DNM] Test of sanitycheck filtering later
+209264,hexiwear: added support for additional hardware
+255047,Misc. Test Cleanup and Enhancements
+272193,zsock_accept_ctx: release fd on failure
+254951,arch/arm/stm32: Basic STM32F7 family support
+272214,kconfig: Remove assignments to CONFIG_<arch> syms and hide them
+269570,doc: kconfig: Move misc. scattered Kconfig docs to a new Kconfig section in User and Developer Guides
+255264,tests: net: Application for automatic network testing
+270244,x86: enable CONFIG_USERSPACE on x86-64
+255133,Introduce west meta-tool
+254005,[WIP][RFC] net: mqtt: Port MQTT library to BSD sockets
+255978,[DNM] Nrf counter shim
+268895,nRF53: HCI driver & sample
+256018,drivers: usb: Add nRF52840 USBD driver
+260723,Initial release of SD/MMC interface driver
+257634,Add wifi offload driver for ESP8266
+214396,TEST PR DO NOT MERGE
+214021,X86: MMU: PAE boot time page tables.
+214609,"Bluetooth: Mesh: Friendship additions, cleanups & fixes"
+214791,USB: Remote NDIS USB Ethernet support
+268634,kconfig: Global whitespace/consistency cleanup
+214436,Python debug scripts
+273131,Convert SAM SoC ADC drivers to DT_INST
+256169,drivers: i2s: Add support for I2S stm32
+264307,dts/bindings: Move common properties into a base.yaml
+213790,dts: arm: 96b_carbon: add I2C_2 interface
+213777,dts: arm: 96b_carbon: add I2C_2 support
+254525,"[RFC][DNM] kconfig: Search replace source ""*"" with gsource ""*"""
+256218,boards: riscv: Add DTS support to SiFive HiFive1 and RISC-V QEMU targets
+267746,"New, orthogonal and complete time conversion API"
+214369,v1.9.2 patches
+214947,Add support for I2C Slave Drivers
+255883,Add Device tree support for I2C Slave Drivers
+254849,DT gpio support
+258869,board:  iotdk: add a new arc based board suport 
+272715,"DT: nodelabel, phandle, and dt_inst exist changes."
+254837,thread resource pools and kernel object memory management
+254383,NVS: Non Volatile Storage solution for zephyr
+254441,"DTS: Intel ioapic/mvic and gpio, uart, rtc..."
+272654,[wip]spi: stm32: Enable DMA client
+257544,Wifi: Add Inventek es-WiFi driver
+255694,samples: net: Socket based echo samples
+209051,boards: arduino_due: Added DTS to the Arduino Due.
+255624,[WIP] net: drivers: ieee802154: TI cc1101
+263615, Microchip MEC15xx multi-level interrupt routing
+209083,test: benchmarking: Timing metrics for the kernel
+257502,drivers: sensor: Migrate to new logger
+270631,Enable SMP on intel_s1000 and up_squared_adsp
+256447,net: config: Rename Kconfig options to correspond to library name
+268507,samples: mesh: nrf52: Simplified implementation
+273139,dts: bindings: base.yaml: Add hw instance id
+254909,Implement second core on LPC54114
+214925,tests: kernel: mpu: tests for userspace mode.
+272680,Merge Topic devicetree
+273183,Merge Topic devicetree
+265026,drivers: clock_control: nrf driver reimplementation
+258067,[RFC] Add a general graphic display API
+258551,[DNM] Enable SMP on RISC-V
+254783,Add support for File System multiple instances
+266742,doc: CAN: Extend CAN doc and move it to networking
+263893,add font8x8 rbg565 support for cfb on rt1050
+257211,logging in headers + LOG_MODULE_REGISTER/DECLARE refactoring
+256403,arch: arc: let zephyr run in normal mode of arc
+264628,boards: arm: Add support for nucleo_g071rb board
+255541,mesh_demo 
+255564,#BluetoothMesh demo with OnOff & Level models 
+260060,Documentation Cleanup and restructering: Kernel
+272070,Add support for SiLabs EFR32BG13P SoC
+266294,[TOPIC: DTS] rework binding/compat matching.
+213443,dts: arm: st: Introduce pinctrl nodes and uart pinmux configuration
+209050,arch: sam3x: update Kconfig options after move to SAM SoC family tree
+213808,kernel object validation infrastructure
+264055,Decouple system timer and drivers
+209820,dts: sam_e70_xplained: configure all UARTs
+213674,stm32
+209848,merge arm branch into master
+209845,merge arm branch into master
+268366,soc: atmel_sam0: Add SAMD5x/SAME5x family
+267830,coccinelle: final pass standardizing integer timeout parameters
+266597,"[TOPIC: GPIO] documentation refinements, test conversion, and sx1509b conversion for new API"
+260917,tests: benchmarks: add Dhrystone benchmark
+209551,Tests: Rename test directories and be consistent
+255304,Change open-amp/libmetal to build non-recursive
+256197,Promiscuous mode support
+256147,net: tls: Implement TLS socket options
+261568,drivers: gpio: sam0: Add interrupt support
+264203,[DNM] Settings pattern load
+209372,Net changes to v1.8 branch
+259469,BLE fixes for 1.13.1
+259508,power: Add device idle power management support
+270693,Add rgb565 font support
+258342,samples/96b_argonkey: divided test into sensor and microphone
+266132,Add SensorTile.box board support and sample to test it
+259090, ext: hal: nordic: Update nrfx to version 1.4.0
+209106,sensor: lis2dh: Add support for lis2dh accelerometer
+265976,userspace: Support for split 64 bit arguments
+266382,drivers: eth: add driver for ENC424J600 Ethernet Controller
+256167,drivers: led: Add LED driver support for TI LP5562
+215139,Stm32f1 spi
+256830,USB native posix virtual controller using USBIP protocol
+260072,USB Multi-instance support
+272466,drivers/sensor: add support to IIS2DLPC accelerometer sensor
+214351,RFC: Add random subsystem and rename drivers/random to drivers/entropy
+267851,Kb scan driver
+214953,Revamp flash scripts
+263566,arm: mps_an521: Add support for the AN521 on MPS2+
+267723,ethernet: enc28j60: issue in interfacing enc28j60 to pca10056
+255436,Abing
+273298,TFTP Client contribution
+259927,"Network packet socket support. See ""man 7 packet"" on Linux."
+255565,#BluetoothMesh demo for Generic OnOff & Level Models
+255641,Bluetooth: Mesh: Generic OnOff & Level Models demo
+265347,Fatal error handling consolidation and revamp
+256853,IPv6 privacy extension support
+262985,drivers: counter: Add detection of late alarm request for nRF RTC and TIMER drivers
+262386,drivers: add support for the Holtek HT16K33 LED driver with keyscan functionality
+261265,Add support for non-recursive single-toolchain multi-image builds
+209730,"ESP32: Add pinmux, GPIO, watchdog, RNG drivers; begin cleaning up ISR tables"
+273432,Bluetooth: Mesh: Split out provisioning bearers
+257337,Big timer subsystem rework
+209409,Merge arm branch into master
+265524,RFC: Add initial LoRa support
+266288,ext: hal: Make Nordic HALs a Zephyr module
+269886,sensors: ccs811: rework for reliability and capability
+213656,Bluetooth: controller: Rename Kconfig prefix
+209797,merge arm branch into master
+254603,Promiscuous mode bit to ethernet
+255230,Added support to LIS2DW12 Accelerometer sensor provided
+255086,Bluetooth: Mesh: Remaining pieces of persistent storage support
+260138,driver/sensor: add LIS2DW12 sensor support
+258573,Remove link layer reserve concept from network stack
+256263,Link Layer Discovery Protocol support
+269894,boards: mm_swiftio: add board support for SwiftIO
+215078,Fix testcases and samples removing build_only tag
+209609,drivers: stm32: I2C LL driver for F1/F4(v1) and F3/L4X (v2)
+272220,boards: shrink image sizes
+261645,arch: arc: refactor the ARC MPU driver
+262518,West documentation for v1.14
+209840,Add DTLS support to net-app API
+273109,Stm32 g0 improvements
+254711,Classify tests and prepare for test management system
+272045,Add spi device in sam4e_xpro board yaml file
+265623,Remove discontinued and unmaintained boards
+257462,drivers: sensor: Migrate to new logger
+214399,LED strip drivers
+263980,RFC: API for high-precision kernel alarms.
+268936,soc: arm: sam4e: Initial support
+255537,BluetoothMesh_demo
+209815,RFC: Memory Domain APIs
+258538,Kconfig: Use 'default' instead of 'def_bool' in Kconfig.defconfig files + remove some unused symbols
+215148,boards: st_stm32: Clean up driver generic flags from boards' _defconfig files
+269186,global: Remove leading/trailing blank lines in files
+213935,drivers: Add Atmel SAM family I2C (TWI) driver
+269977,[WIP] dts: Make generation for clocks consistent with other phandle-array properties
+213997,[RFC] Support gettimeofday() and settimeofday()
+214153,USB: Implement USB Ethernet Device gadget (ECM protocol)
+258202,sensors: bme680: add I2C sensor code and sample application
+256479,"Kconfig: Use a short, consistent style for prompts"
+264511,Add CAN support for NXP Kinetis KE1xF SoC series and TWR-KE18F development board
+259068,disk: add a SDHC card over SPI driver.
+256954,"samples: mesh: nrf52: to solve pending (PTS) issues after merging PR:9475, support to push device in factory reset mode & other minor improvements"
+254375,NVS: Non Volatile Storage solution for zephyr
+261776,doc: Bluetooth: Documentation overhaul
+254550,"IPv4, UDP and TCP checksum offload support"
+261615,arm: V2M Musca B1: Add Musca B1 SoC and board support
+254627,drivers: Add Nordic i2s driver
+265621,preparation for RV64 support
+256450,Arty
+209136,Bluetooth: controller: PHY Update Procedure
+262931,release: add list of fixed bugs
+214257,Cmake remove default board
+209420,samples: add panther board sensor MQTT application
+272155,West 0.7.0 docs
+257923,api: uart: Add new asynchronous UART API (Transfer sub-API)
+260914,power: Add device idle power management support
+267374,dts: arm: stm32: cleanup whitespace in dts_fixup headers
+257058,boards/x86: up_squared: enable GPIO
+265579,Bluetooth: Mesh: Add support for provisioning remote devices
+273436,refactor onoff to separate async notification and standardize terminology
+214102,mDNS responder
+260902,usb: add hid-cdc example
+255215,kernel: add user mode access to k_poll and k_queue APIs
+214322,net: app: Bind to correct address family
+209379,1.8 Fixes
+273363,Document API stability
+272230, API: peci: Add Platform Environment Control Interface API
+266060,Host conformance backport v1.14
+215159,disk: add a SDHC card over SPI driver.
+265602,arc SMP support
+209561,drivers: usb: USB device driver for Kinetis USBFSOTG Controller
+215135,Bluetooth: controller: Implement a subset of Intel Mesh Vendor-Specific extensions
+269434,"samples: mesh: nrf52: improved coding style, way to save default & target values on flash"
+261652,Net tests switch to new net_pkt/net_context APIs
+209065,ext: Update Nordic MDK header files
+260039,Extend tracing with Common Trace Format v2
+263131,net: http client
+262896,Add shield iks01a3
+254124,Mpu makefile changes
+261618,kernel: Introduce k_triggered_work
+209294,samples: boards/microbit: Add initial draft of pong game
+265444,sys_heap: a new/simpler/faster memory allocator
+254763,Network statistics enhancements
+254997,Remove the C Kconfig tools
+273495,tests: drivers: build_all: Remove dts_fixup.h replace with overlay
+259955,driver/sensor: add LIS2DS12 sensor support
+209817,Drivers: flash: get layout API
+265446,Introduce LVGL V6
+214869,Bluetooth: Mesh: Fix support for Health Models
+272843,[TOPIC-BLE-LLCP] Initial encryption support
+255432,Consistently quote Kconfig string defaults + generate a warning for it
+256660,Gcov: Enable Code coverage reporting over UART. 
+256176,Add support for Silabs EFR32MG12P device and Thunderboard Sense 2
+258847,drivers/sensor SI1133 Ambient Light Sensor
+214125,1.9.1 fixes for the BLE Controller
+262812,"uart/ns16550, drivers/pcie: add PCI(e) support"
+259382,[RFC] Port mbedtls benchmark sample to Zephyr
+267727,[topic-gpio] drivers: gpio_stm32: update to use new GPIO API
+260541,drivers: nrf: Rework UARTE shim for uart ASYNC API and add power management
+214688,Docs: convert boards to cmake
+254034,arch: arc: add user space support for arc
+215111,PWM LED Driver on ESP32
+267734,kernel: add architecture interface headers
+261561, doc: debugging: Introduce guide covering debug probes and host tools
+255184,Add Support for building and booting multicore images on LPC54114
+264678,Cleanup convert gpios
+264602,dts: remove use of use-prop-name
+209421,sensors: add SI1153 driver
+266988,Add initial LoRa support
+255048,Bluetooth: Mesh: Persistent storage support
+273178,[TOPIC-BLE-LLCP] WIP
+209519,mpu stack guard: fix  stack alignement
+213956,Merge arm branch into master
+213959,Merge arm branch into master
+265117,Custom formatting in printk
+262781,WIP: Sensors add ICM-20948
+258231,drivers: intel_gna: Intel GNA Neural Network Accelerator Driver
+259571,Make syscall internal implementation visibility consistent
+254805,drivers: wdt: Watchdog API redesign and shim for nrfx wdt driver
+274013,Rename multiple nRF-based boards
+209310,IPv6 fragmentation fixes
+260935,Misc network documentation fixes
+255899,stm32f4 uart and adc enhancement 
+265108,display: Add support for an ST7789V based LCD
+261230,ext: mcux: Update imx rt clock drivers
+265651,X86 optimize context switch
+256500,riscv: Rename the FE310 SoC to Sifive Freedom
+264328,net: Fix alignment when accessing network packet headers
+214483,Implement system call handlers for various driver subsystems
+262445,riscv32: LiteX VexRiscv support
+272844,[TOPIC-BLE-LLCP] WIP: New test concept
+273534,Refactor AArch32 directories in preparation for Cortex-A
+262564,Add identifier to sample so we can capture them in testrail.
+258946,drivers: ethernet: smsc9118 driver (as used by mps2_an385)
+255649,Bluetooth: Mesh: Generic OnOff & Level Models demo
+269533,tests: Cleanup of test identifiers and sanitycheck enhancements
+213904,WIP: usb: usb_dc_stm: Add support for STM32Cube HAL_PCD USB driver
+266890,PS2 API and XEC driver
+214531,Kconfig support for stm32 HAL/LL file selection
+209220,drivers: Add BMM150 geomagnetic sensor driver
+254873,ext: lib: crypto: Update mbedTLS to 2.8.0
+268531,sensor: add sensor driver for DPS310 and example
+264418,net: ip: 6lo (IPHC) compression rework
+260185,Generic socket CAN support
+269616,Bluetooth: Mesh: Clean up API documentation
+264929,[Backport v1.14-branch] Bluetooth: Fix deadlock issues when running low on buffers
+213874,cmake: add more drivers
+209411,Introduce stack definition macros
+262801,can: overlay and config for reel board CAN expansion
+265362,drivers: watchdog: stm32: Support System Window Watchdog (WWDG)
+214481,LwM2M: Add Multi-fragment Support
+214200,LwM2M 1.10 changes: firmware support + bugfixes + more
+268156,samples: add userspace producer/consumer sample
+255967,drivers: nrf: Add GPIO shim using NRFX
+254966,arc: refactor the soc folder for em_starterkit 
+266948,doc: release notes: add list of issues for 2.0.0
+209454,Bluetooth: controller: Extended adv and scan of non-conn non-scan without aux
+214657,EARLY REVIEW ONLY: xtensa: New asm layer to support SMP
+264148,include/arch/ cleanup
+263547,West bash completion
+256495,boards: add basic support for reel board
+264334,Settings reworked to const char processing
+263527,gpio driver implementation for the Microchip MEC1501
+255299,Change libmetal to build non-recursively.
+270552,Add valkyrie base
+257390,tests: devicepm: Test devicepm scenarios
+254558,i2c dts cleanups
+254393,I2C: Enable intel's arch/drivers/boards to DTS
+255778,"tests: benchmarks: timing_info: Add support for ARC, XTENSA, NIOS2, RISCV"
+215046,Merge arm branch into master
+256007,boards: arc: add nsim support
+214826,Bluetooth: Mesh: Redesign & fixes
+257649,L2 rework
+214771,Add ARM userspace infrastructure
+273081,drivers/sensor: add support to IIS2MDC magnetometer sensor
+258110,Atmel SAM E70 USB driver
+209134,Convert Atmel sam3x series MCU to use ASF
+258807,ext: hal: cmsis: Update ARM CMSIS headers to version 5.4.0
+209360,doc: Add Bluetooth vendor specification
+214973,drivers: serial: Initial support for the UARTE peripheral on the nRF52.
+214759,Bluetooth: Mesh: More shell-related improvements
+266253,Backports Test
+254896,net: drivers: wifi: SimpleLink WiFi Offload Driver (wifi_mgmt only) 
+209034,Merge bluetooth branch into master
+213509,tests: crypto: convert to ztest
+214191,USB: add common descriptor for class drivers
+266151,"[DNM] Integration test for aggregated extern ""C"" patches"
+255667,Add support for Microsemi Mi-V softcore
+266113,[TOPIC:DTS] dts: enhance enum checking
+255678,Add support for Microsemi Mi-V softcore
+255636,drivers: flash: simulator
+260537,driver/sensor: add LPS22HH sensor support
+270452,driver/sensor: Support for isl29125 RGB Color sensor
+267600,Add support for IPv4 header options in EchoRequest
+255018,lib: posix: Add Posix Style File System API support
+273247,Assorted userspace cleanups
+262897,STM32MP1 : Clock_control and GPIO support
+266165,dts: dtlib: Fix parsing of character literals
+257202,Bluetooth Mesh badge demo for the reel board
+257513,drivers: sensors: AMS Air quality Sensor Implementations
+258929,Rework shell help
+267913,Add STM32 DMA consumer support for dts
+214342,LwM2M 1.10 changes: firmware support + bugfixes + more (2nd version)
+270051,add Nordic JEDEC QSPI NOR flash driver
+214337,USB: DFU class rework
+209126,Touchscreen interface and driver
+214971,Review request: Initial support for the UARTE peripheral on the nRF52 (DMA UART)
+255666,drivers: can: mcp2515: Add driver for MCP2515 CAN controller
+254831,Tracing and Sysview support added
+256911,Bind to non default interface if using unspecified address
+267413,kernel internal naming cleanup
+256117,Bluetooth: Multiple identity support
+267071,arch/x86: add basic ACPI and non-trivial memory map support
+261195,Final net_pkt API switch
+272808,Network stack and power management
+257719,[WIP] Update board support for nRF52832-MDK and nRF52840-MDK from makerdiary
+256037,TLS communication for secure sockets
+263573,Bluetooth: controller: split: Port h/w privacy feature
+260443,kernel: remove CONFIG_APPLICATION_MEMORY in favor of app shmem subsystem
+265122,1.14 Backports 
+254974,LLMNR client and responder support
+258026,Script to relocate code/data/bss sections to different memory types.
+265631,boards: arc: hsdk support
+263623,Add support for TI CC3235sf
+263033, boards: rv32m1_vega: Introduce zero-riscy configuration
+209554,include/ cleanup
+256723,Adding support for the BME680 environmental sensor
+214665,BSD Sockets API: Offloading Support
+256401,net: tls: Add DTLS support to secure sockets
+254821,drivers: sensor: lsm6dsl: Adding sensorhub support
+265059,drivers: ssd1673: rename driver to ssd16xx
+268465,power: stm32l4: support of the Low Power Mode #19026
+253886,NRF52 SPI master for new SPI API
+261087,doc: Rework Development Process section
+209075,arm: core: Initial Stack Guarding implementation
+215022,samples: Add an OnOff application specific to the Nordic nRF52840-PDK board
+268381,drivers : spi : mec1501 : XEC SPI driver
+209751,Preview: storage & boot API for Image manager 
+254173,kernel: posix: add support for shared memory
+264973,Implement BSD sendmsg()
+256183,Native_posix: add real time speed control + a real time clock model
+213937,drivers: esp32: I2C driver
+254081,Bluetooth: controller: Fix for invalid ctrl pdu len and other refactoring
+209463,doc: added draft release notes for v1.8
+264050,Added support to access native posix flash via host file system
+209579,net: IPv4 link local addresses support
+257154,subsys: usb: Migrate to new logger
+273360,boards: nrf52840_pca10056: Rename board to nrf52840dk_nrf52840
+254271,kconfig: fix more help spacing issues
+213773,Bluetooth: controller: Refactor Conn Param Req implementation
+270341,fs: Remove NFFS support
+209617,"Error, Close"
+209774,ext: simplelink: Update HAL for CC3220sf to version 1.40.00.03
+268815,[TOPIC-GPIO] Update gpio_intel_apl driver to new GPIO API
+267892,Cortex-R Port Improvement for 2.2
+265246,"libc/minimal: add support for gmtime and its reverse ""timegm"""
+264818,driver/sensor: add LPS22HH sensor support
+256233,Handle out-of-buf cases gracefully in net
+261725,drivers: i2c: Add SAM0 I2C driver
+264122,lib: os: add sys_sem data type
+263610,mbedtls: move to external module
+254856,Testcase meta-data fixes and enhancements
+259732,Refactored logger 'in place' mode
+209277,driver: sensor: Add APDS9960 sensor driver
+268846,[DNM] West manifest imports documentation
+260732,Rename board images to match board name.
+258396,Network raw socket support
+266913,soc: arm: Add support for kinetis k2x
+209811,x86: MMU-based stack overflow protection
+209616,Merge arm branch into master
+254336,Ethernet driver for native posix board
+254481,tests: kernel: pipe: Added new test cases for pipe.
+268802,drivers: led_strip: modernize ws2812 drivers
+214166,driver: ILI9340 LCD display driver
+254623,Red/black tree implementation
+209368,various documentation updates
+254483,driver: sensor: Add support for LIS2MDL Mag sensor
+266143,dts: dtlib/edtlib: Add a syntax-based type-checking system
+269349,samples/subsys: add sample for the settings
+260775,drivers: can: Rework CAN drivers and API
+267315,[TOPIC-GPIO] convert 2-pin test to new API
+260094,boards: arm: add nrf52840_pca10090
+257273,dts: arm: st: Remove use of CONFIG_SOC_* from STM32 F2/F3/F4/F6 dts files
+267475,1.14 Backports
+254776,Network TX timestamp support
+254791,Ethernet mgmt interface
+258449,drivers: flash: QSPI flash driver for nRF52 SoC
+263817, drivers: ieee802154: add CC13xx / CC26xx driver
+262640,subsys/settings: Allow to register custom backends in settings subsystem
+274043,Network changes for k_timeout_t
+258299,boards: riscv32: Add arty_bm310 board.
+260630,drivers: can: stm32 can driver rework/fixing and testcases
+271974,[WIP] drivers: modem: gsm: mux: Support GSM 07.10 muxing protocol
+213724,doc: add project security docs
+256364,Add Zephyr support on WaRP7 Board
+257996,[RFC]Template prototype with updated edts
+269148,tests: settings: Test setting FS back-end using Littlefs
+214408,merge arm branch into master
+266438,"Enable SMP mode on all tests, fix bugs"
+213864,cmake: migrate majority of ARC/NIOS2/Xtensa boards
+215166,Add NUCLEO-L4R5ZI Board
+254596,Posix message queue
+256010,drivers: sensors: adt7420: Add driver for ADT7420 Temperature Sensor
+269340,Shields: Allow shields conditional configuration
+254292,Convert tests to ztest and other cleanup work
+209165,Carbon nrf51
+257577,dts: yaml: remove unused id field
+261972,Fix broken ADC test for arduino_101_sss and quark_d2000
+258064,Add support for stm32f4xx GPTP
+263137,net: http: implement high level API of http client
+264561,docs: fix misspelling across the tree
+255328,Test documentation and requirements
+255897,gPTP support for Atmel SAM E70
+260705,LwM2M: fix float32/64 handling + timer obj
+260603,Counter API: RTC support deploy on STM32 based boards 1/3
+267153,doc: New developer getting started guide
+254423,Enable LSM303DLHC on stm32f3_disco and add sample
+254577,boards: arm: Add Thingy:52
+258944,shell: remove Console dependencies
+268885,Add a sample to connect to Azure Cloud
+213745,IP address parsing refactoring
+256252,drivers: audio: Codec driver for TLV320DAC310x
+259795,Add i.MX RT LCD display controller support
+255266,drivers: uart: Refactor nrf uart shim
+255234,userspace: compartmentalized app memory organization
+258966,"drivers: spi, clock_control: Add support for clock control and spi controller driver for qemu-cortex-m3 board"
+264482,west.yml: update mcumgr SHA
+273035,net: tcp2: Add support for IPv6
+259520,[RFC][WIP] SOCKS5 proxy server implementation
+209603,spi: add SPI driver for STM32 family
+256665,Coccinelle: Add support for coccinelle infrastructure
+258651,sockets: tls: Make secure sockets support posix APIs
+265699,Bluetooth: GATT: Client and testing enhancements
+258347,[WIP] Silabs 802154 radio driver
+258675,[RFC] Add PF_CAN protocol for socket CAN
+264686,Enhancements for civil time conversions
+258129,Add Macronix Flash support for intel_s1000_crb board.
+259222,[HOTFIX #11072] Introduce the cfb_shell sample app
+255567,subsys: fs/nvs: Improvements
+257278,Bluetooth: Convert to new logger subsystem
+269936,Added stm32 nucleo_f767zi board support
+255317,tests: Remove newline character
+257145,Big timer API refactoring
+257779,Ble connection tests using nrf52_bsim
+209114,arch: Add Atmel SAM4S SoC support
+214296,drivers: sensor: add driver for amg88xx sensor
+256073,"Use memory management hardware to handle faults, measure user strings"
+256221,Update UP Squared board configuration for I2C devices and Atom SoC
+272080,ARMv8-A MMU support
+256801,lib: ring_buffer: add raw byte access mode
+273867,drivers: sensors: Convert to new DT_INST macros
+214145,cmake: we now build all boards and SoCs
+267769,[topic-gpio] boards: stm32: update to use new GPIO API
+213926,memory protection - x86 userspace implementation
+254687,Cmake: Add __ZEPHYR_SUPERVISOR__ macro for various files.
+267885,boards: nucleo_f447ze: Added support for the Nucleo-144 F446ZE board
+258084,restore dynamic IRQ API
+267046,Add ST IIS3DHHC accelerometer
+270196,Add board definition for stm32 nucleo_f767zi
+209221,MPS2 SPI driver
+255161,drivers: flash: Generic SPI Flash driver
+213445,POSIX pthread API
+259387,shell: source codel cleanup
+214127,Bluetooth: Move GATT samples under subsys/bluetooth/lib
+209805,adc: Introduce mcux shim driver
+255083,drivers: add imx7d i2c driver
+255071,Add macronix flash driver support.
+265248,DTS: Remove 'generation' from dts bindings and script
+259777,[DNM]Convert MCUX UART to use DT_<COMPAT> defines
+259213,Shell: source code cleanup
+209032,Bluetooth: controller: PHY Update Procedure
+209517,net: BSD Sockets like API initial implementation
+214330,net: lib: http: split out URL parsing as a separate CONFIG
+264416,arch/x86: reorganization ahead of Grand Unification
+256464,OS Managed Power Management framework
+260273,Fixes gpio_callback ambiguity in union pin vs pin_mask
+255857,[DNM] RFC: LwM2M Bootstrap Feature Support
+265415,shield/x_nucleo_iks01a3: Add support to stts751
+257685,Psoc6 add ipm
+266572,wifi: eswifi: Implement TCP/UDP socket offload with TLS
+215037,Add LED API and driver support
+254479,User mode memory pools
+272223,tracing: subsystem reorg and cleanup
+269822,sanitycheck: Use logger and avoid using global options
+254689,Enable use of shields
+209235,boards: arc: Update EM StarterKit board support from 2.2 to 2.3
+258401,drivers/serial: stm32: Modify Kconfig instance flags
+254059,Miscellaneous network subsystem fixes
+255871,Kconfig: Remove remaining redundant 'default n's in drivers/
+214969,Wifi mgmt interface and wifi offload
+256240,Spinlockification
+257261,doc: add ability to only generate kernel documentation
+255226,DTS: Intel's SoC and interrupts
+254957,Bluetooth: Initial conversion from bt_storage to the settings API
+209586,Drivers: flash: NRF5x: - Radio synchronous mode
+254952,doc: DRAFT template for 1.12 release notes
+259855,Native POSIX Flash support
+258997,Counter: STM32 Counter RTC Driver
+267537,scripts: dts: Generalize '#cells' to allow multiple sources
+267574,scripts: edtlib: Add easy redirection of warnings
+264429,drivers: sensor: BH1479 color sensor
+261623,i.MX RT10XX: Add PWM support
+259205,app_memory: Cleanup of the interface.
+254861,doc: improve Sphinx search results output
+269041,"net: buf: Add support for reading/writing 24, 48 and 64 bit values"
+213604,Add LwM2M firmware push/pull function
+209347,Bluetooth: Shell: Split GATT functions
+268749,sensor: add ms5607 sensor
+213930,Convert more net tests to ztest
+269659,net: sockets: Rework socket offloading
+258232,Introduce the cfb_shell sample app
+209414,drivers: nrf: rtc: Add driver for nordic SoC's RTC (Real Time COUNTER)
+261324,drivers: adc: Add SAM0 ADC driver
+265594,boards: reel board: add support for new display (reel board v2)
+253918,net: buf: Redesign with split data and meta-data
+254630,tests: kernel: semaphore: Added tests for semaphore.
+214282,Python-based flashing
+256090,boards: x86: add support for UP Squared (Pentium/Celeron)
+262385,drivers: serial: sam0: Add DMA async mode
+260788,include: misc: util.h: Rename min/max to MIN/MAX
+214134,kernel: implement some system calls
+255912,drivers: serial: nrf: Adding UARTE driver for the nRFx family
+259368,net: sockets: Implement select() call.
+214809,samples: boards: cc3220sf_launchxl: socket echo over WiFi
+264896,samples: intel_s1000: update sample audio app for control from host
+258942,shell: remove Console dependencies
+265061,Add spi driver for lpc boards
+260305, Bluetooth: Add initial whitelist support for autoconnect purposes
+256258,"doc: simplify CONTRIBUTING, merge non-apache"
+270133,"adc: devicetree capabilities, helper functions, voltage divider example"
+209266,kernel:  x86: MMU: kconfig definition for Memory Management Unit
+257680,"Docs: overhaul ""getting started"""
+258939,drivers: MXSMIO SPI flash support
+209545,Initial controller-based privacy support
+264214,style: add braces around if/while statements
+209493,Bluetooth: controller: Extended adv and scan of non-conn non-scan without aux
+254036,SPI API feedback changes applied
+255136,drivers: serial: uart_stm32: Add LPUART support
+265587,subsys/random: Add cryptographically secure and bulk fill functions
+255832,scripts: extract_dts_includes.py: refactor for better maintenance
+267870,drivers: CAN: Add bus-state API
+269376,Draft terminology related to API behavior definitions
+209804,Bluetooth HCI SPI slave application
+260726,Board documentation changes
+265327,test - ignore
+265307,introduction of the first 64-bit Zephyr target
+267974,boards: stm32: add nucleo board stm32g474re
+268638,[TOPIC-GPIO] Update the PCAL9535A driver and rename it to PCA95XX
+255303,tests: unfold nffs_fs_api
+260801,x86: implement kernel page table isolation
+255054,Scheduler rewrite
+266854,Add support for the Actinius Icarus board (nRF9160)
+264663,OpenAMP rsc table sample
+254594,tests: kernel: Add tests for k_fifo usage scenarios
+256923,scripts: dts/Generate compatible flags
+209048,stm32f4: Add support for UART4 to 10
+267804,boards: stm32: Set arduino gpio connector on nucleo 64 pins boards
+260870,samples: intel_s1000: 2-way audio demo over I2S host
+268039,x86: intel64: implement runtime page tables
+267437,Enable imxrt1010
+254685,[DNM] Add flexible top-level runner mechanism
+260440,More moves toward using new net_pkt API
+255062,add k_poll and k_poll_signal syscalls
+257579,Add support for ST Micro Nucleo-64 board with STM32F302R8 processor
+269629,board: efm32pg_stk3402a: Add option to compile for EFM32JG12B
+268830,sensor: dts - convert several sensor drivers to DTS
+269954,DesignWare drivers cleanup
+272695,doc: DT improvements
+215105,arch: arc: Add the intial support of memory domain
+264641,Generate DNS server add/del net mgmt events
+214805,[RFC][DNM]Pinmux configuration code generated from Device tree
+209557,drivers: eth_stm32_hal: Initial STM32F4 HAL based Ethernet driver
+214204,STM32 USB Controller driver
+270639,drivers: display: Add support for GD7965 display controller
+209209,MPS2 touchscreen
+259318,boards: particle: add board support for particle argon
+270564,tests/fs: NFFS has been replaced with Littlefs in multifs tests
+209422,sensors: add ADXRS290 driver
+264016,kernel: add futex support
+264172,"kconfiglib: Fix symlink issue, unclutter symbol strings, avoid redundant writes, misc."
+262559,shell: Add TELNET backend
+254553,[DNM] kconfiglib: Update to fd21c5cb320b9
+267582,arch/x86: add SMP support (64-bit mode only)
+266098,net: Add CONFIG_NET_NATIVE option for selecting native IP
+213618,merge arm branch into master
+273865,drivers: sensor: st: Convert to new DT_INST macros
+209413,1.8 fixes
+259073,drivers: gpio: Add support stellaris gpio controller driver
+261835,doc: use :zephyr_file: where appropriate
+263612,[DNM] Settings const key
+265052,x86: clean up and refactor arch/x86/include
+257106,net: gptp: Experimental Grand Master support
+209835,kernel: validate kernel objects
+272833,lib: os: onoff: Add cancellation before started feature
+263523,Wrapping compiler builtins
+269710,include: Remove compat include headers
+264011,Move more modules out of the tree
+266674,Backport Check
+256663,adc: add native driver for Quark D2000
+269458,Bluetooth: Mesh: Restructure doc
+261146,Ieee802154 switch to new net pkt API
+209286,Initial support for Olimex STM32-E407 board
+268405,kconfig: Remove symbol types from Kconfig.defconfig files
+267220,arc: hsdk: bug fixes and new feature supports
+213672,arch: arc: Add mpu support
+257422,linker: warn about orphan sections
+262635,drivers: counter: Add SAM0 basic counter support
+256837,MS5837 pressure sensor
+214422,merge arm branch into master
+257357,Shell handler returns int value
+258911,samples: cmsis_rtos_v2: Add sample application
+263177,bluetooth: controller: Source code documentation of ticker
+270325,cmake: remove include/drivers from include lists
+267098,Microchip XEC PWM driver
+253939,native: documentation improvements
+257065,Add driver support for Stellaris ethernet controller.
+256945,drivers: apds9960: rework and add trigger
+214029,Enable Low Power State/System Off State on nrf52 platform
+214291,Limit mcux drivers to SoCs that have the associated hardware
+256508,samples: mesh: nrf52: to solve pending issues
+258028,gpio: stm32 use dts extracted information to populate gpio instances. 
+270430,drivers: crypto: Add STM32 CRYP crypto driver
+258435,boards: arm: Add support for NUCLEO-L496ZG
+263715,Network connection manager 
+209458,v1.8 fixes for RC4
+270669,Fix websocket when reading small amount of data
+259900,nRF9160 pca10090
+255319,drivers: i2c: I2C shim for nrfx TWI and TWIM drivers
+209727,merge arm into master
+254681,userspace: compartmentalized app memory organization
+209175,Bluetooth: Move common code to common/
+265102,Bluetooth: services: Move GATT services source files
+257852,boards: arm: nucleo_f756zg: Created new board nucleo_f756zg
+258452,doc: Document some Kconfig best practices and tips
+254784,driver: ptp_clock: PTP clock driver definition
+213498,pwm: Introduce mcux shim driver
+257001,Add spi to mimxrt1050_evk
+214572,docs: initial user mode documentation
+272781,Add GMAC device tree binding
+267936,x86: mmustructs cleanup
+266471,drivers: spi: rv32m1: Added LPSPI driver for RV32M1
+254406,drivers: sensors: Add lsm303dlhc driver
+273027,Support OpenThread Border Router in Zephyr
+259587,Add support for external flash and sdram to imx rt series
+259800,[WIP] drivers: adc: add adc driver support for STM32
+254283, usb: sam0: add a USB device driver.
+264702,Add civetweb HTTP sample
+256624,IPv6 address and prefix lifetime timer refactoring
+254536,boards: olimex stm32-h407: Add initial support
+272724,support license check with topic branch
+253972,USB: Add HID class support
+272285,DT: augment tree and use it to re-order macros
+209230,doc: Update NXP board docs for pyOCD and Segger J-Link
+214085,Sebo flash script
+267116,arch/riscv:initial support for floating-point
+266482,[ESP32] drivers: Add UART Driver with FIFO/Interrupt support
+256254,userspace: sample app domain applications
+254546,[DNM][RFC]Add support for first Cortex-M33 board/SoC (MPS2_AN521)
+254420,drivers: GPIO Added GPIO for SAM family.
+256022,drivers: add imx7d pwm driver
+272868,board: arm: black_f407ve: Initial support
+215109,[RFC] Generic SPI Flash driver
+258969,samples: cmsis_rtos_v1: Samples to demo usage of cmsis_rtos_v1
+214593,CMake: update docs/application/application.rst
+267938,"STM32L1: add spi, add L1 disco board, add extra parts"
+259606,[WiP] [DNM] Update power management support.
+254281,test cases moved to ztest and naming fixes
+263890,Network stack: net_if cleanup
+264619,Device Tree clock information
+267679,Settings filter duplicates
+260032,Refactoring socket tests + poll() + select() test
+257616,Board support for nRF52832 and nRF52840 from makerdiary
+215032,Bluetooth: tester: Add initial support for BTP Mesh service
+254115,kconfig: Rebase to latest Kconfiglib
+256199,Add a generic SPI NOR flash driver instead of the specific w25qxxdv driver
+258329,Bluetooth: Port mesh shell to the new shell
+258142,usb: logs: Use original logger functions
+255347,Display api
+255513,tests: fifo_timeout : Dereference after null check
+270352,boards: arm: Add support for stm32vl_disco (and stm32f100xx SoC)
+260547,Bluetooth: Add GATT Caching support
+259907,Add i.MX RT I2C support
+257213,doc: subsystems: shell: Add documentation.
+272356,Arch arm cortex m swap locking
+267994,Pr/19729
+262644,cmake: Add function for adding snippets to the linker file
+260116,MHU: Add MHU driver support for SSE-200 subsystem
+259307,Add 96Boards STM32 Sensor Mezzanine board support
+213562,Olimex stm32 p405
+265186,Tests arch arm swap
+254206,native: added more proper command line parameters parsing
+272678,Merge Topic devicetree
+260024,Minor doc change to titles and structure
+266117,Add board support and documentation for MEC1501 modular card ASSY 6885
+257509,lib: posix: Implement generic file descriptor table
+269403,Nucleo L452RE board definition added
+270938,[TOPIC-GPIO] updates for deprecated API
+213547,tests: net: convert to ztest
+254210,Bluetooth: Mesh: Convert to new net_buf_simple APIs
+264909,"Enable Counter, SPI, ADC enable for STM32WB55x"
+266321,[TOPIC: DTS] dts: bindings: Make foo-device.yaml/foo-controller.yaml naming consistent
+254570,Bluetooth: controller: Fix v1.9-branch from v1.11.0
+254633,arch: arm: implement TZ api and configure SAU and  non-secure core registers from secure firmware
+258433,Board cleanup
+209536,Preliminary ESP32 port
+214412,drivers/ieee802154: Stabilize the KW41Z IEEE802.15.4 driver
+256713,drivers: i2s_cavs: Bidirectional I2S implementation for Intel S1000
+215193,spi: add a SPI driver for the SAM0 series
+264244,Add ADC support for the NXP KE1xF SoC and TWR-KE18F development board
+272468,doc: dts: Add lots of documentation for generated macros
+209150,k_mem_pool: Complete rework
+258880,samples: mesh: nrf52: coding style & feature improvements
+255548,RTT update and Kconfig configuration
+214677,cmake & dts changes to move board related dts files into board dir
+268487,[DNM] Test the integration of nrfx 2.0.0
+263303,Microchip I2C driver support for MEC family
+273210,Bluetooth: Mesh: Slab based segmentation handling
+267918,[TOPIC-GPIO] gpio: Update mcux lpc driver to use new gpio api
+256048,kconfiglib: Add preprocessor and two warnings
+261602,doc: net: lwm2m: add LwM2M high-level API documentation
+260835,power: Rework OS <-> Application interface
+257671,Logger net backend
+258605,Convent stm32 iwdg driver to new API
+259719,boards: arm: Add xtools as a supported toolchain
+256016,ARMv8-M MPU driver implementation
+209750,net/mqtt: Enable TLS support
+258868,samples: mesh: nrf52: coding style & feature improvements
+268338,"USB power state callback, API rework."
+256434,Update Kconfiglib to get rid of some hacks and improve menuconfig symbol information
+209477,ZEP-2225: Bluetooth: Ability to unregister GATT services
+257666,Timer rewrite phase 3: drivers
+256336,syscall: Move arch specific syscall code into its own header
+256259,SDL based display emulation driver
+268445,"x86: consolidate x86_64 architecture, SoC and boards"
+265544,Add Whitelist Support
+264765,RFC: approach to supporting driver-specific API
+254892,ArgonKey board: Adjust DTS support and add sample test
+263669,zio: Introduce ft5336 touch sensor driver and integrate into LittlevGL
+264045,Network interface userspace access
+267884,samples: net: Add dummy multithreaded HTTP server
+254557,ext: hal: cmsis: Update ARM CMSIS headers to version 5.3.0
+265656,[Backport v1.14-branch] Network interface userspace access
+265569,Bluetooth: controller: Conformance testing backports to v1.14 branch
+257791,linker: warn about orphan sections (again)
+209633,tests: Remove camel case and fix coding style
+253849,samples: net: perf: Add sample for throughput measurement
+273425,Add support for PWM on STM32 H7 series
+257496,boards: arm: nucleo_f746zg: Created a new stm32 nucleo board.
+213868,x86mmu: kernel: Validate existing APIs
+267987,drivers: sensors: Fix log module registration
+209040,Add support for STM32L432KC and Nucleo L432KC board
+254989,boards: arm: add support for NUCLEO-L053R8
+273463,ext: hal: Remove Altera HAL from the tree and use a module
+264326,arch/x86: add x2APIC support
+256362,build: Replace GCC ARM Embedded with GNU Arm Embedded
+257179,drivers: sensors: Add support for Nordic QDEC
+213831,crypto: mbedtls: Update mbedTLS to 2.6.0
+257697,Tests/Samples: Cleanup tags
+257140,"drivers: fxos8700: enhancements, mma8652 compatibility, motion detection"
+269879,[TOPIC-GPIO] Clean up on stm32 gpio driver
+214929,RPL mesh multi-node sample using qemu
+264029,Mps2 an521 and Musca B1 support call TFM services by IPC
+273650,ADC: Add support for Microchip MCP3204/MCP3208
+260905,Add socket CAN dispatcher support
+267980,[topic-gpio] drivers: gpio_stm32: update to use new GPIO API - NO BOARDS
+272730,Device power management support on cc13x2/cc26x2
+209113,Disco sensors samples and settings
+272404,Add support for K66F and Segger IP switch board
+209174,"[WIP, 1.9] Bootstrapping BSD Sockets like API"
+260584,Shell history refactoring
+209412,drivers: dma: add shim driver for mcux edma
+213895,Support SNTP client library
+259217,Add support for Pico-Pi i.MX7D board
+256759,logging: add mechanism for handling transient strings
+264447,boards: arm: Add support for 96Boards Meerkat96 board
+270143,samples: nrf: add battery monitor
+261820,CANBUS driver for native_posix board
+259442,Shift DTS before Kconfig
+209612,boards: arm: Add STM32F3DISCOVERY board
+256064,ext: lib: crypto: Generic mbedtls config file
+255023,drivers: pwm: Add shim for nrfx PWM HW driver
+264088,drivers: Add counter driver (RTCC) for SiLabs Gecko SoCs
+214911,[RFC] LwM2M: write attribute support
+214896,drivers: usb_dc_stm32: Add support for all STM32 families
+268435,[TOPIC-GPIO] validate pin ordinals in wrapper functions
+214690,Bluetooth: Mesh: Friendship fixes
+267612,boards: arm: add QEMU support for Cortex-M0
+267626,arm: arch code naming cleanup
+268883,[DNM] Test nrf52_bsim aligned with nrfx 2.0.0 (2)
+268851,Integrate nrfx 2.0.0
+258376,Reel board periphs
+209092,Merge arm branch into master
+260844,boards: bl652_dvk: Add BL652 DVK board
+214077,RFC: system call declaration interfaces
+257530,drivers: spi: Add atmel sam series spi support 
+268368,boards: atsame54_xpro: Add SAM E54 Xplained Pro Evaluation Kit
+254360,boards: Add initial support for the nucleo-f446re board.
+270872,[TOPIC-BLE-LLCP] Bluetooth: controller: Add Tx Queue
+209476,boards: provide Nucleo-64 F334R8 development board's documentation
+273597,drivers: serial: Xilinx ZynqMP/Zynq-7000 UART driver interrupt support fix
+272932,Initial support for NUCLEO-H743ZI board
+253822,cmake: remove IS_TEST handling
+254104,USB device transfer
+256296,Get rid of Zephyr's prefer-later-defaults behavior
+255822,i.MX IPM
+267615,"drivers: Kconfig.nrfx: Choose driver type basing on DT compatible (for I2C, SPI, and UART drivers)"
+273540,drivers: gpio_gecko: convert to DT_INST defines
+257332,boards: Cleanup gpio flags in device tree (fixes button example)
+267108,Microchip XEC basic timer/counter driver
+214904,Add support for the STM32F072-EVAL Board
+257512,Update STM32 disco board vs default configuration guidelines (part1)
+209435,1.8 fixes for rc3
+255960,boards: arm: stm32: Basic support for STM32F769I-DISCO board
+269588,doc: release notes: Update contents for 2.1.0
+214171,Jailhouse (inmate/guest) port
+260221,Move doxygen API docs around and have them alongside general documentation
+260438,lib: cmsis_rtos_v2: Additional CMSIS RTOS v2 Support
+255038,"dts: Add sensor and mcr20a bindings, and fix samples"
+256432,boards: riscv: Convert HiFive1 to DTS
+273165,doc: release notes: Update contents for 2.2.0
+214106,Ieee802154 changes for better & future hw features support
+254474,Cleaning up a bit dts scripts
+273079,Convert STM32 drivers to DT_INST
+272021,samples: Add MetaIRQ dispatch sample
+256015,WIP DNM esp32: add flash cache support
+260752,Bluetooth: controller: Data Length Update port to ULL/LLL arch
+255440,Testcase cleanup
+265865,Microchip Xec basic timer driver
+214804,Bluetooth: Mesh: Improvements to the Config Client API and related shell commands
+255551,boards/arm: Add basic support for Nucleo-F302R8
+213860,drivers: i2c: Add support for cc32xx I2C
+254537,boards: nucleo_f070rb: add new board
+255035,doc: Create a sensor threat model doc
+263102,boards: arm: add initial support for NUCLEO-L152RE board
+264411,Add 96Boards Avenger96 board support
+259184,rework GPIO configuration flags
+258238,Silabs flash pages
+259834,dlist API enhancements supporting timer cleanup and scheduling fix
+256674,bluetooth: BLE GATT battery service
+262793,drivers: pwm_nrf5_sw: Fix the driver and make it support nRF9x SoCs
+209670,scripts: extract_dts_includes.py: Adhere to PEP8
+272386,Refactor ARM interrupt system (Cortex-A & Cortex-R)
+257781,Shell unify commands ret val
+215075,boards: arm: add support for stm32f072b_disco board
+257941,sample: boards: add basic sample for the reel board
+263826,boards: intel_s1000: Image download scripts
+257968,sample: boards: add basic sample for the reel board
+254640,Add support for POSIX named semaphores.
+268541,drivers: spi: Add basic Gecko SPI driver
+260399,boards: arm: add mikroe_mini_m4_for_stm32
+214267,boards: arm: Add support for 96Boards Neonkey Board
+257188,boards: arm: Add support for ST B-L072Z-LRWAN1 board
+254845,Stm32 add gpio nodes
+260786,boards: bl654_dvk: Add BL654 DVK board
+257498,tests: posix: refactor pthread tests
+256895, drivers: flash_gecko: Add flash driver for SiLabs Gecko SoCs
+267879,Arch arm fix is in isr
+254239,[RFC][DNM] drivers: adc: new API proposal
+214183,Stm32 ccm
+209244,Add support for STM32F469XI and STM32F469I Discovery Kit
+270432,x86-64: implement kernel page table isolation
+272946,test pull
+266650,"Backport 18575 to v1.14 branch: ""logging: Add basic userspace support"" "
+260279,Net-app API removal
+254789, drivers: spi: Add shim for nrfx SPIM driver
+267868,Run samples against Docker net-tools container
+258187,logging: Rafactor LOG_MODULE_REGISTER and LOG_MODULE_DECLARE macros
+266638,Usermode logging backport to 1.14
+256300,boards: riscv: Convert HiFive1 to DTS
+261416,net: buf: Doxygen comment addtitions and fixes
+214017,LwM2M 1.10 changes: LwM2M library migrate to lwm2m_message + msg timeout callbacks
+273448,Revert #23437
+209164,Fix support for Internal STM32F4x flash and add STM32L4x support
+255971,Add support  STM32F769 SoC and the STM32F769I-DISCO board 
+266493,Logger: Add basic userspace support
+273467,Merge build assert macros
+263524,1.14 PRs consolidated
+264539,Bluetooth: Add runnable tests
+214156,Kinetis clock control
+267480,dts: Use separate compatibles for Nordic TWI/TWIM/TWIS and SPI/SPIM/SPIS peripherals
+264406,Boost default tick rate to double digit kHz on tickless hardware
+257205,UART for POSIX_ARCH
+214428,boards: arm: Add support for NUCLEO_F091RC board
+268695,drivers: watchdog: Add SiLabs Gecko WDOG driver
+255952,doc: subsys: logging: Add documentation for new logger
+213869,LLMNR client support
+255972,Add support STM32F769 SoC and the STM32F769I-DISCO board
+268756,x86: enable stack overflow detection on 64-bit
+256035,boards: arm: add nrf52840_pca10059
+254030,"dts: spi: add more dts nodes and fixup defines, convert boards to using dts"
+257677,"menuconfig: Add jump-to for choices, menus, and comments"
+214927,Add Master<->Slave SPI test
+254391,"POSIX implementation for ""RW Lock"" "
+263577,qmsi: move to a zephyr module
+213836,Bluetooth: controller: Add Direct Test Mode support
+262917,tests: net: all: Add more options to catch-all test
+262489,Introduce sys_mutex APIs and fix user mode support for MQTT
+214278,userspace and system call handler code cleanups
+256650,LwM2M data formatting bugfixes
+265639, ext: hal: nordic: Update nrfx to version 1.7.2
+255189,Revert zephyr library ifdef
+267383,Docs: thread documentation enhancements and cleanup
+265658,Add doc about POSIX implementation in Zephyr
+270774,Fixes for ublox SARA modem driver
+267576,boards: arm: Add steval_fcu001v1 board support
+254346,Argonkey port
+254593,arch: arm: nordic: nRF5 to nRF rename for upcoming chip families
+209036,Bluetooth: controller: Refactor ll c into states/roles files
+256255,Add initial support for MMA8451Q (3-axis accelerometer)
+214435,"Revert ""X86: MMU: PAE boot time page tables."""
+267815,logging: add syst format support for existing logging system
+258828,boards: particle_xenon: Add support Xenon
+214075,boards: arm: Add support for STM3210E_EVAL
+213569,stm32f4: Add STM32F429I-DISC1 board
+270948,Add Nucleo-64 stm32f303RE board
+215197,Add support for CCS811 digital gas sensor
+255664,doc: release notes: Update 1.12 release notes with GitHub issues
+256957,menuconfig: Fix some minor graphical glitching and add custom styles
+254518,boards: arm: add initial support for NUCLEO-L073RZ board
+269586,OpenISA: RV32M1: Add PWM support
+213499,doc: add CONTRIBUTING.rst to project repo and docs
+256286,Network socket API syscalls
+267751,kernel: arch interface housekeeping
+262738,userspace: reduce CI userspace testing to tests that use it and fix some network tests
+262933,Icc support [WIP]
+262377,drivers: dma: Add SAM0 DMAC driver
+256868,portability: Towards C99/C11 compliance
+260293,Update power management for nRF5x
+268468,arm/riscv: kconfig: Remove type from NUM_IRQS in defconfig files
+209749,I2S (Inter-IC Sound) driver API
+254205,Syslog network backend
+260569,SOCKS5 proxy support for the MQTT client (TCP)
+255877,drivers: led: Add LED driver support for NXP PCA9633
+261937,drivers: sensor: Add ADXL362 interrupt handling
+254988,introduce sflist slist-alike
+255774,Add RTC driver for STM32L4 using LL APIs
+257424,USB: netusb: Refactor function registration
+261970,subsys: power: clean up function names & update documentation
+209256,Sam3x
+256273,native_posix: Generalized native tasks + Refactoring of command line options
+273257,Merge build assert macros
+255209,Get rid of 'option env' symbols + display properties on multi.def. symbols in the right place
+263652,Bluetooth: Support for HCI Vendor-Specific Events
+259706,samples: mesh: revised implementation of states binding & other
+266217,"aggregated remaining patches to correct use of extern ""C"""
+264879,include/arch/x86: restructure and cleanup
+266432,ext: hal: make openisa HAL a zephyr module
+257490,"Add UART5 to stm32f1 dts.fixup, Align all stm32 dts.fixup "
+255222,Extend LED API and add implementation for NCP5623 
+256702,dts: add SPI bindings for nRF family
+264622,Decouple timers from system clock
+214507,boards: arm: Add support for STM32L476G Discovery board
+272877,drivers: i2c: Add mcux flexcomm driver
+213821,boards: arm: Add support for STM32F412G-DISCO
+263205,west: Move cmake and build functionality to zephyr and add a boards command
+263245,Add SPI support for CC13xx / CC26xx
+214845,yaml: fix properties syntax to 'mapping' instead of 'series'
+254011,native: added shell support
+254829,Implement/Update POSIX mutex APIs
+255414,USB: Add MS OS Descriptors version 1 support
+260802,samples: intel_s1000: I2S audio sample application
+269211,"drivers: display_st7789v: obtain parameters from DT, add Waveshare 1.3inch display"
+209359,Add support for STM32F412ZG
+264415,"ext/hal/microchip/mec/mec1501 Header update Port80 capture, timer, eS…"
+263426,Add CC13xx / CC26xx I2C support
+259349,soc: arm: st_stm32: Cleanup gpio function code.
+268964,Added generic shield for ST7789V display controller
+255526,USB: Add BOS Descriptor API
+254006,boards: arm: add support for STM32F0DISCOVERY
+267530,Cleanup and convert to ztest unit tests
+209186,Add support for STM32F4DISCOVERY Discovery kit and fix support for STM32F407XG
+263597,Bluetooth: Proprietary HCI Vendor Specific Event
+260494,stm32_spi: Add DMA capabilities for STM32F4 SOCs
+273827,Rework kernel FP sharing test
+264904,Slist coverage fixes
+255006,drivers: add i.MX GPIO driver shim
+264934,[Backport v1.14-branch] Slist coverage fixes
+214465,Replace create sockaddr
+209185,Stack overflow
+259180,boards: add new board Electronut-labs Blip
+264802,Bluetooth: controller: Fixes related to BT LL TS 5.1.0 conformance test run
+259758,"Revert ""dts: silabs: use 'aliases' to remove dts_fixup defines"""
+255918,STM32F723 support
+269183,"dts: Rename generated_dts_board* to devicetree*, with backwards compatibility"
+270661,Introduce ft5336 touch panel driver and integrate into lvgl
+254971,Test case documentation and cleanup
+255901,STM32F7 improvements and STM32F723 support
+271986,bug  fixes in arc smp initializaiton and tests
+272689,drivers: ethernet: eth_sam_gmac: Fix priority queues
+254090,gpio: Add a driver for SX1509B
+256228,drivers: eth: e1000: Add driver Intel PRO/1000 Gigabit Ethernet contr…
+209391, ZEP-2171: Move all board pinmux code from drivers/pinmux/stm32 to boards/arm/..
+272100,LPC55xxx secure/non-secure split
+272322,kconfig: Replace non-defconfig single-symbol 'if's with 'depends on'
+253864,cmake: Use path-corrected version of ZEPHYR_BASE
+255167,tests: kernel: Add description for test cases
+257525,Move various drivers to new logger
+214938,Board: Add support for nucleo_f429zi
+256497,Fix small api usage problems
+264079,Add support for LE Secure Connection authentication using OOB for Central role
+261978,Kconfig: Remove blank lines at the beginning/end of files
+209178,Add STM32F413 support
+263005,Bluetooth: GATT: Add support for static services
+260721,boards: arm: add Electronut labs papyr (nrf52840_papyr)
+255722,cmake: replace PROJECT_SOURCE_DIR with ZEPHYR_BASE (#7173)
+263609,Shorten getting started
+209067,Bluetooth: controller: Controller to Host flow control
+273716,Nrf91 board rename
+262160,kconfiglib/menuconfig: Various behavior/UI improvements
+267701,coccinelle: standardize kernel timeout arguments
+256870,Consolidate most tinycrypt tests into one test
+267425,scripts: dts: Generalize handling of phandle-array types
+214082,Bluetooth: controller: GPIO PA/LNA feature
+254869,USB: Bluetooth over USB refactor and fixes
+258290,boards: Update STM32 disco boards default configuration
+214439,net: coap: Improve options parsing helper functions
+267421,"scripts: edtlib: Rename edtlib.Device to edtlib.Node, and 'specifier' to 'data'"
+265819,cmake: Toolchain abstraction: Abstraction of binary tools.
+258489,Transition to west
+271980,[TOPIC-GPIO] clean up API declarations
+267540,soc : mec1501 : Deep and light sleep example
+215194,flash: sam0: add a driver for the internal flash on the SAM0 series
+254169,arch: atmel_sam0: rename samd SoC series to samd21
+254543,boards: arm: improve Nucleo boards documentation formatting
+214272,boards: arm: Add support for STM32F411E-DISCO
+264824,Bluetooth: Add NRF BLE DFU service sample
+255214,k_queue: allow user mode access via allocators
+265947,[TOPIC-GPIO] Add LiteX GPIO driver
+255356,Testcase consolidation and documentation updates
+274104,DT: Add DT_DMA macros to help usage in dma clients drivers
+263873,checkpatch.pl: fix root dir detection and use vendor-prefixes list
+270795,Support GSM cellular modem with PPP
+258586,drivers: flash: add flash driver support for Atmel SAM E70
+258236,drivers: flash: add flash driver support for Atmel SAM E70
+258993,drivers: pwm: nrf: nrf pwm driver modification to use DT
+256065,boards: Add stm32f407g-disc1 Discovery devboard support
+259431,shell: adc: adc shell for testing adcs
+214608,import base64 from mbedtls
+263799,Add PWM support to NXP KE1xF SoC and TWR-KE18F development board
+257131,Master+atsamd21 xpro
+258657,i.MX EPIT Timer Driver
+258531,Bluetooth: shell: Cleanups
+214363,tests: port a bunch of kernel test cases to userspace
+267397,Samples: Bluetooth: Add ST BLE Demo sample
+266500,lptim: stm32l4: support of the lptimer
+259617,WiFi AP mode and eswifi improvement
+258540,[DNM] Memory Protection features in ARMv8-M
+262774,drivers: i2c: rv32m1: add I2C driver for the RV32M1 RI5CY SoC
+254692,drivers: i2c: SC18IS600 SPI to I2C bridge
+214390,LwM2M migrate to new CoAP API
+267143,Port LIS2MDL driver on top of stmemsc i/f
+253990,Bluetooth: controller: Refactor ticker integration into hal
+265252,bluetooth: controller: Revised ticker for improved conflict resolution
+254790,boards: Add support for nRF52 Adafruit Feather
+213572,board: em_starterkit: Add 2.2 firmware version support
+209232,Use DT labels for UART driver names (based on PR #208)
+209312,Fixes for v1.8
+259547,Nrf9160 dts and soc
+254344,tests: mailbox: Added new test cases.
+265371,drivers: i2c: Add STM32F10X slave support
+255707,arch: arm: nrf: add hardware description for nrf kconfig files
+209765,doc: Initial release notes for v1.9
+273600,drivers: mcux: Convert MCUX drivers to new DT_INST macros
+260830,Allow automatic registration of socket families
+256970,Add support for PWM on STM32F7
+254578,tests: lifo: Add lifo test with scenario
+254566,em starterkit & em*d SoC to use device tree
+272368,Fix 22563
+209491,Zep 1878 add signoff 2
+215174,Improve console handling of sanitycheck and support regex matching
+266162,Added test cases for LVGL
+209337,Merge arm branch into master
+255896,gPTP support for frdm-k64f
+214188,Bluetooth: Add host-side support for Link Layer Privacy
+256463,Kconfig: Switch to improved globbing statements (+ document a small Kconfig extension)
+267158,Microchip XEC ADC Driver
+258831,drivers/spi: Driver for the SPI peripheral on the SiFive FE310/HiFive 1
+209293,Add support for STM32 Minimum Development Board
+215130,Bluetooth: btp: Extend BTP with new MESH commands
+256021,"samples: mesh: boards: nrf52: upgrade to pass PTS, improved vendor model, randomize pulishers TID on boot"
+270254,Security2
+264698,Runner program checks backport
+266185,[TOPIC: DTS] dts: add 'const' support to bindings
+270356,bluetooth: controller: Implemented dynamic re-scheduling in ticker
+267031,scripts: dts: Improve 'sub-node:' and 'child/parent: bus:' syntax
+272785,driver/sensors: lis2dh: Fix I2C and SPI bus communication
+266902,"Settings nvs backend, settings/src test integration"
+264349,Check for dependencies in west flash/debug
+264477,Document building with west by default 
+263064,[Backport v1.14-branch] nrf52840_pca10090 reset pin & HCI
+262991,nrf52840_pca10090 reset pin & HCI
+264096,Multiboot framebuffer display support (x86) and display console driver
+256106,drivers: Rework Silabs Gecko UART Driver
+262637,boards: arm: Add support for Degu Evaluation Kit
+265341,Add support for ODROID-GO Game Kit
+254748,drivers: Perform a runtime check if a driver is capable of an operation
+272249,bluetooth: controller: openisa: add support for encryption using CAUv3
+255481,driver: flash emulator
+261943,BLE OOB Pairing
+268978,Display driver API sample
+268879,STM32: add support for STM32G031 SoC and STM32G0316-DISCO development board
+266527,Add support for TI TMP116
+263092,ext: segger: update to SystemView v2.52h
+269129,doc/kernel/smp: Add initialization diagram
+260224,Socket CAN sample and driver
+214705,Bluetooth: tester: Add initial support for BTP Mesh service
+255836,nrf52 : Fix low power mode and timer related issues
+254803,Ethernet statistics support
+258639,dts spi cleanup
+254637,lib: Add a base64 library
+209553,Test name cleanup
+213598,drivers: sensor: Add Atmel SAM QDEC (TC) Driver
+268294,kconfig: Turn pointless/confusing 'menuconfig's into 'config's
+259209,boards: arm: add support for Particle Xenon
+256839,release: update notes with gh issues
+209665,mpu fixes for v1.8-branch
+255036,doc: add doc writing guides w/common usages
+259041,Arch arm mpu clean up headers
+254819,posix: add pthread_key
+263923,Bluetooth: L2CAP improvements
+265260,[Backport v1.14-branch] doc: Bluetooth: Update PICS to 7.4.1
+214352,tests: sockets: Add TCP test cases
+209555,Samples: Some reorg and addition of a new sample
+264946,doc: Bluetooth: Update PICS to 7.4.1
+213670, cc3200: Remove TI cc3200 SOC and LaunchXL board support
+259611,Add Serial Wire Output (SWO) logger backend
+273294,boards: arm: Add board definition for Adafruit Feather nRF52840 Express
+214384,base64 librariy for support mcuboot serial FWU 
+214919,the support of em7d (emsk 2.3 ) with secure mode and mpu v3
+264444,Cleanup whitelisting in tests/samples
+209867,net: doc: Add missing defgroups to network header files
+263191,STM32MP1 : UART support
+256295,misc: add a section to store kernel version information
+257436,dts: nrf: dts.fixup cleanup for nRF series
+274004,DTS: i.mx: Convert driver to new DT_INST/DT_NODELABEL macros
+263054,add support for STM32F030X4 family and STM32F030 DEMO board
+254925,drivers: rtc: Add Zephyr RTC driver for NXP MCUX
+257452,Silabs gpio
+255238,Merge arm branch for RTC & NXP_RTC changes.
+270435,Add NXP Kinetis SoC temperature sensor driver
+269071,RFC: API Change: PWM: add support for inverted PWM signals
+254468,Verify delay specified during OS boot
+254119,Nios2-i2c: Add i2c master driver for Nios-II i2c core
+254914,Watchdog API redesign and shim for mcux wdog driver
+209366,drivers: clock_control: Move stm32f1 series to Cube LL API
+255730,drivers/rtc: Add STM32 RTC driver
+255999,[RFC][DNM]drivers: Rename timer and counters
+262126,arch: arc: implement syscall based atomic operations for em
+273959,stm32: gpios: Convert driver to new DT macros and remove Kconfig GPIO symbols
+265672,drivers: spi: spi_ll_stm32: Add SPI support for STM32MP1x SoC and stm32mp157c_dk2 board
+259316,drivers/i2c: Driver for the I2C peripheral on the SiFive Freedom Platform
+268824,Backport Test
+213503,HTTP context pool for server and clients
+214004,net: BSD Sockets: Implement getaddrinfo() call
+209474,doc: added release notes for v1.8 draft
+256991,arm: Cleanup Kconfig options controlling MPU support.
+254035,samples: drivers: Add sample app for HD44780 LCD using I2C
+262297,ADD General Purpose Timer (GPT) driver
+267981,dts: stm32: Remove pinctrl definitions
+254958,Add support for selecting proper IPv4 source address
+258752,samples: mesh: nrf52: changes to make immediatly send GET responses
+264518,Add IPM support for stm32mp157
+209728,"I2C default cfg from DT, add support for MCUX from dt"
+256052,flash_map:  generate content from DTS completely.
+213512,Unify configurations of networking samples
+266738,boards: arm: Add support for Degu Evaluation Kit
+254260,boards: add the Adafruit Trinket M0.
+260385,arch: arc: use ex instruction to implement atomic opertioans
+264964,Bluetooth: host: Add support for retrieving the remote version
+254108,[RFC] fs: Convert FCB to use sectors (not areas)
+268511,cleanup and enhancement of JEDEC SPI NOR support
+256524,drivers/rtc: Enable RTC driver for STM32F3/F4 series
+254238,samples: sockets: Add big_http_download sample
+263854,Pinmux mec1501
+213704,Revert simplelink host driver
+256644,boards: nrf: uart: Moved UART pin configuration to DTS (nRF boards)
+256525,added boardfiles for ruuvitag
+256211,samples: net: echo-client: Add overlay config support
+257221,MMA8653 Driver BBC Micro:bit
+256901,Clean up sensor driver Kconfigs
+215153,scripts: cleanup python scripts following PEP8
+269756,drivers: serial: Rename lpc usart shim driver
+268874,drivers/eeprom Add support for eeprom simulator
+274015,DTS: OpenISA RV32M1: Convert driver to new DT_INST/DT_NODELABEL macros 
+254256,drivers/pinmux/stm32: Fix 80 characters line warnings
+255068,kconfig: Make 'source' non-globbing and use 'gsource'
+260267,LwM2M misc. fixes (pre-socket migration)
+259206,Shell - using shell_fprintf from multiple contexts
+257748,logger: Add a Segger RTT backend
+269778,drivers: clock_control: nrf: Switch to single clock device
+262147,Network packet documentation
+261798,doc: net: Add LwM2M high-level description and usage
+266100,"dts: Add base binding for interrupt-controller, clock, gpio, gpio-nexus, and fixup pwm base"
+258541,Introduce mcux driver for new unified counter/rtc interface
+214219,Misc net-app fixes
+254329,boards: Add support for the Adafruit Feather M0 Basic Proto.
+266678,DTS: work towards replace generated conf with EDT
+269621,drivers: rework usb_dc_mcux_ehci
+254411,boards: Add support for Waveshare BLE400 board.
+256689,Add support flash driver for STM32F7x SoC
+264666,"Remove Quark D2000 SoC, dev board, and related drivers."
+254801,drivers: spi: Add shim for nrfx SPIS driver
+263329,USB: Unifying legacy and composite (including cherry-picked)
+258194,misc/ cleanup: move Kconfigs and stats module
+209871,Bluetooth: controller: Fix numerous conformance test failures
+214086,"USB: refactor and move CDC and MSC Class Header files to include/usb, add usb descriptors"
+267365,ext: hal: cmsis: Update ARM CMSIS headers to version 5.6.0
+267639,Bluetooth: GATT: Persist Service Changed data
+265562,Require west 0.6.0
+209877,Trigger test
+256229,Dhcpv4 cleanup
+264836,Settings with NVS backend
+263581,"samples: mesh: single timer to handle all transitions, upgrade the implementation of Gen. Move Message handlers & bug fixes"
+258932,MISRA-C evaluate boolean operands
+257975,Bluetooth: Mesh: reel board demo improvements
+209853,usb_dw: USB DMA
+266663,kernel: deprecate and replace k_uptime_get_32()
+266443,Backport tests
+265837,SOCKS5 support using socket setsockopt()
+255182,Lpc m4
+255065,boards: arm: qemu_cortex_m3: Refactor to use mps2_an385.
+273070,samples: boards: mec15xxevb: Power management tests
+265237,LiteX liteeth driver
+260036,api: gpio: Clean up GPIO dt-bindings flags
+254936,scripts: extract_dts_includes: Fix extract_cells for a list
+253869,merge branch arm into master
+263591,"samples: mesh: single timer to handle all transitions, upgrade the implementation of Gen. Move Message handlers & bug fixes"
+255858,Bluetooth: controller: Add support for the nRF52810
+259648,Update Nucleo-64 boards to fit configuration guidelines
+273609,drivers: silabs: Convert silabs drivers to new DT_INST macros
+260812,tests: bsim_bt: Extend connection test case.
+258387,subsys: fb: add support for generating CFB font headers from TrueType/OpenType/image files
+253911,doc: Support multi-OS instructions
+253933,arch: stm32: entropy not supported on stm32f411 based SoCs
+266177,"rework extern ""C"" blocks in various include files"
+264599,Devel rtos timer2
+213646,tests: benchmark: Add support for nrf series processors
+272293,WIP: Abolish Z_OOPS()
+215055,Add gpio nodes to stm32 based soc/boards
+253844,Python replacement for DTC [DNM/WIP]
+254389,drivers: sensor: lsm6dsl: add SPI support
+254009,STM32: move dts.fixup files to soc level
+261260,Add jlink runner to for all STM32 boards with default arguments. By default OpenOCD is used.
+258702,Added optional ETH phy thread for STM32 for link check
+214195,sanitycheck: add extra_configs keyword for additional test variants
+259002,Reel board cadence sensor
+264182,LPC SoC family GPIO interrupts
+256062,Bluetooth: Add support for changing Device Name
+215131,Posix pthread
+259314,drivers/pwm: Driver for the PWM peripheral on the SiFive FE310/HiFive 1
+268416,Bluetooth: controller: split: Assorted control procedure fixes
+213829,drivers: adc: Add SAM ADC driver
+215083,Add support for Altera Nios-II PIO controller
+258384,Add up_squared_sbl configuration to work zephyr with SBL
+255651,tests: smp: Add tests to verify SMP
+259997,Change hdc1008 driver into ti_hdc and add support for hdc1080
+261957,MISRA-C fixes
+259887,drivers: uart_gecko: use `DT_<COMPAT>_<INSTANCE>_<PROP>` defines
+209618,Close
+258124,Second pass at removing/reducing use of board.h
+261545,ext: nordic: Update nrfx_config*.h entries
+257395,DT: Rename from dts.fixup to dts_fixup.h
+266072,Add LiteX SPI driver
+260663,drivers: serial: stm32: add RTS/CTS hardware flow control
+265893,x86: memory management adjustments
+209340,Cherry pick fixes from master
+270066,drivers: sensor: mcp9808: fix various problems and improve test
+259568,Nrf9160 soc
+209339,Cherry pick fixes for 1.8
+260074,HTTP and Websocket API removal
+267814,boards: stm32: Set arduino gpio connector on nucleo 144 pins boards
+263885,Add MCUboot support for RV32M1_Vega
+264217,Fix16177 STM32: Could not compile with CONFIG_PINMUX=n
+260826,USB: Automatically define COUNT number of USB Devices
+267800,[TOPIC-GPIO] drivers: Update TI cc32xx and cc13x2/cc26x2 gpio drivers to use new gpio api
+259961,drivers: i2c: document incompletely supported capabilities and deprecate/remove functions
+261532,"drivers: display: Add support of Seeed 2.8"" TFT Touch Shield v2.0"
+259555,drivers: nrf: Enable nRF peripheral drivers by default for nRF SoCs
+261023,samples: net: sockets: Add smoke testing support
+272766,Add Feather STM32F405 Express
+265355,Open amp refactoring and add more platforms support
+258094,"Revert ""[RFC]Template prototype with updated edts"""
+214417,x86 : Memory domain implementation for x86
+261697,usb: cdc: Windows compatibility
+257050,Using boolean expressions
+272821,boards: arm: Add board definition for Adafruit Feather STM32F405 Express
+265208,Adding coverage for k_float_disable system call
+262439,net: sockets: Add docstrings for BSD Sockets API
+209746,RFC (don't merge): Random number pool
+258035,tests: shell: migrate tests to the new shell
+256962,Remove dts usage of CONFIG_SOC* for Atmel & Nordic SoCs
+269512,Add ordering to zephyr_linker_sources()
+214721,doc: Convert samples/ to CMake
+254315,Bluetooth: Replace custom rand driver with standard entropy
+256451,tests: kernel: Add doxygen groups
+254017,Test directory renaming and object tracing tests
+267088,settings: Direct loading functionality
+255648,West docs
+258460,subsys/shell: Introduce the Sensor Shell Module
+267295,use RTC as system clock for CC13X2/CC26X2
+259410,STM32F7 flash driver
+254533,KW41Z 802.15.4 driver: Enable OpenThread support
+256441,drivers: usb: device: Migrate to new logger
+255677,net: ieee802154 security with mbedTLS or TinyCrypt
+254706,Basic LPUART support for STM32Lx
+270391,dts: boards: Define dts aliases at soc level for nxp socs
+267283,tests: net: hostname: Add tests for hostname set/get
+264907,NXP: Add watchdog support for the KE1xF SoC
+213610,net: sockets: Implement sendto() and recvfrom()
+263627,doc: document submitting changes to modules
+269839,usb: rework usb transfer
+262595,boards: holyiot_yj16019: add support for the Holyiot YJ-16019 board
+256168,samples: net: echo-server: Add overlay config support
+273607,drivers: stm32: Convert STM32 drivers to new DT_INST macros
+256366,doc: update 1.9 release with RTD theme
+268564,boards: support for DWM1001-DEV
+214001,Cmake improve toolchain support
+209653,DO NOT MERGE - test of CI w/regards to docs
+256427,Network connection manager support
+262556,drivers: spi: sam0: Implement async SPI API with DMA
+215198,drivers: spi_ll_stm32: Get SPI configuration from DT
+209621,boards: arm: Add support for the VBLUno51 board
+257936,drivers: watchdog: Adding watchdog support for sam SOC
+265641,drivers: CAN: Add CAN shell
+214143,scripts: Update checkpatch to latest from the linux kernel
+268341,[PRELIMINARY] headers: Refactor kernel_structs.h and introduce kernel_arch.h.
+262723,Soc arm cleanup systick
+214888,Bluetooth: Mesh: Further qualification improvements
+209512,[RFC] samples: Add a self-protection test suite
+213693,Crypto API - Adding mtls shim driver
+272256,drivers: clock_control: nrf: Reworked calibration process to use k_timer
+254884,"dts: Add led nodes to nxp boards, refactor mcux gpio driver to use dts"
+260904,can: Add Linux compatible frame and filter structs
+270090,sensor: mpu6050: switch to devicetree and provide sample
+268106,Bluetooth: controller: SW deferred privacy
+263780,Migrate DesignWare I2C driver to new PCIe system
+209673,dts: arm: STM32 boards use DT to configure I2C
+268861,Merge clean up / refactoring commits from topic-gpio to master
+262255,Add support for the SiFive HiFive1 Rev B
+209520,net: buf: Move net_buf_pool objects to dedicated linker area
+265529,"spi_nor: devicetree, driver, and sample cleanup"
+258892,drivers: pinmux: add pinmux driver for Intel S1000
+209179,arm: beetle/mps2: device tree and debug support
+260347,west: bootloader integration for MCUboot
+266080,kernel: send all fatal messages to the logging mechanism
+258782,DNM/TEST: introduce some style violations for testing purposes
+209748,scripts: Add CODEOWNERS file to ease reviewer suggestions
+254737,"Document DFU, MCUboot and MCUmgr"
+265041,Bluetooth: SMP: Handle errors during pairing and encryption
+213537,Miscellaneous Memory Protection Work
+213828,pinmux: Move stm32 board pinmux files into board dirs
+214360,Cmake port more samples
+256278,Bluetooth: Add support for fixed passkeys
+259717,RFC: samples: sensors: Add accelerometer based HID mouse
+268130,samples: bluetooth: No transmits after 3 supervision timeouts
+260166,"Bluetooth: Mesh: Various fixes, cleanups and other improvements"
+214907,usb: netusb add CDC EEM usbnet function
+272764,kernel: add k_thread_join()
+272118,NXP: Add Kinetis Low Power Timer (LPTMR) support
+254313,serial: sam: add support for interrupt driven serial
+274221,DTS: flash: Various minor flash related cleanups
+253846,Do not merge: Gather entropy with watchdog jitter
+260169,Add net_buf_pull_mem() API
+209731,boards: arm: Add support for the VBLUno52 board
+257174,Introduce Mesh models module
+209783,[TEST] send this to get CI to build it
+264160,Allow runner overrides
+256576,Bluetooth: L2CAP: Allow finer control over receiving credits
+259134,samples: mesh: nrf52: removed bugs in Gen. level Move GET & Publish
+261458,arch: arc: rework the atomic library
+209759,[TEST] see if this cause shippable to be happy?
+258777,drivers: sensor: sht3xd: migrate from Kconfig to device tree and add sample
+268878,kernel: extensions and clarifications to time-conversion changes
+214903,"Bluetooth: Mesh: shell, proxy and friendship related fixes"
+260780,power: Fix naming of Kconfig options controlling low power states
+255350,Sched fixes for metairq
+213787,Various test fixes and cleanup
+264274,ARC: Add support for ARC HS family on nSIM
+253917,gpio: sam0: add interrupt support.
+257642, bluetooth: controller: nrf5: Use pre-programmed PPI channels
+258246,drivers: timer: Add RTC-based system timer for Atmel SAM0 series MCU
+264635,arch/x86: drivers/x86/apic_timer: new local APIC timer driver for x86
+273061,doc: finish reworking the board porting guide
+264603,"prf.c: remove limitations, reduce memory usage and fix bugs"
+256480,userspace: enable user mode workqueues
+256079,subsys: kconfig: Remove 'default n' properties and clean up a bit
+263625,doc: document submitting changes to modules
+256918,logger: Add native backend for native_posix
+254116,arch: arm:  common Armv8-M support
+273012,driver: uart: ns16550: convert to DT_INST_*
+272297,kconfig: Replace some single-symbol 'if's with 'depends on'
+269269,"dma: Enable support on stm32wb, memory to memory mode"
+259052,boards: arm: Add support for nRF51 Dongle (PCA10031)
+214998,doc: Update release notes for issues closed in this release
+261286,"Restore SMP to a working state, enable pervasively on x86_64"
+213907,Convert bluetooth tests to ztest
+261747,bluetooth: controller: Moved vendor specific HCI to hal
+213899,samples: sockets: Add a dumb HTTP server example
+255890,Allow gPTP over VLAN
+214009,x86 : Memory domain implementation for x86
+270346,net: openthread: Use settings subsystem
+263584,Minimal sample app for benchmarking
+213473,enable SLIP only on QEMU targets
+254662,Custom board sample
+254916,dts: cleanup dts warnings on STM32
+253971,Bluetooth: controller: nRF radio driver use single timer
+214343,Cmake port more samples
+213969,code reorganization into runtime library and kernel code
+255207,subsys:fs:nvs Add missing test and sample documentation
+262400,Add more tests to ipv6 fragmentation
+254052,board: arm: add support for stm32f0_disco
+214072,Cmake config userspace
+254866,arch: arm: ARMv8-M address/address-range permissions checks (for secure firmware)
+258745,ci: overhaul check-compliance.py script
+266254,[TOPIC: DTS] dts/bindings: Convert compound to phandle-array type
+267673,x86: abstract toplevel page table pointer
+267049,Remove rtc
+267880,Supporting User Mode on ARM Cortex-M Baseline
+269732,tests: settings: Reducing duplicated code in FS tests
+259688,serial: stm32: Implement configure and config_get api calls
+272670,hwinfo: cleanup API doc and test
+259708,drivers: uart_gecko: add individual pin locations support
+263285,bluetooth: controller: Revised ticker for improved conflict resolution
+269695,dts: arm: mec1501hsz: rename I2C nodes
+265839,ext : hal : Microchip MEC1501 PS/2 and global configuration updates.
+267222,doc: Cleanup and enhance C lib and tracing documentation
+267882,Collect RX and TX timing statistics
+213543,DO NOT MERGE: Bluetooth: controller: Refactor conn param req impl
+260247,drivers: add Atmel SAM PWM driver
+255098,drivers: gpio: add dts support for nrf52 gpio
+257800,xtensa: intel_s1000: turn on XTENSA_ASM2
+269971,Add system power management support to cc13x2/cc26x2
+254284,DTS clean and fixups
+264320,Kernel runtime error checking
+254195,Nrf52 nffs example
+254696,arch: arm: Define & implement API for test target (Non-Secure)
+267313,[TOPIC-GPIO] Handle logical interrupt setting in common layer
+258597,WIFI: eswifi driver improvement blocking/non-blocking send/connect/recv
+257406,dts: Add initial support of USB PHYs
+268160,drivers: spi: Add simple_spi driver
+256335,net: tc: Priority to Traffic Class mapping improvements
+213974,LwM2M 1.10 changes: LwM2M library use net_app API internally
+209828,net: BSD Sockets poll() basic implementation
+214114,syscalls: greatly simplify system call declaration
+214729,Bluetooth: Mesh: Initial shell implementation
+214386,dts: sensor support and i2c bus generation
+259691,API for reading the device unique id
+266209,xtensa: remove legacy arch implementation
+263939,Add Gordon Peak Module Reference Board (x86/Apollo Lake)
+268992,Add support for STM32F098xx SOC and Google Kukui reference board
+274239,boards: dts: Configure lpc flexcomm nodes as i2c/usart/spi at the board level 
+267487,[TOPIC-GPIO] drivers: gpio_sx1509b: update to use new GPIO API
+264212,samples: bluetooth: peripheral_ht: Health Thermometer sample
+269929,sensors: dht: convert to devicetree and add sample
+269075,Bluetooth: L2CAP: Queue packets when a segment could not be allocated
+254082,kernel: posix: implementation of POSIX semaphores
+266306,doc: add more details about memory domains
+213534,Enable Bluetooth with NET_APP
+256825,bluetooth: BLE GATT device information service
+260058,Update west documentation to the new model
+264840,Dt clock bindings gen
+269714,boards: arm: Add arduino header to all frdm and mimxrt boards
+259649,drivers: nordic: usb: USBD event handling rework
+213865,mDNS client support
+263242,Add CC13xx / CC26xx entropy driver
+260837,Fix shell to compile with c++
+256993,Move CMSDK Counters/Timers to unified interface
+256337,tests: lib: mem_alloc: Add tests to validate dynamic allocation
+261567,x86: fix memory domain issue with adding partitions
+261166,"scripts/dts cleanups, part 8"
+209539,doc: add 1.8 release notes
+260744,Bluetooth: controller: Support big-endian archs in split controller.
+268422,Bluetooth: Mesh: Model extension concept
+256319,tests: mem_protect: Add RTM links and description
+267377,shields: add WAVESHARE e-Paper shield
+209654,miscellaneous patches supporting thread protection
+263629,"cmsis rtos: restructure cmsis rtos folder, move include files to lib/"
+209152,doc: misspelling and UTF-8 fixes
+272321,samples: net: sockets: echo_[server|client]: Add more boards
+257345,Merge HAS_DTS_*_DEVICE with HAS_DTS_*
+256396,kernel: threads: assign index no. to dynamically created threads
+209744,Miscellaneous thread protection patches
+209619,Privacy whitelist and resolving list handling
+264578,arch: arc: optimize the float support
+268716,bluetooth: host: add ability to load CCC settings on demand
+259139,Add lsm6dsl specific samples + change its dts binding
+264076,Clock_control: Light cleanup and refactoring of stm32 driver
+263170,Net: Connection cleanup
+215160,kernel: add POSIX API for semaphore
+266049,doc/reference: Flash Circular Buffer documentation 
+214370,Kernel/Bluetooth v1.9.2 patches
+272075,Sensor: ADXL345: Add ADXL345 driver
+262376,drivers: dma: Add SAM0 DMA driver
+265189,doc/reference: Flash Circular Buffer documentation
+262261,Fix stm32 paren warns
+267661,scripts: genrest: Support splitting symbol documentation up by path
+266856,modules: Facilitate the use of nrfx drivers
+257335,Add device tree support for Pulpino SoC & Zedboard board
+270965,Bluetooth: Move Mesh CCM into a separate module
+262390,USB: harness: Improve testability
+263282,Bluetooth: Add additional attributes to DIS
+209591, Bluetooth: controller: nRF5 radio timings abstractions
+267119,Bluetooth: controller: nrf: HAL refactoring
+215058,move utilities from drivers/misc to lib/
+254547,KW41Z 802.15.4 driver: Enable OpenThread support 
+262666,Blip sensors
+270147,Use 24 bit functions
+209485,doc: added release notes for v1.8 draft new
+213801,Misc net fixes
+213448,tests: kernel: convert to ztest
+257011,Added log flushing to fault handlers
+272064,Samples: Basic battery measurement with NRF ADC
+209666,net: app: Fix dual IPv4 and IPv6 support
+259697,doc: move development process from the wiki
+213684,"[RFC, DONTMERGE] STM32: ADC-based CPU temperature sensor"
+270247,Bluetooth: Fix adv scan random addr
+254962,slist: abstract node and list implementation
+257361,soc: sam4s: added missing devices in sam4s range
+265730,drivers: flash: Add the flash driver of the stm32f1x family
+255372,Bluetooth: Add HCI User Channel driver for native POSIX port
+272228,drivers: sensors: tach Introduce tachometer driver for Microchip MEC150x
+209317,Add device tree and yaml documentation
+209758,Convert I2C MCUX driver & platforms to use dt
+267621,Fix label storage
+257271,dts: arm: st: Remove use of CONFIG_SOC_* from STM32 L0/L4 dts files
+254500,release: Update release notes with GitHub issues
+270137,sensors: convert grove ADC sensors to devicetree
+255886,ARP optimizations
+257699,[RFC] Generic GPIO Shell and a command to list devices
+273267,boards: arm: nrf51_pca10028: rename board to nrf51dk_nrf51422
+213634,I2C cleanup to remove usage of CONFIG_I2C_x_DEFAULT_CFG
+260107,Mqtt validation on cc3220sf_launchxl
+273260,Improve ICMPv4 tests
+213796,drivers: watchdog: Watchdog API redesign [RFC]
+257731,boards: stm32f746g_disco: Enable a few peripherals 
+214649,CMake: add and use Sphinx directive for generating build documentation
+261420,Add table-of-contents to network documentation pages
+260282,doc: incremental improvements to west docs
+263354,add PCI(e) auto-IRQ detection and enable for NS16550 and Apollo Lake SoC
+213619,lwm2m: add IPSO light control object
+262709,arc: print human-readable exception info
+266915,modules: hal: nordic: Add missing mappings of peripheral base addresses
+258163,scripts: west: Add documentation for the multi-repo commands
+267806,[TOPIC-GPIO] drivers: gpio_dw: update to use new GPIO API
+268911,tests: consolidate semaphore and stack tests
+209488,Bluetooth: controller: Various controller refactor and fixes
+267961,soc: stm32: Enable cortex-m systick timer by default
+254691,Add HiFive1 FE310-based board support
+260214,"Performance work (inlining, scheduler, spinlocks, dlist)"
+255092,subsys: usb: add loopback function
+260183,Drivers: Add all uart/spi/i2c pin for STML32 F0 MCUs
+262300,counter: Update counter API in order to provide more flexibility
+257100,logging: add mechanism for handling transient strings
+214368,[RFC][DO NOT MERGE]Move dts board
+264457,"drivers/counter/counter_cmos.c: implement counter with PC AT ""CMOS"" RTC"
+254592,samples: usb: add usb hid mouse sample
+258610,Moved vendor specific HCI to HAL
+273416,Rework Xilinx TTC driver
+254867,Refactor mcux dspi driver to use device tree
+209682,arm: dts: Modified Atmel SAM family processor's UART to DTS.
+263301,west build enhancements
+267453,MQTT over Websocket
+269984,drivers/interrupt_controller: Adopt file naming as other drivers
+266419,Bluetooth: Mesh: Access model callback struct
+209833,SPI fixes
+259175,samples: net: echo_client/echo_server config cleanup 
+209358,Bluetooth patches for v1.8
+213441,"dts: arm: st: Factorize dts files on F1, F3 and L4 series"
+258073,debug: tracing: Add CPU stats module.
+264132,dfu/boot: double swap on interrupted revert bugfix adaptation
+266531,driver/sensor: lis2dw12: single/double tap trigger implementation
+213589,RPL fixes and enhancements
+254327,dma: add a DMA driver for the Atmel SAM0 series.
+266526,driver/sensor: lis2dw12: single/double tap trigger implementation
+254589,include: improve compatibility with C++ apps.
+266529,driver/sensor: lis2dw12: single/double tap trigger implementation
+264612,lis2dw12 driver migration to STdC HAL (substitues #14111)
+254216,Bluetooth: controller: Fix incorrect master role scheduling
+269641,BT: Provide user pre-initialization callback in bt_enable
+266078,dts: rv32m1: Rework interrupt mux dts descriptions
+272508,Convert DW drivers to DT_INST
+257086, tests: build_all: Add missing sensor drivers
+257256,Select HAS_DTS_SPI in designware driver
+256824,Migrate qmsi and esp32 wdt driver api to new generic wdt api interfaces. 
+255168,tests: kernel: Add description for test cases
+273113,TSC project roles documentation
+269649,Modules: stm32: Few fixes on kconfig symbols
+262718,"Elaborate getaddrinfo() test, add mock server to actually receive and verify DNS query sent by getaddrinfo() call"
+254480,Ext stm32cube readme fix
+258680,Si7021 driver
+209437,JSON array fixes
+214695,Cmake fix stm flashing
+256357,Finish 802.1Qav support
+256981,tests: POSIX: Refactor POSIX API tests
+269687,ARM: SoC MPU definition cleanup
+258631,run i2s_api tests in user mode
+259721,Complete x-nucleo-iks01a2 shield support
+265888,"dts: Remove all 'device_type = ""cpu""' properties"
+269000,doc: release notes: add initial content for 2.1.0
+209575,iwdg: make independent watchdog driver compliant with STM32Cube LL API
+272171,kernel: overhaul unused stack measurement
+264100,Collect network pkt timings
+262829,Bluetooth: controller: Fix control procedure sequencing
+256568,boards: arm: nordic: use dts to configure LEDs and buttons
+264120,Bluetooth: GATT: Add support to notify by UUID
+269429,Updated LVGL to version 6.1
+266983,[Backport v1.14-branch] Bluetooth: controller: Fix control procedure sequencing
+268313,i2c - bus controller drivers cleanups to be DTS only.
+268072,Bluetooth: HCI: Add function to get connection handle of connection
+267206,doc: provide error handling documentation
+258976,dts: silabs: use 'aliases' to remove dts_fixup defines
+259734,net: rpl: Remove the deprecated code
+258548,drivers: samples: out-of-order logging include cleanup
+214164,kernel: implement k_thread_create() as a syscall
+256985,Flash shell migrate commands to new shell
+214512,cleanup: rename fiber/task -> thread
+215003,net/ieee802154: Split the net mgmt part from the L2 specific header
+269271,TCP2: Add support for arbitrary data payloads
+256952,"dts: Use new DT_SIZE_{K,M} macros"
+255980,"tests: kernel: Add description for tests in common, interrupt and boot_page_table"
+265317,doc: move scheduling to its own section
+257555,Docs build fixes
+269670,Bluetooth: Host: Fix issues with host IRK handling
+266235,sys: byteorder: Add support for sys_get_be64()
+265855,x86: generate page tables at runtime
+263846,Shell select cmd
+265408,Log backend for  x86_64 qemu
+266885,doc/reference/kernel: Add SMP architecture documentation
+209700,Kconfig cleanup - ready to merge
+267419,logging: add minimal implementation
+268773,RFC: API Change: usb: Make users call usb_enable. Provide global status callback.
+268322,Add DTS support for GPIO on MPS2 platforms
+268995,Enable kbc 8042 lpc peripheral in eSPI driver
+267410,various: correct arguments to k_sleep
+261217,subsys: power: rename CPU_LPS_n power states
+262373,soc: sam0: Kill off dts_fixup.h extras
+209625,Bluetooth: controller: ticker refactoring and simple fairness
+264744,include/ directory hygene and cleanup
+261381,drivers: counter_nrfx_*: Port driver to DTS
+209864,1.8 branch CI updates
+260958,DNS switch to new net_context API
+263867,enable PCB antenna on Particle boards (revised)
+267970,[TOPIC-GPIO] drivers: gpio_esp32: update to use new GPIO API
+267715,[TOPIC-GPIO] gpio: Update imx gpio driver to use new gpio api
+266859,Bluetooth: GATT: Add support to setting permission on CCCD
+264856,dts: Rename SW._GPIO_* -> DT_ALIAS_SW._GPIOS_*
+255153,LwM2M: Support optional resources per LwM2M Spec
+270021,interrupt_controller: gic: Support multiple GIC versions
+258456,boards: add a dedicated Qemu variant based on MPS2_AN385
+273355,Bluetooth: host: Minor header file doxygen fixes
+214944,doc: add missing API content
+272055,crypto: Add Galois/Counter Mode (GCM) support
+214981,LwM2M: Add support for DTLS + bugfixes
+209119,arm: board: Add support for board Atmel SAM4S Xplained.
+268105,devicetree: tree-wide: add nexus map properties for arduino headers
+215122,drivers/interrupt_controller: Introduce multi-level interrupt support
+270363,arch: arm: cortex_m: Add CPU DWT feature symbol
+264149,Preparatory clean-up of ARC nSIM board before adding ARC HS cores support
+214584,usb: remove cdc_acm.h
+260556,Test Cleanup
+254740,drivers: sensor: lsm6dsl: add trigger support
+263361,WIP: implement sys_sem residing in user memory with the help of futex
+213815,tests: kernel: App to validate boot time page table
+259973,"Misc. Cleanup for Kconfig, lib/ and misc/"
+209821,sanitycheck: validate YAML files w/ schemas files
+254299,"sanitycheck: device handler, allow running tests on real hw"
+263281,Net: context cleanup
+259597,tests: cmsis_rtos_v2: Enhance cmsis_rtos_v2 tests
+255063,tests: threads: Document description for test cases
+213824,kconfig: adc: Extract platform specific configs to separate files.
+269444,dts: edtlib: Support nested nodes on buses + improve naming
+258197,net: Rename net_is_xxx...() functions to net_xxx_is...()
+209565,link-time separation of kernel and application
+259292,Examples of proposed approach toward eliminating dts_fixup for device drivers
+254220,nrf52_nffs_example
+264690,genrest: De-spam docs by skipping direct deps. in more places
+254221,samples: nffs: New NFFS sample
+260638,boards: arm: nrf: Make Bluetooth optional
+261408,boards: mimxrt1020_evk: Add jlinkscript init file
+253885,tests: add ringbuffer api test
+266965,west: runner: Add runner stm32flash
+265895,ARC: Add multcore (in SMP arrangement) ARC HS in nSIM
+209812,Bluetooth: controller: Privacy filtering in scanner and initiator
+259989,app_memory: cleanup and fixed issues
+256449,"Add a new API for setting thread names, useful for debugging/diagnostic"
+258547,Window write support for SSD1673 
+258747,drivers: wifi: simplelink: Implement setsockopt() for TLS offload
+268110,drivers: interrupt_controller: Add SweRV PIC support
+255130,Bluetooth: GATT: Rework BT_GATT_CHARACTERISTIC
+214783,Add interrupt node to x86 device tree
+254719,dynamic kernel objects
+257420,96Boards: Adapt board configuration guidelines
+270045,Fix building errors and warnings with XCC on intel_s1000_crb board
+257723,More logger migration
+254738,lib: posix: Move posix layer from 'kernel' to 'lib'
+256865,boards: update nucleo144 boards to default config guidelines
+209443,Various CI enhancements
+267293,scripts: dts: Replace 'sub-node:' with more general 'child-binding:'
+257872,coccinelle: Add script to report cases of NULL dereference
+266616,Bluetooth: Fix buffer allocation when under syswq
+257450,Convert NRF based boards to use DT for LED & Buttons
+209225,Collect TCP statistics
+264367,Backports to 1.14
+213731,"net: Make struct sockaddr POSIX compliant, add struct sockaddr_storage"
+209810,dts: Add cpus and cpu nodes missing properties
+255717,Introduce shell for File system mount operation
+209245,dts: fixes around uart node
+260937,Flash: Rework STM32F3 flash driver and configure F3 based boards for tests
+258804,drivers: counter: Add user_data to alarm callback
+263688,drivers: counter: Move nRF TIMER and RTC configuration to device tree
+266883,kconfiglib: Expose parsing location to Python preprocessor functions
+214457,"Refactor, add DTS support for i2c_sam_twihs driver"
+259425,ext: mbedtls: Extend mbedtls generic config
+258000,drivers: eth_mcux: adding i.mx-rt support
+264952,[Backport v1.14-branch] Backport CONFIG_THREAD_NAME fixes
+267432,arch/x86: Migrate Intel64 to z_arch_switch()
+268501,kconfig: Add linting script
+260351,tests: usb: Test USB data allocations in sections
+258116,First pass at removing/reducing use of board.h
+268848,Add support for AES CBC and ECB mode in mbedTLS shim
+209629,tests: samples: remove duplicate filtering
+268148,"sensors: lis2dh: fixes for Nordic use, add sample"
+259077,usb: hid: idle rate
+257038,boards: dts: Fix dtc led warning in stm32 board dts files
+209822,build: workaround build bug in tests
+270025,Arch arm cortex m direct dynamic irqs
+256175,arch: i.MX add RDC peripheral permission setting for applications cores
+264563,Backports June 18th
+214872,tests/kernel/mem_protect/userspace: Add userspace protection tests
+255768,"net: app: Split code for configuring network to a separate lib, ""config"""
+209608,pinmux: stm32: F1x/F3x/F4x: I2C 
+214968,Add support for STM32F0 Flash Controller
+267239,scripts: dts: Change 'child/parent: bus: ...' to 'child/parent-bus:'
+259088,cmake: Split toolchain configuration into pre-and post-DT
+256655,menuconfig: Fix a case of visible symbols not being shown
+255859,drivers: dmic: Digital Microphone driver API
+264743,dts: Rename DT_.*_GPIO_* to DT_.*_GPIOS_*
+260542,Zephyr modules: CMake and Kconfig build integration
+268031,drivers: sensor: Add OPT3001 light sensor driver
+214594,Do not merge: DTC compiler in Python
+273244,Revert changes to scripts/dts/gen_defines.py as they break things
+254644,sensors: Add definition for ambient temperature
+260349,CPU mask affinity/pinning API
+267578,devicetree: add dependency information to edtlib
+258878,drivers/pwm: stm32: Use device tree for clocks and base address config
+256635,tests: net: Run networking tests only for selected platforms
+264193,drivers: sensors: Add SI7006 temperature/humidity sensor driver
+259415,Add script tracking reserved function names
+260380,Led strip - sample for APA102 based strips
+267273,tests: net: shell: Add some simple tests for net-shell
+209066,MPS2 SBCon I2C driver
+209043,boards: arduino_due: Added DTS to the Arduino Due.
+257072,Port fs commands to the new shell
+261053,doc: net: Add more info for network connectivity with host
+259025,samples: intel_s1000_crb: sample application for digital microphones
+254732,Scheduler refactoring
+267546,soc: nordic_nrf: Add validation of base addresses defined in dts
+264763,kernel: fix CONFIG_THREAD_NAME from user mode.
+214983,Bluetooth: Mesh: GATT Proxy advertising support for multiple subnets
+255895,drivers: eth: native_posix: Enable gPTP support
+256976,Add support for pluggable PM policies
+254908,samples: bluetooth: ipsp: support ipsp with disco_l475_iot1
+273150,Add support for a second Ethernet controller in the MCUX driver
+263267,drivers/pcie: add support for runtime IRQ detection
+265822,Microchip Xec watchdog driver
+262624," samples: bluetooth: Enable mesh_demo on mimxrt10{50,60,64}_evk boards"
+266368,Bluetooth: Mesh: Fix adhering to the configured Friend Queue size
+260856,Arch arm core fix fault report nxp mpu
+254872,drivers: add imx7d gpio driver
+256413,ICMPv6 cleanup
+270634,Add missing counter API syscalls
+266386,[Backport v1.14-branch] Bluetooth: Mesh: Fix adhering to the configured Friend Queue size
+267549,Align sensor drivers to stmemsc HAL library v1.02
+256121,drivers: uart: Allow to pass arbitrary user data to irq callback
+268705,DTS Watchdog cleanups
+264003,Backports Check
+259831,Drivers nrf rename clock control nrf5
+214523,Bluetooth: controller: Additional 1.9.2 fixes
+274025,drivers: entropy: stm32: Convert to device tree based configuration
+254809,boards: dts: Cleanup aliases
+264737,dts/bindings: remove 'use-prop-name' from bindings
+272375,dts: Replace deprecated DT_NXP_KINETIS_* macros with DT_ALIAS_*
+214550,Cmake sync master misc
+254401,drivers: gpio: nrf5: Add support for port P1 in nRF52840 SoC
+256164,Logger deps cleanup
+255468,doc: Add verification plan
+256552,Bluetooth: host: directed advertising support
+264918,[Backport v1.14-branch] Fix dns_answer_unpack() to support non-compressed answers
+264718,Fix dns_answer_unpack() to support non-compressed answers
+274012,drivers: i2c_sam0: Add i2c slave support
+267298,Remove QMSI and unused drivers.
+214242,Syscall handler cleanups
+267471,arch: arc: implement DIRECT IRQ support
+264517,"""Dewestize"" runners and improve output"
+214339, drivers: usb_dc_stm32: Get USB configuration from DT
+267264,Bluetooth: Host: Remove printk dependency from settings
+266970,Microchip XEC Watchdog driver
+256356,"Move AON, AONPT counter and QMSI RTC to unified interface"
+257076,USB: HID: Add new callback and refactor sample
+264510,soc/stm32: Remove useless package digit for SoC Kconfig symbols 2/2 (L0/L4/WB)
+258422,dts: Fix warnings associated with reg/unit-address not matching
+269352,kernel: assorted 64-bit fixes for user mode
+253964,Bluetooth: shell: Support a non-connectable build
+257890,Build: Improve C++ support
+214461,Bluetooth: controller: Fix Ctrl PDU Tx starvation assert
+267307,bluetooth: host: Expose structs and prototypes in public headers
+209227,arch: arm: Convert Atmel SAM4S series MCU to use ASF
+256039,doc: Move from Make to CMake
+272958,scripts: Dynamically add driver subsystems to subsystems list
+262728,scripts: dts: add dma consumer
+270681,"drivers: counter: add counter_get_value(), deprecate counter_read()"
+267267,debug: tracing: Common Trace Format Simplification
+272800,"doc: west manifest examples, convert 'installation' to 'workspace'"
+264592,DTS: Fix irq aliases generation
+255637,genrest: Generate documentation and links for choices
+209525,Fix net tests and run them automatically
+254808,Enc28j60 fixes
+273440,Bluetooth: controller: split: Remove use of k_cpu_idle
+260100,Bluetooth: GATT: Allow sending less bytes than requested
+255772,Arch arm v8m mpu remove hal
+261947,Samples switch to new net_pkt API
+259728,cmake: dts: move to specifying shield on the command line
+266955,Smp pairing both sides handling
+258135,Deprecate net_pkt based CoAP library
+260377, drivers: bluetooth: hci_spi: Use DT instead of Kconfig to get HW params
+209634,Bluetooth: controller: Privacy filtering in advertiser
+264854,Bluetooth: Fix deadlock issues when running low on buffers
+259281,kconfiglib: Save previous configuration to .config.old
+264551,Settings: Enable ROM registration of handlers
+256466,arch: arm: soc: add STM32L471XG series
+254922,kernel: Prune ksched.h of dead code
+259142,Spi flash_map for intel_s1000
+273783,DT: designware: Convert to new DT_INST macros
+265215,Remove global properties
+213478,kernel: introduce opaque data type for stacks
+266024,scripts/dts: Walk chained interrupt controllers
+273273,kernel: interrupt/idle stacks/threads as array
+269179,stm32: Replace register accesses for Flash driver to use STM32Cube 
+262989,USB: cdc_acm Refactor using ring buffers
+265889,dts: Remove `device_type` from mmio sram or similar nodes
+270215,Bluetooth: GATT: Reduce footprint of client parameters
+254636,ext: mbedtls: Allow base64 compilation only
+266221,[TOPIC: DTS] dts: dtlib/edtlib: Add phandle and phandle+nums array types
+259071,CRC: Consolidate headers into one single api crc.h
+260959,shell: add select command
+209438,Fixes for ZEP-2244
+213446,tests: kernel: Convert test case to use ztest
+264538,bluetooth: controller: Reverted revised ticker pending redesign
+259289,RFC: Renaming PM APIs
+267692,[TOPIC-GPIO] drivers: gpio_mchp_xec: update to use new GPIO API
+264316,fix issue with conversion between int and void* on 64-bit
+256534,Refactor IPv6 DAD timer
+258936,Add user mode workqueues
+261043,Cleanup CODEOWNERS file
+272269,Switch ARC boards to openocd runner
+273658,drivers: arm_cmsdk/arm: Convert drivers to new DT_INST macros
+262091,Fixed IPv6 neighbor table related issues
+254136,native posix: fix in tickless mode + more tests can be run
+254153,boards: enable uart if BT_DEBUG_MONITOR is on
+269946,kconfiglib: Update to hide tracebacks for expected errors
+259577,[RFC] [DNM] drivers: serial: gecko: Split device tree info for usart based uart
+213644,Misc net fixes
+257432,Rework nRF5 entropy driver
+214529,tests: benchmarking: cleanup of the benchmarking code.
+209462,Net changes to v1.8 branch
+256850,net/pkt: Rename link layer address accessors relevantly
+256602,Kconfig: Show include paths in menuconfig and documentation
+273457,tests: kernel: interrupt: Rework nested interrupt test
+273551,arm: aarch64: Add support for nested exception handlers
+262660,doc: additional clarifications on west
+272366,Bluetooth: GATT: Fix not clearing stored data when unpairing
+254318,Refactor dts.fixup into arch/arm/soc for NXP platforms
+254827,arc: add STACK_SENTINEL and improve exception handling
+270537,Support multiple simultaneous mDNS requests
+258886,kconfiglib/menuconfig: Various improvements
+269355,Lowercase internal variables in shell scripts
+209679,TCP SYN backlog
+214952,usb: dc_dw: Introduce transfer method
+213612,net: Fix indentation issues
+257475,Convert wifi drivers to use new logger
+258292,SNTP client library over sockets.
+274053,Nrf53 rename
+262193,cmake: Extracted Zephyr module processing into python script
+274234,dts: soc: atmel: sam: Add pinctl container node
+273532,Refactor AArch32 directories in preparation for Cortex-A
+268007,[TOPIC-GPIO] update sam0 driver
+264464,Fixups to DT_INST conversion
+273266,doc: Doxygen and module grouping fixes
+270287,Bluetooth: host: Reserve conn object
+254460,Additional posix layer tests and reorg.
+258814,drivers: nrf: Add UART and UARTE configure function.
+255213,netapp / LwM2M: local port support and LwM2M registration client changes
+273617,drivers: microchip: Convert microchip drivers to new DT_INST macros
+255032,IEEE 802.15.4 driver API changes to match OT certification requirements
+264373,Backports [DNM]
+261961,doc: prepare for improving doc API linking
+255221,doc: tests: remove obsolete and bogus test groups
+267853,[TOPIC-GPIO] drivers: gpio_sifive: Update for new GPIO API
+258405,Spi intel dts
+261270,Abstract nostdinc and move xcc as standalone compiler
+257803,logging: Add optional function name prefix
+263470,cmake: Toolchain abstraction: Abstraction of compiler warning flags
+257801,xtensa: Reduce size of interrupt handling routines
+214840,cmake: Re-organize syscall generation wrt. the build system
+259664,Documentation Restructring and Cleanup
+265596,shields: add e-paper shield with eo213g01 and eo29a01 displays
+260431,drivers: i2c_gecko: use DT_<COMPAT>_<INSTANCE>_<PROP> defines
+261489,Deprecate set_conf_file
+259323,"POSIX, sockets: Elaborate ioctl/fcntl handling"
+268844,sensor: hmc5883l: convert to device tree
+264508,soc/stm32: Remove useless package digit for SoC Kconfig symbols 1/2 (F2/F4/F7)
+214560,Bluetooth: Mesh: Preparation for Friend support
+263045,net: openthread: Allow to configure Sleepy End Device
+255908,IP APIs sanity
+266003,samples: drivers: CAN: reworked sample code
+273452,arm: Remove CMSIS from the tree and use a module
+209328,Remove support for NBLE
+209763,add nested interrupt support for ARC architecture
+270334,Add a bunch of information to devicetree docs + remove <BOARD>.dts_compiled
+267741,merge gen_kobject_list.py and gen_priv_stacks.py
+270991,[TOPIC-GPIO] revisions to 802154 driver PR
+258810,Bluetooth: Add Kconfig options that might compile out unused code
+258854,bluetooth: Shell 'init' and 'advertise' commands rework
+272370,drivers: espi: xec: Expand configurable automatic ack for other host warnings
+273823,Path forward for removing DT_FLASH_DEV_NAME
+263350,tests: net: stop whitelisting
+257117,Move to new Zephyr SDK 0.9.5
+260343,drivers: i2s: fix failure to restart I2S after a stop on Intel S1000
+255738,Cleanup of Nordic's BLE controller HAL and drivers
+269364,Bluetooth: host: Fix potential deadlocks with the TX thread and system workqueue
+262668,RFC: USB: Use maximum-speed DTS parameters
+259820,drivers: sensors: sht3xd: support multiple devices and DT bindings
+258729,DTS: ARC: Remove CONFIG_ from ARC EMSK dts files
+209049,Port eth_dw to new IP stack
+270429,drivers: Refactor i.mx rt drivers to use generated dts macros 
+268586,kconfig: Update Kconfiglib and use new helpers in kconfig.py
+264921,dts: Rename LED._GPIO_* -> DT_ALIAS_LED._GPIOS_*
+264524,assorted code coverage fixes
+264556,Backport of assorted code coverage fixes
+262546,USB: fix status callback in composite configuration and crash in wpanusb sample
+214274,Various documentation issues:
+265475,"cmake: Toolchain abstraction: Abstraction of binary tools, foundation."
+270303,drivers: espi: xec: Add support for eSPI OOB channel operations
+264151,drivers: nrf: Add power management to nrf SPIM driver.
+261284,boards: arm: nrf52840-based: Free up flash room for storage/sample apps
+209507,doc: added release notes for v1.8 draft new
+258626,ci: move post processing to the CI script
+260851,Bluetooth: controller: Assorted set of review rework commits
+259692,driver/sensor: use lis2dh as common driver among multiple sensors
+274048,Dev rng dt evo
+269384,settings: Moving initialization code to proper backend sources
+269208,samples/nrf52/power_mgr: rework for clarity and functionality
+267311,[TOPIC-GPIO] gpio: Update mcux igpio driver to use new gpio api
+255379,"DTS SPI device, DW and quark_se"
+258669,ci: move pos processing to the CI script
+213750,poll: Enable multiple threads to use k_poll in the same object
+258357,Miscellaneous riscv32 arch improvements
+266286,[TOPIC: DTS] dts: edtlib: Sanity-check the final merged binding only
+254695,doc: genrest: Use Kconfiglib 2 and improve output
+268822,x86: up-level page fault handling
+269706,Optimize assert mechanism
+256137,Arch arm rework fault handling
+209365,api/spi: Change transceive functions signature
+268632,[ESP32] drivers: Add Watchdog Device tree support
+254369,Various doc fixes and doxygen structure changes
+263822,zio: Rework Attributes to be Descriptions
+273306,Openthread transmit rework
+258051,boards: lpcxpresso54114: Combine m4/m0 boards into one directory
+266588,Bt security api renaming
+259111,samples: net: zperf: Refactor zperf_*_receiver_init
+257282,Kconfig: Improve error messages for mismatched endchoice/endif/endmenu
+209494,Bluetooth: controller: Refactor whitelisting
+213454,Nxp uart dts
+213529,doc: fix uses of back quotes in documentation
+214450,Ztest context
+214186,15 4 settings
+259599,kernel: Change the prototype of k_thread_access_grant.
+273480,ext: crypto: Remove TinyCrypt from the tree and use a module
+262511,More unit tests to IPv6 fragmentation reassembly
+270893,[TOPIC GPIO] Adapt CC1200/CC2520 to new GPIO API
+209606,Bluetooth: controller: Fix supported cmds and states
+214803,net/ieee802154: Make RAW mode generic
+262082,Misra assorted fixes
+253967,Bluetooth: controller: Conditional compile BT_LL_SW variant
+264091,Bluetooth: controller: split: Port Enc setup to be queueable
+256308,net: eth: mgmt: Merge 802.1Qav related mgmt requests
+259076,Sanitycheck: Support filtering based on DTS configuration data
+270710,dma: configures the support of dma memory to memory mode
+257460,boards: arc: Convert boards to use device tree for LEDs & Buttons
+260574,power: Eliminate SYS_PM_* power states.
+270521,drivers: Refactor kinetis drivers to use generated dts macros
+254698,kconfiglib: Update to 7245bad9ebb58
+255864,drivers: sensor: Kconfig: Remove redundant 'default n' properties
+259150,Add dts yaml support for same sensor on i2c or spi
+258934,Misra 17 7 fixes
+214514,tests: sockets: Make udp test cases self-contained
+260030,Add support for generating CS defines for SPI GPIO CS
+257253,subsys: console: Split serial tty handling to a separate module
+269532,sanitycheck: various enhancements to device testing support
+266391,ext: hal: make microchip HAL a zephyr module
+254609,drivers: flash: nrf: Rename nrf5 to nrf
+215107,Bluetooth: Fix build failure with -Wshadow CFLAGS
+265769,dts: Make instance defines consistent
+260523,Implement fine-grained power state locking
+269188,kconfig: Fix up newly-introduced copy-pasted headers
+254475,arch: arm: Refactor CONFIG_CORTEX_M
+263269,Bluetooth: controller: ULL implementation updates
+273737,ADC: Various lmp90xxx fixes and improvements
+261296,userspace: remove APP_SHARED_MEM Kconfig
+274029,TCP2: Simplify TCP packet creation
+272373,dts: Replace deprecated DT_NXP_IMX_* macros with DT_ALIAS_*
+268900,arch: arm: Rewrite Cortex-R reset vector function.
+256161,Secure stack check
+266302,Devel mec1501 rtos timer load fix 1
+256070,Sanitycheck: Some refactoring and nSim support
+255482,Spi flash fixes
+267362,debug: tracing: Remove unneeded abstraction
+214225,Cmake docs
+258681,kconfiglib/menuconfig/kconfig.py: Various improvements
+259641,Improve log 'immediate' (former 'in place') mode and extend shell to support that mode
+214197,samples: net: irc_bot: simplify and update irc_bot sample
+258598,GPIO fixes around callbacks and interrupt flag handling
+260309,boards: remove pulpino board
+213682,Some XCC compiler fixes
+214693,samples: net: Update compilation instructions for cmake
+256998,kernel: Make If statement have essentially Boolean type
+270607,arm: Removed support for CC2650
+214850,Bluetooth: Mesh: More model publication and related fixes/cleanups
+258131,Convert Atmel SAM0 SPI & UART driver to use dts for sercom pad
+270394,dts: boards: Define dts aliases at soc level for kinetis socs
+214879,Bluetooth: Mesh: Various Low Power Node fixes
+260993,soc: intel_s1000: remove cache writeback Kconfig variable
+263853,Backport Collection [DNM]
+260704,Generate and move to using DT_ prefixed FLASH defines
+256274,logging: Add metadata to hexdump
+255069,tests: doxygen comment cleanup
+258125,Ti cc32xx GPIO DTS support
+270439,add missing async uart system calls
+254345,tests: kernel: posix: add ztest to POSIX tests
+255477,stm32: remove zephyr specific IRQ defines
+273691,drivers: display: Convert to new DT_INST macros
+272381,dts: Replace deprecated DT_OPENISA_RV32M1_* macros with DT_ALIAS_*
+214490,drivers: i2c_ll_stm32: Use I2C API flags
+269213,samples: nrf52: replace power_mgr with system_off
+262041,modules: remove tinycbor from ext/ and use west module feature
+267598,Bluetooth: controller: split: Fix for Tx Buffer Overflow error
+253829,syslog: enable INFO by default [RFC]
+267114,soc: nxp_kinetis: Rework flash configuration field
+255334,Kconfig fixes
+256511,Refactor the usage of net_sprint_ip*()
+258534,drivers: usb: nordic: change USBD driver locking scheme
+214503,pinmux: stm32: Fix coding-style errors
+256856,DOC: USB: Pull API from the headers
+209192,arm: dts: Cleanup HAS_DTS
+258213,MISRA-C general fixes
+260384,drivers: leuart_gecko: use DT_<COMPAT>_<INSTANCE>_<PROP> defines
+256227,net: Avoid holes in structs
+254092,Update sensor driver initialisation API
+273023,drivers: ieee802154: Rem trx_state variable
+214939,usb: stm32: Introduce transfer method
+269948,sys: util: Add IF_ENABLED() macro
+259301,drivers: Modified drivers to use DEVICE_AND_API_INIT()
+268940,Added file backend support to flash simulator for posix architecture
+214137,Cleanup Kconfig for SoCs and File Systems
+264063,[DNM] net/pkt: Optimize length computation on a net_pkt
+257953,kernel: userspace: MISRA C compliance.
+268035,kernel: activate arch interface headers
+262151,kconfig: Use 'default' instead of 'def_bool' in Kconfig.defconfig files
+260331,fs/nvs: Improve init speed and remove fs->locked
+215113,Bluetooth: doc: Update ICS values for LE profiles
+254071,Coverage report fixes
+270557,bluetooth: controller: refactor CMake related files
+262841, Bluetooth: controller: Fix encryption setup to be queueable 
+256641,net: LLDP: Add optional TLV setting and unit tests
+254949,Turn malformed .config lines into errors
+256684,Replace ifdefs in net_context
+214307,userspace: object policy updates
+262919,"release: rework release notes, add highlights"
+255404,arm: clean up MPU code for ARM and NXP
+260205,device-tree: binding support for spi-nor devices
+259514,cmake: Whitespace and commentary fixes
+256267,[RFC] dts: drivers: Generic dts defines for driver instantiation
+257122,Pull fixes & cleanups to dts extract script out of PR 9876
+260864,x86 stack overflow and test case improvements
+267336,drivers: gpio: Make PCA9535 driver generic to support multiple PCA95xx devices
+272502,Convert NXP drivers to DT_INST
+258952,drivers: eth_enc28j60: moved to dts
+262757,doc: bluetooth: Updates
+273623,drivers: atmel sam0: Convert atmel sam0 drivers to new DT_INST macros
+264427,doc: samples: cleanup board reference and layout
+264090,fix linker-built array padding issues on 64-bit targets
+259338,samples: mesh: nrf52: removed unwanted code
+266160,include: arch: riscv: rename global macro
+274152,dts: soc: atmel: sam: cleanup node labels to match SoC docs
+269599,Backport Batch 1.14
+269365,sanitycheck: Add option to use gcovr for coverage
+265598,dts: bindings: Add lots more documentation
+258724,cmake: Remove global include of board dir
+256731,cmake: Introduce a user-local configuration file
+259677,doc: Add top-level navigation grid
+254230,net: http: Provide destination address in http replies
+260840,shell: allow commands to suspend shell thread
+214374,Bluetooth: Mesh: Fixes for 1.9.2
+254093,[DNM] Trial - ignore
+268707,kconfig: doc: Split up symbol reference by path
+267839,Bluetooth: controller: Handle Read Remote version as a priority event
+267197,drivers: amg88xx: rework sensor driver to use DT
+209054,arch: sam3x: update Kconfig options after move to SAM SoC family tree
+255676,Sample meta-data cleanup and minor re-org
+259403,dts: stm32: Move usb PHY nodes out of SoC to fix warning
+256778,arch: stm32: gpio: give ability to set open-drain on pins
+255110,Still more scheduler-related refactoring
+256897,dts: arm: ti: Remove use of CONFIG_SOC_* from TI & Silabs SoC dts files
+261257,net_ip.h documentation enhancements
+256314,logging: Refactor log_output module
+214193,Cmake application development 
+259659,openthread: fix source IP address selection
+273941,Convert ARM CMSDK GPIO driver fully to devicetree (and associated users/references).
+213811,tests: sprintf: convert normal test to use ztest
+254015,spi: sam0: use Device Tree for configuration.
+260561,dts: flash_map: Automatically generate of the list of flash area
+255809,kconfig: Remove redundant 'default n' properties in arch/
+209042,arch: sam3x: update Kconfig options after move to SAM SoC family tree
+268747,64-bit cleanups for system calls
+267156,"shields: add Adafruit 2.8"" TFT Touch Shield v2."
+266669,Bluetooth: Mesh: Encrypt friend packets on send
+270047,Trivial renaming of 1 char variables in kernel
+273485,Support nested interrupts on AArch32 (non-Cortex-M)
+260209, boards: Rename mimxrt1050_evk to add -b suffix 
+257397,Add device tree support to eth_mcux.c 
+256722,Kconfig: Support macro expansion within symbol names
+259462, drivers: adc: Fix handling of invalid sampling requests
+272334,arch: arm: aarch64: linker.ld: Fix ROM section names
+255176,USB: netusb: Move status callback to functions
+264422,arch: arc: implement z_arch_switch to replace swap
+266734,arc: replace 32-bit instructions with possible 16-bit instructions
+260602,"scripts/dts cleanups, part 1"
+265380,dts/binding: Move clocks into base.yaml
+260733,tests: intel_s1000: Fix broken tests for Intel S1000 CRB
+261362,uart/ns16550: Use DT_ prefix for remaining device configs
+267897,dts: nordic: Use lowest IRQ priority level as defaults
+255483,Address some issues found with Valgrind
+256131,wpan_serial: Allow to build for other radios and doc update
+272990,Bluetooth: HCI: Re-organize vendor read static address handling
+265928,"net: Move include files outside of extern ""C"" block"
+259818,Use new SDK based on crosstool-ng
+270347,i2c: add i2c shell with scan cmd
+214592,[RFC] CMake: generate application management commands automatically
+272068,sys: onoff: move transition function specification to separate structure
+260790,doc: Add support for west in zephyr application extension
+209079,doc: spelling check doxygen comments include/
+274249,dts: i2c: Remove DT_I2C_._NAME references
+260419,power: Make power_state enum global
+264238,west: build folder format configuration option
+214477,LwM2M Optimization: Stack changes
+254363,Various doxygen and doc fixes and enhancements
+273251,remove stack usage reporting from the network stack
+258454,CI: Move scripting to a dedicated script
+260908,NRF: DT: Re-organize nodes
+266551,drivers/pci: remove legacy PCI support
+264383,x86: remove iamcu calling conventions
+266248,Bluetooth: GATT: Fixes
+259187,Ethernet common stats
+270415,TCP2 reordered ACK
+273728,soc: nordic_nrf: validate base addresses with new DT API
+269057,West sign with edtlib
+255287,Fixes to CoAP samples.
+267867,Bluetooth: Mesh: Model message macros
+214532,usb: netusb: Rework netusb/ecm
+260146,Shell: printf available safely from different threads
+268669,[TOPIC-GPIO] drivers: sensor: sht3xd: convert to new GPIO APIO
+255689,tests: obj_tracing: Enhance object counter logic
+256134,doc: cmake: Enable out-of-tree builds
+267394,nordic: Clean up nrfx inclusions
+269943,x86: improve exception debugging
+258686,drivers: watchdog: wdt_sam0: Convert Atmel SAM0 driver to the new API
+265906,Bluetooth: Host: Print error codes in hex
+256894,[WIP] drivers: i2c: Add dts support for i2c slaves.
+267241,fixes for CONFIG_BOOT_TIME_MEASUREMENT
+273628,drivers: litex: Convert litex drivers to new DT_INST macros
+266845,doc: editor pass on release notes
+258733,Enable IPM on i.MX7 SoC and boards
+270993,[TOPIC-GPIO] revisions to winc1500 driver PR
+258638,dts: i2c: cleanup CONFIG_I2C_x_IRQ_PRI
+262697,Bluetooth: controller: Set encryption procedure pending
+214533,Various fixes preparing for CMake branch merge
+255243,doc: genrest: Speed up documentation rebuilding
+268423,net: openthread: Update OpenThread version
+258374,serial: stm32: Use clock information from device tree
+257494,Fix apds9960 sample for arduino_101_sss board
+268139,Kconfig: Remove copy-pasted comments on some promptless symbols
+214868,Bluetooth: controller: Replace void * with memq_link_t
+261149,doc: Add more coverage documentation
+258273,MISRA-C fixes
+209569,Kinetis dts cleanup
+255721,kconfiglib: Fix incorrectly ordered props. for some multi.def symbols
+270436,Arch arm cortex m text section fix
+258823,soc: silabs_exx32: Simplify Kconfig options
+266279,[TOPIC: DTS] dtlib: Refactor node fetching + add _err() helper
+260682,power: Power Management state forcing
+260482,Bluetooth: Controller: Relates to #12860 No test builds these files
+274065,GPIO port pin mask DT helper
+254032,Making SPI Loopback Test more generic
+268384,Kconfig dt type
+260693,nxp: Convert to use DT_ prefixed defines
+213433,CODEOWNERS: use github handles
+259920,Cleanup QMSI and App based Power Management samples
+269996,"spi-nor: binding, test, and devicetree updates"
+269067,NXP: FlexTimer: Various clean-ups
+259221,MISRA-C fixes
+257647,subsys: fs: Migrate to new logging subsystem
+260186,Align LSM6DSL driver to DTS generated names
+257368,Bluetooth: shell: Transition the remaining parts to the new shell
+255283,drivers: i2s: intel_s1000: Support for fractional divider to generate BCLK
+273951,arch: arc: optimization for irq lock/unlock
+260880,drivers: modem: receiver: uart fixes and switch to ring buffer
+256236,[DNM][RFC]libc: move to using C typedef from GCC
+256571,Kconfiglib: Make header symbol order match .config files again
+260111,Convert several of the ARM CMSDK drivers to use DT_COMPAT defines
+209769,Bluetooth: controller: Various fixes related to conformance testing
+264740,Bluetooth: Mesh: Various fixes impacting qualification
+264409,Fix and improve 'west sign'
+213990,drivers: i2c: remove usage of bitfield access for cfg
+259439,subsys: nvs: Speed Improvement
+213584,Bluetooth: controller: Use random numbers in adv and enc setup
+266520,arch/x86: remove support for IAMCU ABI
+266569,doc: Use west everywhere to build and flash
+264825,[Backport v1.14-branch] Bluetooth: Mesh: Various fixes impacting qualification
+268767,Master branch hotfix: sanitycheck filter broken
+263472,cmake: Toolchain abstraction: Introduce toolchain_ld_userspace
+263162,bluetooth: controller: Allow out-of-tree vendor specific HCI commands
+255060,LwM2M: optimizations for 1.12
+257375,dt: Fix DTC warning
+256516,arch: xtensa: soc: intel_s1000: Add SYS_INIT for SoC initialization
+272540,Convert Microchip MEC drivers to DT_INST
+259755,remove k_alert API
+260558,x86: remove support for non-PAE page tables
+214784,"shell: Cleanup, fixes & refactoring"
+264225,posix: Clean up various headers
+209537,doc: change UTF-8 chars to sphinx inline replaces
+213894,Bluetooth: controller: Various nRF51 related optimizations related to qualification
+254987,LwM2M: various cleanups for v1.12
+270931,More SMP race fixing
+267038,"boards: update arduino_due to use gpio_sam driver, remove gpio_atmel_sam3 driver"
+255845,Arch arm v8m mpu refactor c file
+260137,Fix issue with SPI CS DTS generation
+261193,Switch logging to new net_pkt/net_context API
+255246,kconfig: Get rid of leading/trailing whitespace in prompts
+261005,Bluetooth: controller: llcp_req and llcp_ack operations are made atomic
+269193,Bluetooth: controller: Cleanup
+273878,boards: arm: Convert to new DT_INST macros
+272548,Convert stellaris drivers to DT_INST 
+264131,soc/x86: Apollo Lake refactorization
+258345,Add DTS support for winc1500
+259391,samples: mesh: additional improvements as per Mesh developer study guide
+257673,Revert linker warning series
+254096,Bluetooth: controller: Improved continuous scanning
+214210,Rework 6lo enablement and reduce prj.conf files content relevantly
+260877,"scripts/dts cleanups, part 5"
+272621,arch: aarch64: Rework exception entry/exit code
+258070,Cleanup Kconfig from board DTS
+214883,[WIP] Various Kconfig reorg and cleanups
+268652,nRF5 openocd support
+266263,arc: necessary bug fixes and optimizations
+213938,Kconfig cleanup and generalisation of HW stack protection feature
+270068,[TOPIC-GPIO] drivers: sensor: hts221: cleanup related to devicetree and trigger idiom
+256861,cmake: move ti_lm3s6965-specific code into the soc directory
+254501,Cleanup the ARM MPS2 SoC support
+267795,coccinelle: improve integer timeout script and fix missed cases
+257467,shell: parsing output LF character
+269712,[TOPIC-GPIO] boards: particle_*: update for new GPIO API
+273677,drivers: ieee802154: Convert to new DT_INST macros
+259859,net: Deprecating net-app API and users of it
+260919,"scripts/dts cleanups, part 6"
+264248,stdint.h: streamline type definitions
+257476,net: Make Kconfig template variables prettier
+261240,"scripts/dts cleanups, part 9"
+258477,"subsys: console: Split tty definitions into tty.h, to form its own API"
+258909,sensors: convert lis2dh to use information coming from dts
+214549,Bluetooth: Additional 1.9.2 fix
+272332,arch: arm: cortex_r: linker.ld: Fix ROM section names
+258793,samples: mesh: nrf52: make all transition timer dependent
+258229,menuconfig: Add two small error reporting and UI improvements
+259015,kernel: workq: queue: unify APis
+257290,kernel: remove single thread support
+214588,merge arm branch into master
+272672,Bluetooth: Fix GATT CCC issue with multiple local identities
+259324,Tiny IPv4/6 refactoring
+263931,Fix extra rx ftr pointer alias
+253986,Flash and device tree cleanups on nordic
+256595,Fix several issues in nRF5x entropy driver
+267370,Bluetooth: controller: Fix conn update to be cacheable
+261332,libc: fix CONFIG_STDOUT_CONSOLE semantics
+273593,MQTT over TLS for net sample test script
+253914,net: dhcp: Implement DNS server setting
+268307,[Backport v1.14-branch] Bluetooth: controller: Fix conn update to be cacheable
+254121,sam0: move the UART and SPI configuration into pinmux.
+261065,Drivers net_pkt switch api
+263713,soc: arm: move z_clearfaults() in kernel_arch_init()
+257566,genrest/menuconfig: Fix crash for promptless choices
+258014,samples: mesh: nrf52: minor improvements
+259622,cmake: Use variables for target names
+260859,soc: nxp_imx: Move code/data location configs to soc level
+269773,Bluetooth: Mesh: Refactor CCM
+272477,Convert watchdog drivers to use DT_INST_ defines
+272065,SDK 0.11.1 Support - make it required for Zephyr
+209737,Bluetooth: controller: Fix resolving list error handling
+259762,drivers: pinmux: add SPI2 on Port B defines
+258758,Arch arm linker style and arch fixes
+215028,CMake broke handling of CONFIG_MBEDTLS_BUILTIN=n
+271977,drivers: nrf: Fix UART TX hanging when using both polling and async API.
+257036,dts/arm/st: Fix dtc warning in stm32 *-pinctrl.dtsi files
+261454,"scripts/dts cleanups, part 10"
+262250,[Doc] Update ST-Link doc following debugging chapter introduction
+258248,Convert SPI intel driver to DTS
+268014,"tests: move test timeutil into ""unit"" directory."
+259845,sensor: bme280: Converting to using device tree
+265265,fcb: start using errno codes
+213617,DMA cleanups from Johann Fischer
+262528,NS16550 Kconfig -> devicetree
+261608,settings: always uses the storage partition for FCB
+269469,Bluetooth: Fix size-creep of RX/TX buffers & contexts
+259466,menuconfig: Add show-help mode
+259396,net: pkt: Show buffer allocations only when needed
+213782,tests: kernel: mutex: minor rework
+273880,tests: Convert to new DT_INST macros
+209090,Bluetooth: Reshuffle Kconfig options
+254502,Scheduler API cleanup
+270680,[TOPIC-GPIO] sensors: ccs811: update to new API
+254595,Bluetooth: Mesh: cfg_cli: Fix possible race condition
+213552,Various Makefile and Kconfig cleanup changes
+214548,Bluetooth: controller: Fix MIC error due to parallel Enc Proc
+263095,drivers/gpio/gpio_intel_apl: remove dependency on shared interrupts
+213632,doc: fix misspellings in include (API docs)
+255798,usb: remove all CONFIG_*_EP_ADDR options
+268786,Bluetooth: controller: split: Fix enc procedure reject handling
+261018,Bluetooth: GATT: Add BT_GATT_CCC_MANAGED
+256339,scripts: extract_dts_includes : Changes to prepare for code generation
+209768,Bluetooth: controller: Map debug pins to P3 pin head on nRF5x DK
+264704,lifo/fifo: first word is not always first 4 bytes
+257224,scripts: fix west launcher for macOS
+258196,USB: first step at unifying legacy and composite
+254504,kernel: Name of static functions should not begin with an underscore
+260070,DeviceTree: Convert 'generated_dts_board.h' into a source file
+256543,drivers: pinmux: stm32: complete stm32fx headers
+214105,Normalizing net_pkt hexdump
+264313,make the log facility compatible with 64-bit builds
+256669,samples: net: mbedtls: Remove apps using raw mbedtls APIs
+273883,samples: drivers: Convert to new DT_INST macros
+255997,arch: arm: beetle: Pull in CMSDK header for CMSIS support on Beetle
+255190,Bluetooth: Mesh: Fix IV Update duration tracking
+268788,Bluetooth: controller: split: Fix conn update to be cacheable
+267379,[TOPIC-GPIO] 2nd attempt at Handle logical interrupt setting in common layer
+255559,tests: kernel: Move tests/kernel/profiling to tests/kernel/threads
+215201,Misc. minor cleanup and fixes
+254882,USB: wpanusb: Refactor code according to the new standard
+262945,doc: review edits on 1.14 release notes
+270200,drivers: sensor: shell: Improved shell support for sensors
+262356,logging: kconfig: Make it clearer that SYS_LOG is legacy
+256435,Refactor IPv6 header length handling
+270278,shields: ssd1306: add support for SH1106 based 128x64 display
+214393,LwM2M: content formatter cleanups
+263739,Cleanup DTS support for SiFive peripherals
+259126,Checksum verifications 
+263178,Flash sim cleanup
+214063,drivers: Move STM32 serial driver to LL API
+273180,Bluetooth: host: Allow get local OOB data while advertiser is enabled
+262652,drivers/flash rework nrf driver using nrfx 1.7.1
+260324,fs/nvs: Improve init speed and remove fs->locked
+209632,Replace sanitycheck filters with keywords
+261789,kernel: CONFIG_THREAD_MONITOR thread list and iteration fixes
+254414,Various Kconfig grouping fixes
+265035,Misc. cleanup
+257347,Selected nrfx driver configuration
+268520,[TOPIC-GPIO] gpio: gecko: Add init macro and support for more ports
+265705,stm32: pinmux: spi: Opt for lower power consumption
+256113,Quark SE C1000 Power Management fixes
+274021,net: buf: Convert net_buf to use k_timeout_t where appropriate
+255216,boards: cc3220sf_launchxl: Make cc3220sf XIP by default
+209787,scripts: Convert gen_offset_header to Python
+258340,arch: isr_wrapper: Place _isr_wrapper closer to _IntExit
+258140,Bbc microbit cleanups to reduce board.h
+269548,kconfig: Remove redundant 'default n' and 'prompt' properties
+213940,Cleanup various #include syntax and preprocessor directives
+256365,userspace: app_shared_mem: Fixed incorrect implementation.
+273030,Removing unused 15.4 drivers
+264282,doc: remove .html from redirect entries
+272804,ignore - ci test
+255008,Build/flash/debug template file
+255104,dts: x86: derive RAM and ROM size from dts instead of Kconfig
+272783,Bluetooth: controller: split: fixes DLE conformance tests
+269206,samples: mesh: nrf52: Corrected & improved transition implementation
+262074,linker: Remove unused (OPTIONAL) from linker scripts
+259227,pci: Fix PCI and PCIe for up_squared
+261681,Arch arm mpu reduce run-time stack usage
+257359,Bluetooth: controller: Fix connection cancel deadlock
+267572,tests: convert util test to a unit test
+214039,Move Kconfig options from nxp_kinetis to mcux
+262542,USB: Webusb refactor stripping 'serial' and fix vendor reqs
+269090,scripts: gen_defines.py: Improve formatting in output and shorten main()
+255273,menuconfig: Add search and save/load improvements from upstream
+254638,net: events: change management event codes
+272776,kernel: mark time conversion functions as constexpr in C++14.
+260211, soc: nxp_imx: Promote driver defaults to soc series level
+264750,doc: use @rst/@endrst for ReST in comments
+258623,dts: Remove ifdef CONFIG_FS_FLASH_STORAGE_PARTITION from dts files
+259878,DTS updates for HTS221 Sensor
+263031,arch: all: Remove legacy code
+257767,Deprecate RPL
+264022,soc: stm32: Remove unused soc_register header file
+264460,printk: make it 64-bit compatible
+259417,logging: Refactor RTT backend to handle host absence
+262937,soc/x86/apollo_lake: strip leading zeros from decimal constants
+273633,drivers: sifive: Convert sifive drivers to new DT_INST macros
+265152,scripts/dts: add support for bytestring property values
+253923,"spi: sam0: fix txrx, NULL buffers, and add a stub async method."
+263636,Bluetooth: controller: split: Refactor if defines in ull.c
+260404,ARM ASM push / pop rework
+263030,Help and resources tweaks
+253991,Bluetooth: controller: Refactor mayfly integration into hal
+209434,samples: net: Fix README.rst file documentation
+265625,MEC1501 documentation improvement and fix for UART2 console
+214516,tests: bitfield: Convert legacy test case to ztest
+268398,[DNM] try to figure out why PR only fails on CI
+267073,x86: fix XIP SOC support and defaults
+258050,Added Device Tree Support for ILI9340 display driver
+261667, drivers: sensor: Refactor apds9960 to use const config struct
+260965,doc/guide/dts: DTS documentation add-on
+265182,arch: arc:  remove extern variables used in irq and exception handling
+256421,Shell kernel cmds adaptation
+254379,Move or refactor various dts.fixup from board to SoC
+258837,driver: refactor the arcv2 timer0 driver
+254134,Fix duplicated doxygen documentation in device.h
+263347,tests: timer_api: run in user mode
+257374,Bluetooth: Fixes for shell sample
+263357,[Backport v1.14-branch] tests: timer_api: run in user mode
+272556,IPv6 routing fixes when VLAN is enabled
+267849,doc: west fixes and updates to manifest.rst
+256606,dts: bindings: scan application dir for bindings
+259811,tests: i2c_slave_spi: update to new DT compatible naming
+215156,Various fixes for Ninja support
+272807,Bluetooth: Document bt_conn_unref in public API and fix missing unref in samples
+258474,samples: mesh: nrf52: minor changes to improve Mesh network performance.
+256507,samples/mesh: Fix dev_uuid initialization from identity address
+258322,sensors: bmi160: Add DTS support
+214247,tests: pending: Make use of ztest framework
+268765,drivers: pwm_nrfx: Fix the driver to allow changing period on the fly
+260272,drivers: i2c: dw: Convert to new DT_<COMPAT>_<INSTANCE> defines
+215154,sanitycheck enhancements: build with ninja
+256061,Serial driver migration to DT
+272771,Bluetooth: controller: legacy: Fix Data Length Tx Rx time
+258821,Cleanup ADC use of CONFIG_ -> DT_
+259070,tests: subsys: fs: multifs: Enable fs shell using new shell
+262129,kernel: fix atomic ops in user mode on some arches
+254853,arm: userspace: Rework system call arguments
+257088,Make dts required for sensor drivers
+256150,drivers: wdt: New watchdog test and fix for nrf driver
+256320,Kconfig: Clean up some symbol definitions
+255473,Fix USB Bluetooth (HCI SPI)
+265156,drivers: ssd16xx: rework (use bytestring property for LUT and registers)
+272505,Convert WWDT STM32 drivers to DT_INST
+270296,kernel/sched: Move thread suspend and abort under the scheduler lock
+214587,userspace: assign thread IDs at build time
+267130,runci script cleanup and minor fix.
+209194,Adjust how post-build data structures are generated
+258600,samples: mesh: nrf52: Removed bug in reassignment of transition type
+209035,Collection of changes from gerrit
+273074,Convert SAM SoC ADC drivers to DT_INST
+260266,app_shmem: auto-initialize partitions
+255850,Bluetooth: Add advertising data parsing helper
+272560,net: ipv6: Add network interface to various debug prints
+266180,Bluetooth: Mesh: Fix heartbeat sending on Friendship established/lost
+215079,boards: remove panther board
+272473,Convert mcux clock control to DT_INST defines.
+272692,sensor: ak8975: Convert to DTS
+260716,"scripts/dts cleanups, part 3"
+255741,ext: Kconfig: Remove redundant 'default n' properties
+264378,arch/x86: Kconfig cleanup
+270715,drivers: sensor: bma280: convert from Kconfig to devicetree
+270226,riscv: use standard MSTATUS
+270784,[TOPIC GPIO] Adapt winc1500 wifi driver to new API
+261831,drivers: can: fix multiple issues
+256204,userspace: adjust syscall generation scripts
+214027,doc: filter doc gen warnings
+256438,ICMPv4 cleanup
+209426,RPL header update and 6lo uncompression fixes
+209261,arch: arm: Fix SoC issues with Atmel SAM4S series.
+272180,up_squard_adsp: Fixes for the board
+262020,net: socket: Split select-related declaration to separate header
+257608,Cleaning up net samples/tests for obsolete SYS_LOG options
+260097,coc: move to markdown format
+260652,"scripts/dts cleanups, part 2"
+256382,tests: msgq: Add description and RTM links
+268469,bluetooth: controller: Move calculation of max_tx_octets to ULL
+259549,Timer fixes
+263160,samples: drivers: can: reduce board specifics
+255034,kconfig: Refactor kconfig.py to use __main__ and argparse
+214448,tests: route: Convert legacy test to use ztest framework
+258798,dts: flash: w25qxxdv: Add Device Tree Support for SPI FLASH w25qxxdv
+254409,arch: arm: Change method of __swap processing
+213893,lib: json: Fix crashes on xtensa/nios2
+256701,samples: net: coap: Remove apps using raw mbedtls APIs
+255715,Bluetooth: controller: Remove include guards in internal files
+254189,remove gdb_info and debug_info code
+255614,kernel: move thread monitor init to common code
+268864,arch: x86: Inline direct ISR functions.
+269096,[C++] Use malloc/free instead of k_malloc/k_free in operator new/delete
+270778,dts: gen_defines.py: Convert to use f-strings
+257893,logging: Added support for 15 arguments in log message
+254824,Add split_expr() helper to Kconfiglib and simplify genrest.py
+261343,Migrate DHCPv4 tests to new net_pkt API
+261538,USB: netusb: Cleanup and switch to USB transfer API
+267058,dts/Kconfig: Clean up few unused HAS_DTS_XXX symbols
+255177,CODEOWNERS: fix path syntax
+255173,CODEOWNERS: fix path syntax
+259398,ARM beetle/mps2_an385 dt fixes
+270749,[topic-gpio] Convert GPIO mesh on/off samples to the new GPIO API
+272307,SAM4E Fix USART drivers dependency
+209169,Xtensa fixes
+262165,Security documentation fixup
+259839,Update FXO8700 Sensor driver to use new DT defines
+257822,Fixing remaining SYS_LOG references in net
+255114,menuconfig: Make search more flexible and search prompts
+258954,cmake: Move declarations up.
+213567,doc: net_app: use definition list instead of bullets
+209562,kernel: remove gdb_server
+259803,drivers/interrupt_controller: stm32: Complete driver factorization
+259533,dts: nordic: simplify definition of flash and sram sizes in dts
+267584,samples: mesh: nrf52: amendment in States restoration implementation
+270378,include: crypto: Cleanup docstrings
+256207,Ipv4 cleanup
+260782,Netusb: fixes and adaptation to new net_pkt API
+268052,Bluetooth: host: Fix whitelist for non-central bluetooth applications
+255742,drivers: usb_dc_stm32: fix endpoint capabilities on STM32
+273368,drivers: designware: handle irq flags differences in driver
+268059,[Backport v2.0-branch] Bluetooth: host: Fix whitelist for non-central bluetooth applications
+255354,Imxrt1050 code adjustment
+258629,samples: mesh: nrf52: improvement in transition type reassignment & other optimization
+214011,tests: kernel: convert legacy test to use ztest 
+259496,usb: hid: macros for report descriptors
+262110,USB: netusb: Use standard frame size and cleanup
+262463,Bluetooth: Mesh: Fix re-initializing provisioning state upon reset
+265978,scripts: edtlib: Reduce code duplication in phandle/value list parsing
+264389,prf.c: make it 64-bit compatible
+255137,arch/soc/st_stm32: Move STM32Cube HAL core funtions
+257747,USB: Log: Fixes logger issues
+214569,tests/samples: add missing testcase.yaml
+255491,DTS for Intel S1000 IRQ priorities
+259093,Lis3dh dts
+269542,Bluetooth: ATT: Fix not handling errors properly
+258115,samples: usb: mass: rewrite documentation
+263254,"cmake: Toolchain abstraction: Linker abstraction Part 5 (cleanup, configure_linker_script)"
+268378,Dts i2c client cleanup
+261045,"scripts/dts cleanups, part 7"
+264321,several issues with the mempool code
+261125,ethernet driver net_pkt api switch and bug fix
+267596,Bluetooth: controller: split: Fix advertising for multiple peripherals
+256145,logging: Processing by default in the idle thread
+265681,i2c_ll_stm32: Use macros to add I2C instances
+257500,doc: usb: Use new USB API for sample code
+260876,samples: net: zperf: Refactor udp_received
+269709,scripts: dts: Remove deprecated extract_dts_includes.py script
+265295,native_posix: New timer driver aligned with new API
+254229,Bluetooth: UUID: Remove macros defining 16 bit values
+214447,tests: rpl: convert legacy test in ztest
+272546,Convert ARM IP drivers to DT_INST
+270072,dts: gen_defines.py: Rename *_dev() to *_node()
+209181,Xtensa crt1
+254567,net: sockets: Refactoring zsock_recvfrom
+255630,latest Arc fixes
+262754,arch: arc: fix the bug of mpu stack guard when no USERSPACE
+259384,soc: nrf52: move DCDC enable option out of board options
+214502,Remove redundant samples and tests
+259216,Revert due to build issues
+270580,Remove display samples covered by generic sample
+262874,doc: release notes cleanup
+260372,"Revert ""Implement net_context locking"""
+262209,USB: cdc_acm: use ringbuf library and fixes
+269166,kconfig: Detect all assignments to promptless syms + kconfig.py cleanup
+257018,net: gptp: Various gPTP fixes and improvements
+255764,RFC: shell: Refactor shell input registration
+258259,Bluetooth: Do not compile GATT response handlers if Client is disabled
+257191,samples: net: sockets: Unify on how TLS in socket samples is configured
+263815,STM32: Serial: Optimize code when LPUART is enabled
+259869,tests: nffs: Tweak Kconfig to fit in RAM
+265964,drivers: can: mcp2515: dts fixes
+258889,samples: mesh: nrf52: improvement in execution if trnasition time is Zero
+214449,tests: trickle: convert legacy test to ztest
+261093,doc: Clean up build instructions and use of variables
+214356,Bluetooth: controller: Fix flow control packet drop
+260595,arc: uncrustify MPU sources
+262219,ARC: fix issue with k_thread_create() handler checks for stack size
+254648,boards: delete duplicate arduino_101_ble board
+260804,"scripts/dts cleanups, part 4"
+273674,drivers: ht16k33: Convert to new DT_INST macros
+213510,ZEP-2236 net samples extra main thread
+270740,doc: genrest.py: Convert to use f-strings
+270952,[TOPIC-GPIO] updates for miscellaneous cleanup
+255779,doc: intel_s1000: Procedure to obtain toolchain
+263340,qemu_x86: fix flash configuration
+254639,Bluetooth: controller: Refactor to use max macro
+214673,doc: Use new Sphinx extension with the Getting Started doc
+209377,Refactor IPM mailboxes handling
+209417,IPM fixes
+270760,[topic-gpio] samples: reel_board: mesh_badge: Convert to the new GPIO API 
+213841,x86: cleanup _new_thread()
+258031,net: Add zero-configuration config to http_server and fix warnings
+273833,drivers: eeprom: at2x: use new DT_INST macros
+255301,arch: x86: Rename MSR-handling functions to conform to convention
+273195,sanitycheck: fix counting when using --test option
+253920,doc: guides: app: Rework for multi-OS support
+258234,cmake: fix code section ordering
+258096,Ipv4 autoconf and ethernet vlan cleanup
+266448,[TOPIC: DTS] dts: gen_defines: Remove lots of code duplication for phandle/val lists
+260793,Kconfig cleanup
+273450,cmake: Fix shield bug when BOARD_ROOT is a list
+260241,display: ssd1306: Convert to new DT_<COMPAT>_<INSTANCE> defines
+269268,Bluetooth: controller: openisa: sync with Nordic SW LL
+263917,Bluetooth: controller: split: Refactor if defines in lll_adv.c
+255639,Miscellaneous docs fixes
+261370,doc: net: Update the L2 documentation
+260217,app_shmem: delete parallel API for domains
+268571,drivers: gpio: remove altera gpio driver
+260702,shell: net: Switch to synchronous getaddrinfo call
+253953,Bluetooth: controller: Remove redundant PPI and CC
+256118,toolchain: make toochain include path available to zephyr
+265046,drivers: usb_dc_nrfx: cleanup
+272713,Bluetooth: tester: Fix configuration
+214882,ci: verify author identity
+209202,drivers: pwm: Remove implemenations of the depreciated PWM API
+266466,arch/xtensa: Clean up fatal error handling
+256877,CODEOWNERS: fix syntax
+268004,[TOPIC-GPIO] tests: gpio_api_1pin: fix port related testcases
+270687,Revert change causing multiple failure on qemu_x86_64
+264211,STM32: EXTI driver cleanup
+214621,tests: mutex: convert legacy test to ztest
+259200,SAM E70: fix Ethernet driver cache coherency issues and always enable data cache
+255684,usb: webusb: Strip CDC ACM function from the code
+273243,net: mqtt: add and use MQTT_UTF8_LITERAL() helper macro
+261208,include: misc: Use logger in STACK_ANALYZE macro
+213951,doc: improve API docs with sections
+214642,cmake: ext/hal/st/stm32cube: Fixed formatting and removed hal_uart
+260842,Cleanup x86 build scripts
+213691,net: Remove check for k_delayed_work_cancel
+266397,[1.14] cmake: Support SDK versions more broadly
+264277,Remove non-useful/non-working DT pinmux support
+214411,"Revert ""x86 : Memory domain implementation for x86"""
+264455,scripts/dts: Make extract/flash.py easier to read
+264146,x86: remove unused and x86 only latency benchmark
+214993,cleanup: remove nanokernel/nano leftovers
+257798,drivers: ssd1306: fixup dts support
+270533,spi: stm32: deduplicate code creating SPI instances
+214524,tests: fatal: convert legacy test to ztest
+270536,spi: stm32: deduplicate code creating SPI instances
+214807,Convert OpenSDA and mimxrt1050_evk docs to CMake
+261690,Migrate UDP tests
+259033,samples: net: MQTT sample cleanup and fix for BLE/IPSP and 
+257714,subsys: shell: removing legacy shell
+265886,cmake: Support SDK versions more broadly
+209711,i2c: remove I2C Slave Read config
+266267,scripts: pep8 gen_relocate_app.py
+215155,net: remove zoap library
+254579,posix: semaphore: fix bugs and simplify code
+273895,drivers: Convert to use DT_INST_FOREACH
+213948,API for validating user buffers + x86 implementation
+209780,Bluetooth: controller: Fix to use correct anchor for scanner
+273585,sifive: fix and re-enable gpio interrupts
+261805,Migrate ARP tests
+272194,Cleanup Xtensa reset vector code and up_squared_adsp bootloader
+268086,[TOPIC-GPIO] drivers: gpio_mcux: clean up interrupt code
+259686,drivers: i2c: remove deprecated i2c_atmel_sam3 driver
+259112,samples: net: zperf: Refactor zperf_*_receiver_init
+215123,scripts: fix tags.sh to current source tree
+261435,drivers: gpio: sifive: cleanup irq initialzation code
+273644,drivers: serial: uart_pl011: remove shared irq support
+254723,scripts: cleanup scripts directory
+258003,samples: mesh: nrf52: to solve pending issues after merging PR:9997 
+262403,Remove legacy SYS_LOG logger
+269580,Bluetooth: host: Rethink bt unpair all
+214479,LwM2M Optimization: Lower Defaults
+255936,samples: mesh/onoff_level_lighting_vnd_app: corrected state binding & overall architecture
+260519,USB: General fixes split from PR 12682
+256575,cmake: Rework how APPLICATION_MEMORY separates kernelspace
+257578,boards: arm: stm32_mini_a15: Remove deprecated board
+214913,Remove k_mem_pool_defrag
+254656,sample: net: echo-server: Cleanup config files
+214163,doc: remove obsolete v1 changes/porting docs
+270238,PPP double free fixes and minor improvements
+213575,Net settings fixes
+267289,Various GPIO cleanup commits
+257630,linker: use wildcards in rel-sections.ld
+254979,"Revert ""userspace: add support for dynamic kernel objects"""
+259299,examples: disco: Using generic board configuration.
+257778,logging: deprecate SYS_LOG_ macros
+273161,doc: Small Getting Started Guide cleanup
+254025,x86: remove HAS_DTS checking
+273176,Sanitycheck: Support --test-only after --build-only
+259937,Remove legacy MQTT library
+209408,flash : stm32l4x don't write 0xff
+270706,net: remove sample implementing NATS
+214462,serial: atmel_sam3: remove driver as it was deprecated
+263653,arch: remove unused tracing_arch.h
+260310,pinmux: remove pinmux dev
+256967,arm: exx32: Use one common soc.c for all exx32 socs
+260326,net: sntp: get rid of the callback function
+255263,samples/net: Migrated mbedtls_sslclient to use BSD sockets
+265081, drivers: bluetooth: hci: spi: Handle when the buffer is empty
+261794,drivers/timer/nrf_rtc_timer: Revert recent changes
+254459,arch: arm: cmsis: cleanup cmsis.h and update error-code macros
+214995,Remove obsoleted and unused kernel functions
+266444,Remove unused drivers
+254524,arch: arm: remove redundant asm inline headers
+256748,tracing: remove stray event_logger code
+261676,kconfiglib: Give more helpful hints for missing files
+262484,samples: remove mpu_stack_guard_test
+260417,power: Remove sys_is_valid_power_state() interface
+254848,Remove nrfxxx nwtsim
+266573,bluetooth: host: Bug fix in bt_uuid_create
+255757,arch: arm: nrf: Use SystemInit() from MDK in SoC initialization
+270258,"Revert ""spi: stm32: Enable sending 16bits at a time in 8bit mode if p…"
+256888,Udp cleanup
+260244,display: ili9340: Convert to new DT_<COMPAT>_<INSTANCE> defines
+256905,net/udp: Separating net_context from udp and other cleanup
+260239,modem: wncm14a2a: Convert to new DT_<COMPAT>_<INSTANCE> defines
+262748,"Misc Cleanup: unused Kconfig, scripts, test files."
+255361,gdb_server: Remove leftover testing and x86 parts
+267052,console: Remove deprecated function console_register_line_input
+254378,stm32cube: cmake: Pure refactoring of build script
+264466,drivers/clock_control: stm32: Leftover from driver clean up
+270154,tests: remove pinmux_basic_api test
+262778,samples: remove mem_domain_apis_test
+268814,dts: nxp: remove unused pinmux
+268776,samples: basic: Remove disco sample
+214742,doc: cleanup .known-issues filters
+258480,msys: Drop support for building in an MSYS environment
+269152,nrf52_bsim: Use HW models from new west module
+261412,ext: hal: nxp: imx: Fixed duplicit file device_imx.h
+260425,Remove obsolete net-app and http stuff
+259940,native_posix: Remove all references to the defunct legacy shell
+258386,Merge
+254980,build: simplify git describe call
+259522,samples/basic: Update readme for blinky/button/disco
+213931,misc: remove MAINTAINERS file
+258121,samples: up_squared: gpio_counter: Remove sample code
+255057,pinmux: remove user mode access
+214068,drivers: dma: remove deprecated API functions
+272676,random: remove rand32_timestamp.c
+258744,adc: ti_adc108s102: Remove driver as its bit-rotted
+256158,ext: hal: cmsis: Remove headers from old CMSIS import
+209254,samples: net: http: Remove obsolete files from server sample
+258043,drivers: watchdog: remove deprecated apis
+269554,samples: gpio: remove redundant application
+255785,lib: libc: minimal: Get rid of the bit (256-byte) charmap table
+270648,shields: remove link board can
+260576,tests: irq_offload: remove irq_offload test
+261320,doc: net: Change connectivity API doc to use BSD sockets
+255165,doc: update mac instructions
+262083,arch: arc: optimize the push and pop of fast irq
+209213,Cleanup last bits of !HAS_DTS
+267310,"arc: Remove bogus references to intel,qmsi-ss-{gpio,i2c}"
+214463,arm: nxp_kinetis: cleanup soc.h - remove unused defines
+265724,arch/x86: remove support for CONFIG_REALMODE
+209499,pinmux: pinmux_dev_k64 driver and related references are removed.
+267218,ci-test: remove old dts/dtc
+255865,Dma stm32 fix
+269736,Bluetooth: Host: Fix duplicate whitelist entries issue
+263451,crc: remove deprecated crc headers
+265302,cmake: Remove check_link_map.py
+261890,Bluetooth: tester: Move BTP specification to auto-pts repository
+266751,docs: fix errors/ambiguities in docs for Apollo Lake boards
+270637,drivers: can: flexcan: use initialization from MCUX v2.7.0
+265600,Integrate OpenThread over west
+265058,Move lvgl into a zephyr module
+213908,Bluetooth: doc: update GATT PICS file
+261731,arch: arc: fixes the hanlding of CONFIG_EXECUTION_BENCHMARKING
+255860,Ethernet fixes
+258045,samples: watchdog: Remove STM32 IWDG specific sample
+209306,tc: remove */defaults.tc
+213943,kernel: remove k_thread_spawn()
+262241,settings: remove dead code
+272278,arch: arc: fix the bug of irq_offload
+272151,usb: Remove unused usb_vbus logic
+266341,Bluetooth: Remove bogus files
+265826,arch: arc: remove custom atomic operations
+255357,samples: net: zperf: Remove config files for Galileo board
+261417,drivers/serial: ns16550: Remove unused Kconfig symbols
+260281,net: mqtt: Remove legacy MQTT headers
+254728,tests: net: tc: Run the tests only for qemu_x86
+270642,dts: stm32: Define stm32l073 as stm32l072 superset
+209271,doc: getting_started: Remove legacy MinGW instructions
+262099,"Revert ""doc: Add networking information to 1.14 release note"""
+209270,samples: net: http: Remove Arduino-101 config from server
+213558,drivers: pwm: Remove all deprecated APIs.
+262760,scripts: Remove checkconfig.py
+259976,Remove stale ILI9340 header file
+259921,ci: remove check-compliance script
+257618,scripts: cleanup unwanted updstreamed file
+261210,net: Remove the TODO file
+214420,net: udp: Remove subsys/net/ip/udp.h
+258825,adc: remove adc_ti_adc108s102.h
+267051,i2c: Remove deprecated functions
+261911,doc: remove local version of Sphinx searchtools.js
+274137,kconfig: Remove deprecated functions from kconfigfunctions.py
+215200,doc: remove unsupported doxygen options
+262228,fix the bug of mpu stack guard in kconfig
+265904,new target: qemu_riscv64
+209874,dts: stm32: uart clocks
+214059,Move Quark SE sensor subsystem to DTS
+264971,1.14 Backports
+270972,boards: stm32: Remove useless CONFIG_BOARD_FOO from _defconfig files
+260416,USB: Add testing of descriptor table allocation and fix for quark_se
+254890,Add device tree support for nios2f and nios2-qemu
+262867,enable PCB antenna on Particle boards
+260718,[RFC] [DNM] CAN frame work directory setup
+262980,Decouple system timer and drivers: SoC Initialization
+262466,boards: Enable GPIO by default on boards with nRF SoCs
+273925,samples: Move dts overlays under boards dir
+259715,Filter tests based on CMake variables.
+259511,Arch arm mpu regions index number in DTS
+273330,Initial support for I2C on STM32 H7
+214423,Reorganize device tree yaml to match dt binding dir structure
+267139,net: config: Add SYS_INIT handler to set clock from SNTP
+270812,modules: hal_nordic: Update nrfx to version 2.1.0
+213624,test boards that were modified with more coverage
+209356,Arduino 101 dts
+268119,Refactor CMSIS
+273652,net: ieee802154: Extend TX API with TX mode
+272895,drivers: entropy: gecko: add entropy driver based on GECKO TRNG
+253905,Add sensor dts support for nxp boards
+259657,fix MISRA-C rule 20.9 (#ifdef instead of #if)
+269723,drivers: eeprom: add EEPROM support for STM32L1 series
+264514,Bluetooth: Fix various deadlock issues when running low on buffers
+260747,Board doc updates and improvements
+214066,drivers: sensor: clean up Kconfig files
+209104,Bluetooth: Add ACL host flow control to the host side
+254456,Use DTS for nRF5 I2C
+266506,[TOPIC: DTS] Update ADC nodes for io-channel-cells
+273110,drivers: adc: Add STM32L1X ADC support
+269574,samples: boards: Merge nrf91/ with nrf52/ and rename it to nrf/
+253942,dts: bindings: add support for the flash driver name
+257299,Better structure POSIX API (inter)dependencies
+254569,Add SPI support to STM32L0 and enable SPI1 port on NUCLEO-L073RZ
+209799,dts: arm: Add soc container node missing properties
+265669, drivers: spi: spi_ll_stm32: manage slave select and long line cleanup
+209183,Xtensa sdk pr
+213977,cmake: more susbystems and samples
+255867,net: l2: Move the layer 2 code into subsys/net/
+263366,Bluetooth: controller: Assorted ULL/LLL fixes
+269133,kconfig: Remove assignments to promptless SOC_FAMILY_NRF symbol
+253987,arm: nxp: update flash controller to use device tree
+273970,coccinelle: update timeout support script and apply patches
+214340,Cmake port more samples
+260896,boards: x86/xtensa: Add device tree support for USB 
+269348,sample/sensortile_box: update to the new GPIO API
+261232,tests: move testsuite and configs into subsys/
+264835,drivers: ethernet: Fix STM32F7 Ethernet with DMA
+257226,dts: arm: st: Remove use of CONFIG_SOC_* from STM32 F0 dts files
+262858,Decouple system timer and drivers: UART
+264026,[WIP] Decouple system timer from drivers
+265185,Bluetooth: Mesh: Move under subsys/bluetooth/mesh
+262752, board: stm32_min_dev: Add support for blue/black variant
+254544,Add I2C support to STM32L0 and enable I2C1 port on NUCLEO-L073RZ
+214069,Flash layout extensions
+262176,Doc and board fixes for CONFIG_BT_DEBUG_MONITOR
+257116,boards/arm: Fix button dts syntax for stm32 based boards
+209107,TEST PR
+209098,test PR
+209056,ext: simplelink: Restructure CC3220SDK as SimpleLink SDK
+259421,soc: silabs: add Kconfig options to independently enable compilation of vendor HAL library modules
+263687,drivers: counter: nrfx_timer: Add detection of late alarm request
+255393,Force assertions enabled for all test case builds
+262710,kernel: demote K_THREAD_STACK_BUFFER() to private
+268250,samples: Add PSK support for echo client/server
+265090,drivers: usb/stm32: use dts information to populate clock settings
+214821,Group networking and display drivers API Documentation and cleanup
+209873,dts: arm: Add unit-address component to memory and flash nodes
+265250,More coverage backports to v1.14
+258207,Add DTS support for m2gl025_miv platform
+258406,dts: Update STM32 PWM device tree binding/nodes for #pwm-cells
+273803,Zephyr unittest fix
+214277,boards: stm32f3_disco: Add I2C support
+261211,bluetooth: controller: Update slot reservation time calculation for ADV
+264169,[Backport v1.14-branch] Fix reschedule so that it won't break nested locks
+263962,Fix reschedule so that it won't break nested locks
+267857,tests/subsys/settings: build common code as zephyr_libraries
+268580,cmake: x86 and xtensa toolchain updates for SDK 0.11
+253908,dts: add SPI device support
+214935,Add I2C support for nucleo_f091rc board
+265670,Stm32mp1 i2c arduino
+268328,Update min flash
+265261,tests: net: stop whitelisting
+265167, boards: shields: Introduce frdm_cr20a shield
+255495,tests: benchmarks: Disable userspace for benchmarks
+267719,boards: nrf: Add pwm-led0 alias in all Nordic DKs with enabled PWM node
+264729,Stm32mp1 i2c arduino
+213872,Cmake: add more tests/samples and drivers
+263248,ext/hal/st/stm32cube/stm32l1xx: rename SVC_IRQn -> SVCall_IRQn
+264614,Bluetooth: hci_uart: Use DT to find UART and assert if not resolved
+213695,Usb: Implement SET_INTERFACE and add missing definitions
+255274,dts/nxp: Fix dtc v1.4.6 warnings on nxp boards/socs
+268557,Sanitycheck dts awarness
+261664,cmake: clang: Support host's clang for non-MCU x86 targets on Linux
+254921,Boards: Update nucleo_f429zi to fit new default configuration guidelines
+267842,doc: fix broken file and zephyr-app refs
+273881,samples: sensor: Convert to new DT_INST macros
+209865,net: tests: Enable net tests for all suitable platforms
+261215,Out of tree (driver) configuration support
+213442,net: Add missing __cplusplus checks to includes
+269218,Bluetooth: controller: Add missing BT_DEBUG_ENABLED define
+260498,"Use external memories by default on mimxrt10{20,60}_evk boards"
+264115,NXP: Add SPI support to KE1xF SoC and TWR-KE18F development board
+267161,[WIP] Prototype / hack of integration of DTS into sanitycheck
+256656,samples: bluetooth: move GATT services to subsys/bluetooth
+254207,deprecate ZEPHYR_GCC_VARIANT and reorg toolchain files
+259805,i.MX RT networking fixes after SDK 2.5.0 update
+260168,Drivers: Uart: Add hardware flow control support for STM32
+264241,Enable STM32WB I2C
+262541,tests: adjust stack size for mps2_an385's coverage test
+209675,Misc. Kconfig and testcase fixes and enhancements
+209652,Use device tree to generate CONFIG_UART_CONSOLE_ON_DEV_NAME defines
+255827,cmake: LD: Specify the entry point in the linker scripts
+272834,net: lwm2m: Add Queue Mode support
+256146,Type fixes to resolve newlib vs. minimal lib build issues
+265141,tests: kernel: move arch-specific kernel tests under arch subdirectory
+261304,drivers: flash: add driver for STM32F1x series
+267107,drivers/timer/hpet.c: migrate to devicetree
+255991,dts: STM32: Provide clocks properties for I2C and SPI nodes
+262044,net: ethernet: Define and use Ethernet frame and datagram size
+213735,Bluetooth: controller: Add Minimum Number of Used Channels Proc
+269915,include: respect line limit in api pointer initialization
+273318,Support V1.14 with 0.10.3 SDK
+214288,Disco iot sensors configuration
+262223,scripts: Remove unused variables and imports from all Python scripts
+209481,doc: spelling fixes in samples/ and boards/
+209593,ext: lib: mbedtls: Enable and set heap size at device startup
+209447,license: add missing licenses and copyright
+214331,kernel: fix k_thread_stack_t definition
+259883,boards: Add arduino_i2c in yaml when supported
+257270,dts: arm: st: Remove use of CONFIG_SOC_* from STM32 F1 dts files
+272212,More SMP fixes: races on _current_cpu
+267455,cmake: add app dts root as search location for overlay files
+265880,Cortex r prep
+266691,doc: add how to exit from QEMU in samples
+258624,dts: Remove mcuboot.overlay
+270797,Counter: Remove generic use of DT_RTC_0_NAME dts fixup
+254935,fs: Convert NFFS partition to a generic one
+274045,drivers: entropy_nrf5: Use device name and IRQ priority from DTS instead of Kconfig
+272538,Fix multiple Kconfig warnings when building samples/hello_world
+260531,drivers: pwm: nrf: Use HW PWM by default when available
+255913,[DNM] Arch arm zephyr custom cmsis header removal
+254563,"boards: Add ""ram"" and ""flash"" properties for a number of boards"
+259226,STM32: Fix clock bus for STM32F0 GPIO
+258802,dts: spi: cleanup CONFIG_SPI_x_IRQ_PRI
+264554,doc: fix misspellings in documentation
+215134,cmake: Introduce Zephyr interface libraries
+255787,kconfig: Shield experimental features under a Kconfig option
+270270,boards/arm: dts: fix formatting
+213669,Fixes for XCC compiler
+255671,tests: move all interrupt related tests to interrupt folder
+269914,Move cloud based samples into one folder
+262694,stm32: watchdog rename
+270866,[TOPIC-GPIO] roll-up conversion of GPIO_INT_ACTIVE_foo flags
+269793,[TOPIC-GPIO] drivers: sensor: Convert fxos8700 to new gpio api
+256892,docs: fixed documenation pointers
+261734,kconfig: gpio: Remove lots of redundant GPIO dependencies
+261273,drivers: nrf_power_clock: Migrate to DTS.
+255311,CMake: Fix posix library compilation error
+214501,Use quote include instead of system include
+263443,dts: stm32f7: Remove DTCM from sram0
+214875,generate artifacts based on Kconfig defined by SoC/Board
+261954,kconfig: drivers: bluetooth: clean up Kconfig dependencies 
+267957,soc: stm32: Minor fixes in Konfig symbols
+213497,"drivers, net: Clean up semaphore initialization"
+266995,Added (sub-)sections .gcc_except_table to linker scripts
+263275,Bluetooth: controller: Make ULL/LLL split the default
+255706,cmake: bluetooth: Don't #include gatt files from src files
+209866,dts: some minor cleanups
+214295,kernel: Provide only one _SYSCALL_HANDLER() macro
+214325,kernel: Provide only one _SYSCALL_HANDLER() macro
+209637,Cleanup samples & tests related to shell
+272861,Bluetooth: HCI_UART: Update main stack and refactor conf files
+266850,tests: subsys: settings: functional: nvs & fcb split for CI
+256231,Bluetooth: Mesh: Various Kconfig related tweaks
+214349,doc: Fix misspellings in header/doxygen comments
+214139,doc: replace UTF-8 chars
+261011,soc: stm32: Explicit rules in Kconfig.defconfig hierachy + minor optmization
+256333,POSIX arch: Do not disable warnings
+268389,tests: new updated names for the kernel tests
+253958,dts: Update soc-nv-flash nodes
+269181,boards: arm: Add missing supported features to nxp imx rt boards
+266042,Sifive prep 64bit
+272162,dts: Fix some warnings when we build dts files
+262478,doc: fix misspellings in docs/code API comments
+213555,Misc. buildsystem and doc changes
+268459,arch: arc: kconfig: Define CPU_EM* + FP_FPU_DA outside Kconfig.defconfig files
+258862,Misra 14 4 fixes
+213765,object_footprint: don't adjust IDT size
+256728,Kconfig: Get rid of ENV_VAR_* prefixes + use new preprocessor syntax for env. vars
+266298,Added Kconfig choice for c library impl. + corrected newlib dependencies 
+254051,kernel: include: rename nano_internal.h to kernel_internal.h
+259512,openthread: Update to the latest upstream/master.
+262846,doc: add missing doc top labels
+257824,Move grove devices to existing categories
+255295,Arm user mode
+255986,Xtools and SDK related changed
+259287,Various doxygen fixes
+255465,boards: frdm_kl25z: add USB support
+261311,tests: Mass SMP disablement on non-SMP-safe tests (part 3 of 3)
+262597,Count sample tests into reports and fix misc. test identifiers
+213479,Introduce a Kconfig COMPILE_TEST option for compile only tests
+264814,"tests: new sanitycheck tag ""emu_time""; increase some timeouts"
+268236,"board: reel board: add pwm led, update mesh_badge sample, revise SPI routing"
+267361,drivers: fix k_thread_create timeout argument
+263183,cmake: Toolchain abstraction: Linker abstraction Part 1
+254826,soc: mps2_an385: Added support for MPU
+263117,Remove direct usage of CONFIG_SYS_CLOCK_HW_CYCLES_PER_SEC
+254671,Cleanup: Replace old JIRA IDs with GH issues
+213456,tests: net: limit tests to boards with enough memory to build them
+267334,arch/x86: move arch-specific thread_state flags to thread_arch struct
+261310,tests: Mass SMP disablement on non-SMP-safe tests (part 2 of 3)
+265100,support reference to board-provided dts include files from application overlays
+214650,cmake: Use -serial bt-server when CONFIG_BT
+269889,include/drivers: remove implicit casts from api pointer initialization
+209252,kernel: sparse fixes
+257992,assorted misra-c fixes
+257572,Kconfig: Remove redundant $(ZEPHYR_BASE) from 'source's
+270765,can: Introduce can-primary alias
+274062,drivers: gpio: cleanup select HAS_DTS_GPIO
+255545,Remove/fix all references to undefined Kconfig symbols in Kconfig* files
+257133,Support kconfig root convention
+273957,Bluetooth & net: Fix samples and tests to pass correct timeouts
+261308,tests: Mass SMP disablement on non-SMP-safe tests (part 1 of 3)
+259584,Make options depend on their features
+257228,MISRA-C general fixes
+255362,Fix k_sleep() timeouts in net
+257067,Log panic in fault handlers
+262895,Decouple system timer and drivers: SPI
+262343,stm32f407Xg: RAM is 128K + 64K CCM
+261397,kconfig: Remove redundant 'default n' properties
+270859,global: Fix up leading/trailing blank lines in files
+214078,tests: consolidate memory protection tests
+269199,boards: arm: nrf: change board docs to link to Nordic Infocenter
+214749,Usb: USB Device Stack fixes and improvements
+213939,Re-org scripts/ folder and group scripts
+214146,Fix various include issues
+263483,doc: fix mentions of Wi-Fi trademark name
+255970,"[RFC] [DNM] dts: bindings: remove nordic,nrf-uarte from dts/dtsi/overlays/bindings"
+256157,DMA: allow to use arbitrary user data in its callback
+262259,scripts: Remove unnecessary () around if/while conditions in Python
+266076,dts: edtlib: Some small refactorings
+259476,doc: regular misspelling scan
+264834,dts: remove unused clock-controller property
+270010,Bluetooth: L2CAP: Cleanup & fixes
+266944,scripts: Fix random typo'd whitespace
+257387,Permanently fix a dtc warning
+260249,Convert LED drivers to not require dts_fixup.h
+270570,Bluetooth: Always use full path to hci_driver.h
+258569,samples: boards: Rename microbit dir to bbc_microbit
+258843,usb: add SoF event
+269537,samples & tests: Correct main() type
+267875,Bluetooth: Switch to NVS Settings backend by default
+213540,doc: spelling fixes in docs
+264794,usb: sort usb config data by section
+272267,board: arc: Disable gap filling in output .hex
+266960,kconfig: modules: Trivial cleanup
+257709,kernel: Misra C related changes
+268553,doc: fix misspelling in API doxygen comments
+213846,k_thread_abort(): fail assert if abort essential thread
+258557,kernel: ensure System Power Managment enables Tickless Idle.
+209724,Fix samples/net/wpanusb/test_15_4 to only build on platforms that have support features
+261446,"doc: fix docs, include, and Kconfig misspellings"
+256281,"CONFIG_ARC_INIT is set to 'n' by default, cleanup prj.confs"
+255316,cmake: remove usage of zephyr_library_ifdef 
+267079,Fix shield sample build issue for x_nucleo_iks01a2
+261103,Fix posix newlib / disable posix lib on native_posix arch
+255028,subsys: fs: fix generic storage partition selection undesirably depends on flash_map module
+213561,all SYS_LOG_* configs need to depend on SYS_LOG
+209692,Bluetooth: Fix MAX_PAIRED and CCC usage
+214613,"Revert ""tests: mesh: Convert legacy test to use ztest"""
+260526,net: lib: mqtt: Get rid of _sock suffix
+258221,Kconfig: dts: Move HAS_DTS to arch level
+209550,test: fix misspellings
+209130,doc: misspellings in Kconfig files
+256099,dts: yaml: Fix extract_dts_includes.py warnings
+268658,linker: move where we define _LINKER and _ASMLANGUAGE
+267124,boards: Clean up references to env variable PROJECT_SOURCE_DIR
+253898,tests: enable object tracing in kernel tests [DNM/WIP]
+214279,boards: stm32f4_disco: Add CONFIG_GPIO_STM32_PORTD
+213945,Fixed Xtensa Sim/ESP32 board dependencies
+270478,boards: kconfig: Do not assign promptless SERIAL_HAS_DRIVER
+258988,kernel: Remove _IntLibInit function
+273489,Remove what's left of ext/
+257249,Select HAS_DTS_I2C in drivers instead of boards
+254983,kconfig: Drop support for CONFIG_TOOLCHAIN_VARIANT
+266729,doc: fix files mis-named as PNG files
+253915,boards: Move default pinmux enable to <board>_defconfig
+265329,dts/bindings: remove stale cell_string
+270581,Move LVGL sample to samples/display
